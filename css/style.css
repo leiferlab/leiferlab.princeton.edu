@@ -1039,22 +1039,29 @@ input:focus, textarea:focus {
 			background:url(../img/carousel-macbook-background.png) 0 360px repeat-x;
 		}
 		.carousel.macbook .carousel-macbook {
-			width:500px;	
+			height:430px;	
 			width:928px;
 			left:-142px;
 			height:auto;
 		}
 		.carousel.macbook {
-			height:420px;
+			height:430px;
 		}
 		.carousel.macbook .item {
-			margin-top:34px;
-			margin-top:64px;
+			margin-top:90px;
 		}
 		.carousel.macbook .carousel-inner {
-			width:440px;
-			height:300px; 
+			width:426px;
+			height:326px; /* height of item + margin */
+			/*dimension of item is 426 x 236 px */ 
 		}
+		
+		.carousel-inner { /* Added by Andy */
+			margin-left: auto;
+			margin-right:104px; /*Position the items in the monitor frame */
+		}
+		
+		
 		.carousel.macbook .carousel-control {
 			margin-top:-75px;
 			color:transparent;
