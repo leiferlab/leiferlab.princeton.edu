@@ -974,7 +974,7 @@ input:focus, textarea:focus {
 		position:relative;
 		border:0;
 		width:100%;
-		height:550px;
+		height:556px;
 		margin:0 auto;
 		padding:0;
 	}
@@ -985,28 +985,26 @@ input:focus, textarea:focus {
 		display:block;
 		position:absolute;
 		overflow:hidden;
-		width:770px;
-		width:1175px;
-		max-width:1175px;
+		height:556px;
+		width:1142px;
+		max-width:1142px;
 		top:0px;
 		left:-117px;
 	}
 	.carousel.macbook .item {
 		overflow:hidden;
-		margin-top:120px;
+		margin-top:111px; /*position the item in the monitor frame */
 	}
 	.carousel.macbook .carousel-inner {
-		width:538px;	
-		height:412px;
+		width:523px; /*width of item */
+		height:401px; /* height of item + margin-top */
 		/* margin:0 auto; */
+		/* This corresponds to a image dimensions of 523 x 290 */
 	}
 	
 	.carousel-inner { /* Added by Andy */
 		margin-left: auto;
-		margin-right: 93px;
-		/*padding-top:65px;*/
-		
-		/* adjust padding top to scootch the carosoul object down */
+		margin-right:120px; /*Position the items in the monitor frame */
 	}
 
 	
