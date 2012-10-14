@@ -959,7 +959,7 @@ input:focus, textarea:focus {
 	margin-bottom:20px;
 }
 .lead-container .container {
-	padding:20px 0 20px 0;
+	padding: 20px 0 20px 0;
 }
 
 	/* --------------------------------------------------------	*/
@@ -968,17 +968,17 @@ input:focus, textarea:focus {
 
 	.lead-container {
 		overflow:hidden;
-		background:url(../img/carousel-macbook-background.png) 0 410px repeat-x;
+		background:url(../img/carousel-macbook-background.png) 0 420px repeat-x;
 	}
 	.carousel.macbook {
 		position:relative;
 		border:0;
 		width:100%;
-		height:470px;
+		height:550px;
 		margin:0 auto;
 		padding:0;
 	}
-	.carousel .carousel-macbook {
+	.zusel .carousel-macbook {
 		display:none;
 	}
 	.carousel.macbook .carousel-macbook {
@@ -993,15 +993,25 @@ input:focus, textarea:focus {
 	}
 	.carousel.macbook .item {
 		overflow:hidden;
-		margin-top:42px;
+		margin-top:120px;
 	}
 	.carousel.macbook .carousel-inner {
-		width:512px;	
-		height:348px;
-		margin:0 auto;
+		width:538px;	
+		height:412px;
+		/* margin:0 auto; */
 	}
+	
+	.carousel-inner { /* Added by Andy */
+		margin-left: auto;
+		margin-right: 93px;
+		/*padding-top:65px;*/
+		
+		/* adjust padding top to scootch the carosoul object down */
+	}
+
+	
 	.carousel.macbook .carousel-control {
-		margin-top:-65px;
+	/*	margin-top:-65px;*/ /* Move them up a bit */
 		background-color:#8E8B89;
 
 		-webkit-border-radius:50%;
@@ -1031,8 +1041,8 @@ input:focus, textarea:focus {
 			background:url(../img/carousel-macbook-background.png) 0 360px repeat-x;
 		}
 		.carousel.macbook .carousel-macbook {
-			width:620px;	
-			width:1008px;
+			width:500px;	
+			width:928px;
 			left:-142px;
 			height:auto;
 		}
@@ -1041,10 +1051,11 @@ input:focus, textarea:focus {
 		}
 		.carousel.macbook .item {
 			margin-top:34px;
+			margin-top:64px;
 		}
 		.carousel.macbook .carousel-inner {
 			width:440px;
-			height:300px;
+			height:300px; 
 		}
 		.carousel.macbook .carousel-control {
 			margin-top:-75px;
