@@ -119,6 +119,12 @@ ul li:hover i[class^="icon-"] {
 .grey {
 	color:#999
 }
+
+.orange{
+	color:#f58025; /* The color in the shield */
+	color:#f26513;  /*A darker orange */
+}
+
 .hidden {
 	display:none;
 }
@@ -775,42 +781,50 @@ input:focus, textarea:focus {
 .navbar .nav-responsive {
 	display:none;
 }
-.navbar .brand {
+
+.navbar .brand{
+	color:#000;
+}
+.navbar .brand, .brand>span {
 	font-weight:bold;
 	font-size:36px;
 	letter-spacing:-2px;
 	line-height:0.7em;
-	color:#000;
-	-webkit-transition:all 0.1s;
-	-moz-transition:all 0.1s;
-	-o-transition:all 0.1s;
-	-ms-transition:all 0.1s;
-	transition:all 0.1s;
+	-webkit-transition:all 0.2s;
+	-moz-transition:all 0.2s;
+	-o-transition:all 0.2s;
+	-ms-transition:all 0.2s;
+	transition:all 0.2s;
 }
-.navbar .brand:hover {
-	color:#7ED090;
+
+
+.navbar .brand:hover, .brand:hover > span   {
+	color:#7ED090;	
 }
+
+
+
 .navbar .nav {float:right}
 .navbar .nav > li:hover {
-	border-bottom:1px solid #ccc;
+	border-bottom:1px solid #ccc; /* old boring gray */
+	
 }
 .navbar .nav > li.active {
 	border-bottom:1px solid #aaa;
-
 }
 .navbar .nav > li.active > a, 
 .navbar .nav > li.active:hover > a {
 	background:none;
 	font-weight:bold;
 	font-weight:normal;
-	color:#000;
+	color:#000;	
 }
 .navbar .nav > li {
 	margin:4px 0 0 10px;
 	position:relative;
 }
 .navbar .nav > li a, .navbar .nav > li a:hover {
-	text-decoration:none;
+	text-decoration:none;	
 }
 .navbar .nav > li > a {
 	color: #444!important;
@@ -818,11 +832,50 @@ input:focus, textarea:focus {
 	text-shadow: 0 -1px 0 rgba(255,255,255, 0.25);
 }
 .navbar .nav > li > a:hover {
-	color:#222;
+	color:#222;	
 }
 .navbar li a {
 	display:block!important;
 }
+
+	/* --------------------------------------------------------	*/
+	/*	Navigation - logo */
+	/* --------------------------------------------------------	*/
+
+	.logo {
+		background-image: url(../assets/PUShield.png);
+		width:31px;
+		height:40px;
+	}
+
+	.logo:hover {
+		background-image: url(../assets/PUShield_glow.png);		
+	}
+
+	.logoright {
+		margin :0;
+		margin-top:-5px;
+		margin-left:20px;
+		padding: 0;
+		/*float:right;*/
+	}
+
+	.logoleft {
+		margin :0;
+		margin-right:10px; 
+		padding: 0;
+		display:visible;
+		float:left;
+	}
+
+	.logomiddle {
+		margin :0;
+		margin-left:-10px;
+		padding: 0;
+		float:left;
+	}
+
+
 	/* --------------------------------------------------------	*/
 	/*	Navigation - dropdown */
 	/* --------------------------------------------------------	*/
