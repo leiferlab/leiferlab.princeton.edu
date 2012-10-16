@@ -215,6 +215,7 @@ footer p {
 	line-height:1.4em;
 }
 
+
 	/* --------------------------------------------------------	*/
 	/*	Footer - Social networks */
 	/* --------------------------------------------------------	*/
@@ -782,26 +783,33 @@ input:focus, textarea:focus {
 	display:none;
 }
 
-.navbar .brand{
-	color:#000;
-}
-.navbar .brand, .brand>span {
-	font-weight:bold;
-	font-size:36px;
-	letter-spacing:-2px;
-	line-height:0.7em;
+
+
+/*Slow everything down in navbar and brand related thingies*/
+.navbar .brand, .brand a, .brand span{
 	-webkit-transition:all 0.2s;
 	-moz-transition:all 0.2s;
 	-o-transition:all 0.2s;
 	-ms-transition:all 0.2s;
+}
+
+
+.navbar .brand{
 	transition:all 0.2s;
+	font-weight:bold;
+	font-size:36px;
+	letter-spacing:-2px;
+	line-height:0.7em;
 }
 
-
-.navbar .brand:hover, .brand:hover > span   {
-	color:#7ED090;	
+.navbar .brand, .brand a{
+	color:#000;
 }
 
+.brand a:hover, .brand a:hover>span{ /*hovering links in brand and spans in such links */
+		color:#7ED090;
+		text-decoration: none;	
+	}
 
 
 .navbar .nav {float:right}
@@ -861,6 +869,7 @@ input:focus, textarea:focus {
 
 	.logoleft {
 		margin :0;
+		margin-top:-10px;
 		margin-right:10px; 
 		padding: 0;
 		display:visible;
