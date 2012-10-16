@@ -849,7 +849,6 @@ input:focus, textarea:focus {
 	}
 
 	.logo:hover {
-		background-image: url(../assets/PUShield_glow.png);		
 	}
 
 	.logoright {
@@ -2280,84 +2279,47 @@ input.animated:focus {
 }
 
 /* --------------------------------------------------------	*/
-/*	Social networks icons - sprite */
+/*	Social networks icons - font-awesome */
 /* --------------------------------------------------------	*/
+
 
 .social-network { 
 	display:inline-block; 
-	background: url(../img/social-networks.png) no-repeat top left; 
-	width: 32px; 
-	height: 32px; 
-	background-position-y: -42px; 
+	font-size: 32px;
 	-webkit-transition:all 0.2s ease;
 	-moz-transition:all 0.2s ease;
 	-o-transition:all 0.2s ease;
 	-ms-transition:all 0.2s ease;
 	transition:all 0.2s ease;
-
 	cursor:pointer;
+	color:rgb(153,153,153);
+	padding:0;
+} 
+
+.social-network:hover{
+	text-decoration:none;
 }
-/* default state */
-.social-network.addthis{ background-position: 0 -42px}
-.social-network.behance{ background-position: -42px -42px}
-.social-network.blogger{ background-position: -84px -42px}
-.social-network.digg{ background-position: -126px -42px}
-.social-network.dribbble{ background-position: -168px -42px}
-.social-network.facebook{ background-position: -210px -42px}
-.social-network.flickr{ background-position: -252px -42px}
-.social-network.gplus{ background-position: -294px -42px}
-.social-network.gplus2{ background-position: -336px -42px}
-.social-network.instagram{ background-position: -378px -42px}
-.social-network.lastfm{ background-position: -420px -42px}
-.social-network.like{ background-position: -462px -42px}
-.social-network.linkedin{ background-position: -504px -42px}
-.social-network.livejournal{ background-position: -546px -42px}
-.social-network.myspace{ background-position: -588px -42px}
-.social-network.myspace2{ background-position: -630px -42px}
-.social-network.paypal{ background-position: -672px -42px}
-.social-network.picasa{ background-position: -714px -42px}
-.social-network.pinterest{ background-position: -756px -42px}
-.social-network.reddit{ background-position: -798px -42px}
-.social-network.rss{ background-position: -840px -42px}
-.social-network.sharethis{ background-position: -882px -42px}
-.social-network.skype{ background-position: -924px -42px}
-.social-network.spotify{ background-position: -966px -42px}
-.social-network.stumbleupon{ background-position: -1008px -42px}
-.social-network.tumblr{ background-position: -1050px -42px}
-.social-network.twitter-old{ background-position: -1092px -42px}
-.social-network.twitter{ background-position: -1134px -42px}
-.social-network.vimeo{ background-position: -1176px -42px}
-.social-network.wordpress{ background-position: -1218px -42px}
-.social-network.youtube{ background-position: -1260px -42px}
-/* mouseover state */
-.social-network.addthis:hover,.active .social-network.addthis{ background-position: 0 0}
-.social-network.behance:hover,.active .social-network.behance{ background-position: -42px 0}
-.social-network.blogger:hover,.active .social-network.blogger{ background-position: -84px 0}
-.social-network.digg:hover,.active .social-network.digg{ background-position: -126px 0}
-.social-network.dribbble:hover,.active .social-network.dribbble{ background-position: -168px 0}
-.social-network.facebook:hover,.active .social-network.facebook{ background-position: -210px 0}
-.social-network.flickr:hover,.active .social-network.flickr{ background-position: -252px 0}
-.social-network.gplus:hover,.active .social-network.gplus{ background-position: -294px 0}
-.social-network.gplus2:hover,.active .social-network.gplus2{ background-position: -336px 0}
-.social-network.instagram:hover,.active .social-network.instagram{ background-position: -378px 0}
-.social-network.lastfm:hover,.active .social-network.lastfm{ background-position: -420px 0}
-.social-network.like:hover,.active .social-network.like{ background-position: -462px 0}
-.social-network.linkedin:hover,.active .social-network.linkedin{ background-position: -504px 0}
-.social-network.livejournal:hover,.active .social-network.livejournal{ background-position: -546px 0}
-.social-network.myspace:hover,.active .social-network.myspace{ background-position: -588px 0}
-.social-network.myspace2:hover,.active .social-network.myspace2{ background-position: -630px 0}
-.social-network.paypal:hover,.active .social-network.paypal{ background-position: -672px 0}
-.social-network.picasa:hover,.active .social-network.picasa{ background-position: -714px 0}
-.social-network.pinterest:hover,.active .social-network.pinterest{ background-position: -756px 0}
-.social-network.reddit:hover,.active .social-network.reddit{ background-position: -798px 0}
-.social-network.rss:hover,.active .social-network.rss{ background-position: -840px 0}
-.social-network.sharethis:hover,.active .social-network.sharethis{ background-position: -882px 0}
-.social-network.skype:hover,.active .social-network.skype{ background-position: -924px 0}
-.social-network.spotify:hover,.active .social-network.spotify{ background-position: -966px 0}
-.social-network.stumbleupon:hover,.active .social-network.stumbleupon{ background-position: -1008px 0}
-.social-network.tumblr:hover,.active .social-network.tumblr{ background-position: -1050px 0}
-.social-network.twitter-old:hover,.active .social-network.twitter-old{ background-position: -1092px 0}
-.social-network.twitter:hover,.active .social-network.twitter{ background-position: -1134px 0}
-.social-network.vimeo:hover,.active .social-network.vimeo{ background-position: -1176px 0}
-.social-network.wordpress:hover,.active .social-network.wordpress{ background-position: -1218px 0}
-.social-network.youtube:hover,.active .social-network.youtube{ background-position: -1260px 0}
+
+.social-network.icon-twitter:hover{
+	color:rgb(0,192,247);
+}
+
+.social-network.icon-facebook:hover{
+	color:rgb(59,89,152);
+	/*text-shadow: 0 0 0.4em white,0 0 0.4em white ;*/
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white
+	
+}
+
+.social-network.icon-github:hover{
+	color:rgb(225,95,18);
+}
+
+.social-network.icon-vimeo:hover{
+	color:rgb(242,116,144);
+}
+
+.social-network.icon-linkedin:hover{
+	background-color:rgb(56,147,196);
+	color:white;
+}
