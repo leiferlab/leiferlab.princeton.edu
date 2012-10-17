@@ -11,9 +11,13 @@
 /* --------------------------------------------------------	*/
 /*	Base */
 /* --------------------------------------------------------	*/
+/*
+color:#f58025; */ /* The color in the shield */
+/* color:#f26513;  */ /*A darker orange */
 
-::-moz-selection { background: #BADC7F; color: #fff; text-shadow: none; }
-::selection { background: #BADC7F; color: #fff; text-shadow: none; }
+
+::-moz-selection { background: #f58025; color: #fff; text-shadow: none; }
+::selection { background: #f58025; color: #fff; text-shadow: none; }
 :focus { outline-color: transparent!important; outline-style: none!important; }
 
 html {
@@ -59,10 +63,13 @@ h1, h2, h3, h4, h5, h6 {
 h3, h4, h5 { font-weight: 600; margin: 0 0 10px 0; }
 
 a {
-  color: #0088cc;
+  /*color: #0088cc;*/
+	/*color:#f26513;*/
+	/* color:rgb(242, 106, 70);*/
+	color:#C13900;
   text-decoration: none;
 }
-a:hover { color: #005580; text-decoration: underline;}
+a:hover { color: #8F2500; text-decoration: underline;}
 
 p {}
 hr {
@@ -807,7 +814,10 @@ input:focus, textarea:focus {
 }
 
 .brand a:hover, .brand a:hover>span{ /*hovering links in brand and spans in such links */
-		color:#7ED090;
+		/*color:#7ED090;*/
+		text-shadow: 0 0 0.2em gray ;
+		/*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
+		
 		text-decoration: none;	
 	}
 
@@ -1022,6 +1032,10 @@ input:focus, textarea:focus {
 .lead-container .container {
 	padding: 20px 0 20px 0;
 }
+
+
+
+
 
 	/* --------------------------------------------------------	*/
 	/*	Macbook carousel */
@@ -2316,7 +2330,7 @@ input.animated:focus {
 .social-network.icon-facebook:hover{
 	color:rgb(59,89,152);
 	/*text-shadow: 0 0 0.4em white,0 0 0.4em white ;*/
-	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 	
 }
 
