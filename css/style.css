@@ -78,8 +78,7 @@ hr {
 	height:1px;
 	/*border-top:1px solid #eee;*/
 	background: #eee;
-	color: #efefef;
-
+	color: #efefef; 
 }
 blockquote {
 	background:url(../img/blockquote.png) 16px 16px no-repeat #f3f3f3;
@@ -1714,6 +1713,7 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 		}
 
 		.ie7 .tags a {padding:1px 8px;margin:0;}
+
 
 
 	/* --------------------------------------------------------	*/

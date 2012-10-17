@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 
 		// initialize carousel
 		$('[rel=carousel]').carousel({
-		      interval: 8000
+		      interval: 10000
 		    });
 		// initialize tooltip
 		$('[rel=tooltip]').tooltip();
