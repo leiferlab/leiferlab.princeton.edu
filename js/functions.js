@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 
 		// initialize carousel
 		$('[rel=carousel]').carousel({
-		      interval: 10000
+		      interval: 12000
 		    });
 		// initialize tooltip
 		$('[rel=tooltip]').tooltip();
@@ -33,6 +33,9 @@ jQuery(document).ready(function($) {
 	    });
 
 
+
+
+
 	/* --------------------------------------------------------	
 		External links
 	   --------------------------------------------------------	*/	
@@ -42,6 +45,9 @@ jQuery(document).ready(function($) {
 			$('a[rel=external]').attr('target','_blank');
 			
 		});
+		
+
+		
 
 	})();
 
@@ -98,6 +104,16 @@ jQuery(document).ready(function($) {
 				var span = $('<span>').addClass('zoom-overlay').html('&nbsp;').css('top',$height/2);
 				$this.append(span);
 			})
+			
+			
+			
+			/* --------------------------------------------------------	
+				Andy's Hack to do equal heights
+				Taken from: http://www.broken-links.com/2009/01/20/very-quick-equal-height-columns-in-jquery/
+			   --------------------------------------------------------	*/	
+
+			   	$(".equalizeHeight").equalHeights();
+		 	
 
 		});
 
