@@ -1425,6 +1425,7 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 		background:white;
 		font-size:0.9em;
 		color:#666;
+		line-height:18px;
 	}
 	.project .project-description b {
 		font-weight:600;
