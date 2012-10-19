@@ -75,10 +75,10 @@ p {}
 hr {
 	background:none;
 	border:none;
-	height:1px;
+	height:3px;
 	/*border-top:1px solid #eee;*/
-	background: #eee;
-	color: #efefef; 
+	background: #898989;
+	color: #efefef;
 }
 blockquote {
 	background:url(../img/blockquote.png) 16px 16px no-repeat #f3f3f3;
