@@ -782,7 +782,7 @@ input:focus, textarea:focus {
 
 .navbar {
 	padding-top:0px;
-/*	margin-bottom:60px;*/
+	margin-bottom:60px;
 }
 .navbar .container {
 	width: 940px;
@@ -1042,6 +1042,11 @@ input:focus, textarea:focus {
 	padding:0px 0 0;
 	margin-bottom:10px;
 }
+
+.lead-container#frontpage{
+	margin-top:-47px; /*Andy added this to scootch up the main image on the front page */
+}
+
 .lead-container .container {
 	padding: 20px 0 20px 0; /* Decrease top and bottom margins */
 }
