@@ -2352,6 +2352,13 @@ input.animated:focus {
 	padding:6px;background:#fff;border:1px solid #aaa;
 	margin:20px 0 0;
 }
+
+#pic {
+	padding:6px;background:#fff;border:1px solid #aaa;
+	margin:0;
+	margin-bottom:10px;
+}
+
 #map-shadow {
 	margin-top:-4px;width:100%;
 	margin-bottom:20px;
