@@ -39,10 +39,17 @@ body {
 body {
 	background: url(../img/background.png) 0 90px repeat-x #fff;
 }
+
 @media (max-width: 979px) and (min-width: 768px) {
+	/*  This is only necessary for when the Navbar has to be split into two lines, e.g.
+	/* when the logo is on the top and the nav buttosn are on the bottom.
+	/* all this little thing does is it moves the background image down more pixels 
+	
 	body {
 		background: url(../img/background.png) 0 120px repeat-x #fff;
 	}
+	*/
+
 }
 @media (max-width: 767px) {
 	body {
@@ -1128,8 +1135,32 @@ input:focus, textarea:focus {
 	/* --------------------------------------------------------	*/
 
 	@media (max-width: 979px) and (min-width: 768px) {
+		.navbar .navbar-inner .brand{
+			width:auto; /* Andy: Don't force there to be too lines when we go to the shorter mode */
+		}
+		
+		
+		/* Move the navigation buttons to be aligned to the right */
+		 .nav ul{
+			float:right;
+		}
+		
+		/* Make the navigation text smaller so that they fit */
+		.nav li {
+			font-size:.95em;
+		}
+		
+		/* Make the navigation boxes closer together */
+		.navbar .nav > li > a {
+			margin-left:4px;
+			margin-right:0;
+			padding-right:0;
+			padding-left:0;
+			}		
+				
+		
 		.lead-container {
-			background:url(../img/carousel-macbook-background.png) 0 360px repeat-x;
+				background:url(../img/carousel-macbook-background.png) 0 360px repeat-x;
 		}
 		.carousel.macbook .carousel-macbook {
 			height:430px;	

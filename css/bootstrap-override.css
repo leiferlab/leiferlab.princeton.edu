@@ -259,7 +259,7 @@
 @media (max-width: 979px) and (min-width: 768px) {
   .navbar .navbar-inner .nav {
     margin-left:-14px;
-    float:left!important;
+    /*float:left;*/ /*Andy: This allows the rest of the navbar (not the logo) to stay floating to the right */ 
   }
   .navbar .navbar-inner .brand {
     width:100%;
