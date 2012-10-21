@@ -2409,3 +2409,15 @@ input.animated:focus {
 	background-color:rgb(56,147,196);
 	color:white;
 }
+
+
+/* --------------------------------------------------------	*/
+/*	Publications related (Andy) */
+/* --------------------------------------------------------	*/
+.publications >li {
+	margin-bottom:2em;
+	margin-left:1.2em;
+	padding-left:2em;
+	text-indent: -1em;
+}
+
