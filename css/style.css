@@ -1819,9 +1819,13 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 		-moz-border-radius:4px;
 		border-radius:4px;
 	}
-	.member:hover .member-networks a {
+	
+
+	.member:hover .member-position {
 		color:#F26A46
 	}
+	
+
 	.member .member-avatar {
 		position:absolute;
 		top:50%;
@@ -1851,16 +1855,35 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 		height:128px;
 		width:128px;
 	}
-	.member:hover .member-avatar {
+	.member:hover .member-avatar{
 		background:#F26A46;
 		padding:10px;
 		left:24px;
 		margin-top:-70px;
 	}
+	
+	.member:hover .member-avatar>p{
+	color:white;
+}
+	
 	.member .member-name {
 		margin:0;
-		color:#0082CC;
 	}
+	
+	.member-avatar >p{
+		font-size:3em;
+		font-weight:bold;
+		
+		position:relative;
+		display:block;
+		margin:0;
+		text-align:center;
+		width:100%;
+		height:100%;
+		line-height:128px;
+	}
+	
+	
 	.member .member-position {
 		color:#aaa;
 		margin:0 0 10px 0;
@@ -1872,7 +1895,7 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 		color:#666;
 
 	}
-	.member .member-bio {
+	.member .member-bio, .member .member-contact  {
 		font-size:0.9em;
 		color:#666;
 	}
