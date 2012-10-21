@@ -2415,9 +2415,16 @@ input.animated:focus {
 /*	Publications related (Andy) */
 /* --------------------------------------------------------	*/
 .publications >li {
-	margin-bottom:2em;
+	line-height:120%;
+	margin-bottom:1.2em;
 	margin-left:1.2em;
 	padding-left:2em;
 	text-indent: -1em;
 }
 
+/* --------------------------------------------------------	*/
+/*	General Purpose Text Blocks (Andy) */
+/* --------------------------------------------------------	*/
+.textblock {
+	margin-bottom:3em;
+}
