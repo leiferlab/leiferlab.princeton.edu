@@ -1,18 +1,3 @@
-<?php
-/* Define a function that accepts the current page and the target link 
-/* If the current page and the target link are the same, this function
-/* echos the string "active," otherwise it echos nothing, ""      */
-function checkActive($currfile, $linktarget){
-	if strncmp($currfile,$linktarget){
-		echo 'active';
-	}
-	else{
-		echo '';
-	}	
-}
-	
-?>
-
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
