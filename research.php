@@ -8,14 +8,16 @@
 
 
 	<div class="hero-unit">
-		<p>We're looking for talented researchers.</p> 
+		<p>Optical neurophysiology of behavior</p> 
 	</div>
 	<div class="meaty">
-	<p>Our work spans many disciplines. If you have a background in molecular biology, neuroscience, physics, engineering or programming and are interested in applying your skills towards learning how neural circuits drive behavior, then please contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> by email.	
+	<p>The Leifer lab uses optical neurophysiology techniques, such as optogenetics and calcium imaging, to study the neural basis of behavior in the nematode <i>C. elegans</i>.
+			
+			
 	<hr />
 
-<h3>Post-docs</h3>
-<p>Exceptional post-doctoral candidates should send a CV and two letters of reference.</p>
+<h3>Why C. Elegans?</h3>
+<p>The nematode <i>C. elegans</i> </p>
 
 <h3>Graduate Students</h3>
 <p>Current or incoming Princeton graduate students interested in a rotation should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting.</p>

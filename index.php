@@ -134,7 +134,7 @@
 			<p>
 				Our lab seeks to understand how neural circuits encode complex behavior by combining techniques from neuroscience, physics, engineering and computer science. In particular, we study the model organism <i>C. elegans</i>, a microscopic worm with a simple nervous system capable of rich behaviors. We have pioneered optogenetic microscopy techniques  to optically manipulate and monitor neural activity in worms as they move.
 			</p>
-			<p><a class="" href="#">Read more &raquo;</a></p>
+			<p><a class="" href="research.php">Read more &raquo;</a></p>
 		</article>
 
 	<!--	<article class="span4">
