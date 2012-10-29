@@ -163,7 +163,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">The Leifer Lab</b> is a new member of the <a href="http://www.princeton.edu/neuroscience/">Princeton Neuroscience Institute</a>.
+					<b class="project-name">The Leifer Lab</b> will be joining<!--is a new member of--> the <a href="http://www.princeton.edu/neuroscience/">Princeton Neuroscience Institute</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
