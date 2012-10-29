@@ -18,7 +18,7 @@ The public html folder is at:
 	/Genomics/local/leiferlab/www/
 
 The commands to create the post-hook on the server is:
-	$ cat > hooks/post-recieve
+	$ cat > hooks/post-receive
 	#!/bin/sh
 	GIT_WORK_TREE=/Genomics/local/leiferlab/www git checkout -f
 	
@@ -40,7 +40,7 @@ The bare repo is at
 	/home/leifer/leiferlab.sandbox.git
 
 The post-recieve hooks for that repo are:
-	$ cat > hooks/post-recieve
+	$ cat > hooks/post-receive
 	#!/bin/sh
 	GIT_WORK_TREE=/home/leifer/wiki/www/html/sandbox git checkout -f
 	
