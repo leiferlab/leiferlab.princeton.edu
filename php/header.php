@@ -66,10 +66,10 @@
 						<li class="active"><a href="index.html" title="Home">Home</a></li>
 						<li><a href="research.html" title="Research">Research</a></li>
 						<li><a href="publications.html" title="Publications">Publications</a></li>
-						 <li><a href="people.html" title="People">People</a></li> 
+						 <li><a href="people.php" title="People">People</a></li> 
 						<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
 						<li><a href="positions.html" title="Positions">Positions</a></li>
-						<li><a href="contact.html" title="Contact us">Contact</a></li>
+						<li><a href="contact.php" title="Contact us">Contact</a></li>
 					</ul>
 				</div><!-- end .container -->
 				
