@@ -22,7 +22,7 @@ The commands to create the post-hook on the server is:
 	#!/bin/sh
 	GIT_WORK_TREE=/Genomics/local/leiferlab/www git checkout -f
 	
-	$ chmod +x hooks/post-recieve
+	$ chmod +x hooks/post-receive
 
 To setup a name for the remote repo, which we will call "deploy" run the following
 	$ git remote add deploy ssh://leifer@gen200l.princeton.edu/home/leifer/leiferlab.princeton.edu.git
@@ -44,7 +44,7 @@ The post-recieve hooks for that repo are:
 	#!/bin/sh
 	GIT_WORK_TREE=/home/leifer/wiki/www/html/sandbox git checkout -f
 	
-	$ chmod +x hooks/post-recieve
+	$ chmod +x hooks/post-receive
 
 To add the name for the sandbox repo to the local repository, run:
 	$ git remote add sandbox  ssh://leifer@gen200l.princeton.edu/home/leifer/leiferlab.sandbox.git
