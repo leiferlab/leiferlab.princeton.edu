@@ -1,4 +1,5 @@
 <?php 
+	$currfile = basename(__FILE__); 
 	include('php/header.php');
 ?>
 	<section id="content" class="container">
