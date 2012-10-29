@@ -1,6 +1,6 @@
 
 <?php 
-	%currfile= basename(__FILE__); 
+	$currfile = basename(__FILE__); 
 	include('php/header.php');
 ?>
 	

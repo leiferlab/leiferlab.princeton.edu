@@ -78,8 +78,6 @@
 		</nav>
 
 	</header>
-	<h1> inside  Header.php: <?php  echo basename(__FILE__, '.php'); ?> </h1> 
-
 	<!-- Content
 	================================================== -->
 	<!-- End of php/header.php -->
