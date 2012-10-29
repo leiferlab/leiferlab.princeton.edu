@@ -65,7 +65,7 @@
 					<ul class="nav">
 						<li class="active"><a href="index.html" title="Home">Home</a></li>
 						<li><a href="research.html" title="Research">Research</a></li>
-						<li><a href="publications.html" title="Publications">Publications</a></li>
+						<li><a href="publications.php" title="Publications">Publications</a></li>
 						 <li><a href="people.php" title="People">People</a></li> 
 						<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
 						<li><a href="positions.html" title="Positions">Positions</a></li>
