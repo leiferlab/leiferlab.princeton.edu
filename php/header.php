@@ -3,11 +3,13 @@
 /* If the current page and the target link are the same, this function
 /* echos the string "active," otherwise it echos nothing, ""      */
 function checkActive($currfile, $linktarget){
-	if strncmp($currfile,$linktarget)
+	if strncmp($currfile,$linktarget){
 		echo 'active';
-	else
-		echo '';	
 	}
+	else{
+		echo '';
+	}	
+}
 	
 ?>
 
