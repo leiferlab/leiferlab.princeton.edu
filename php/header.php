@@ -3,12 +3,11 @@
 /* If the current page and the target link are the same, this function
 /* echos the string "active," otherwise it echos nothing, "" */
 function checkActive($currfile, $linktarget){
-if (strncmp($currfile,$linktarget)){
-echo 'active';
+if (strcmp($currfile,$linktarget)==0){echo 'active';
 }
 else{
 echo '';
-}	
+}
 }
 
 
@@ -79,13 +78,13 @@ echo '';
 
 					<a href="http://www.princeton.edu" class="logo logomiddle hidden"></a> 	
 					<ul class="nav">
-						<li class="active"><a href="index.php" title="Home">Home</a></li>
-						<li><a href="research.html" title="Research">Research</a></li>
-						<li><a href="publications.php" title="Publications">Publications</a></li>
-						 <li><a href="people.php" title="People">People</a></li> 
+						<li class="<?php checkActive($currfile, 'index.php');  ?>"><a href="index.php" title="Home">Home</a></li>
+						<li class="<?php checkActive($currfile, 'research.php');  ?>"><a href="research.html" title="Research">Research</a></li>
+						<li class="<?php checkActive($currfile, 'publications.php');  ?>"><a href="publications.php" title="Publications">Publications</a></li>
+						 <li class="<?php checkActive($currfile, 'people.php');  ?>"><a href="people.php" title="People">People</a></li> 
 						<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
-						<li><a href="positions.html" title="Positions">Positions</a></li>
-						<li><a href="contact.php" title="Contact us">Contact</a></li>
+						<li class="<?php checkActive($currfile, 'positions.php');  ?>"><a href="positions.php" title="Positions">Positions</a></li>
+						<li class="<?php checkActive($currfile, 'contact.php');  ?>"><a href="contact.php" title="Contact us">Contact</a></li>
 					</ul>
 				</div><!-- end .container -->
 				
