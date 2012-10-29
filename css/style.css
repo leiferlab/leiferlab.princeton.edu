@@ -206,6 +206,7 @@ ul li:hover i[class^="icon-"] {
 .meaty p {
 	margin: 1em;
 	font-size:0.9em;
+	line-height:20px;
 	color: rgb(102,102,102);
 }
 
