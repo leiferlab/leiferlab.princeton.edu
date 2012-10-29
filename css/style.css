@@ -200,11 +200,10 @@ ul li:hover i[class^="icon-"] {
 /*	Meaty Content */
 /* --------------------------------------------------------	*/
 .meaty  > h3 {
-	margin-top:2em;
+	margin-top:1.65em;
 }
 
 .meaty > p {
-	margin-top: 1em;
 	margin-bottom: 1em;
 	font-size:0.9em;
 	line-height:20px;
