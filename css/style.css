@@ -199,12 +199,13 @@ ul li:hover i[class^="icon-"] {
 /* --------------------------------------------------------	*/
 /*	Meaty Content */
 /* --------------------------------------------------------	*/
-.meaty h3 {
+.meaty  > h3 {
 	margin-top:2em;
 }
 
-.meaty p {
-	margin: 1em;
+.meaty > p {
+	margin-top: 1em;
+	margin-bottom: 1em;
 	font-size:0.9em;
 	line-height:20px;
 	color: rgb(102,102,102);
