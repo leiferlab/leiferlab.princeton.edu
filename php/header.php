@@ -1,3 +1,16 @@
+<?php
+/* Define a function that accepts the current page and the target link 
+/* If the current page and the target link are the same, this function
+/* echos the string "active," otherwise it echos nothing, ""      */
+function checkActive($currfile, $linktarget){
+	if strncmp($currfile,$linktarget)
+		echo 'active';
+	else
+		echo '';	
+	}
+	
+?>
+
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -56,14 +69,14 @@
 					<div class="brand">
 						<a href="http://www.princeton.edu" class="show logo logoleft"></a> 	
 					
-						<a  href="index.html">
+						<a  href="index.php">
 							 <span class="orange">Leifer</span>Lab
 						</a>
 					</div>
 
 					<a href="http://www.princeton.edu" class="logo logomiddle hidden"></a> 	
 					<ul class="nav">
-						<li class="active"><a href="index.html" title="Home">Home</a></li>
+						<li class="<?php checkActive($currfile, 'index.php');  ?>"><a href="index.php" title="Home">Home</a></li>
 						<li><a href="research.html" title="Research">Research</a></li>
 						<li><a href="publications.php" title="Publications">Publications</a></li>
 						 <li><a href="people.php" title="People">People</a></li> 

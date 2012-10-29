@@ -1,4 +1,6 @@
+
 <?php 
+	%currfile= basename(__FILE__); 
 	include('php/header.php');
 ?>
 	
@@ -9,7 +11,6 @@
 <div class="lead-container" id="frontpage">
 <div class="container">
 
-<h1> Insided index.php: <?php echo basename(__FILE__, '.php'); ?> </h1>
 	<!-- Macbook carousel -->
 	<!-- Images should be 523 x 298 -->
 	<div id="carousel" class="carousel slide macbook" rel="carousel">
