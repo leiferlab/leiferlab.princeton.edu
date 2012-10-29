@@ -76,7 +76,7 @@ function checkActive($currfile, $linktarget){
 
 					<a href="http://www.princeton.edu" class="logo logomiddle hidden"></a> 	
 					<ul class="nav">
-						<li class="<?php checkActive($currfile, 'index.php');  ?>"><a href="index.php" title="Home">Home</a></li>
+						<li class="active"><a href="index.php" title="Home">Home</a></li>
 						<li><a href="research.html" title="Research">Research</a></li>
 						<li><a href="publications.php" title="Publications">Publications</a></li>
 						 <li><a href="people.php" title="People">People</a></li> 
