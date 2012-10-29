@@ -10,6 +10,7 @@
 	<div class="hero-unit">
 		<p>We're looking for talented researchers.</p> 
 	</div>
+	<div class="meaty">
 	<p>Our work spans many disciplines to push the boundaries of optical neurophysiology. If you have a background in molecular biology, neuroscience, physics, engineering or programming and are interested in applying your skills towards learning how neural circuits drive behavior, then please contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> by email.	
 	<hr />
 
@@ -25,6 +26,7 @@
 <h3>Post-Bacs</h3>
 <p>Send a CV and references to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a>.</p>
 
+</div>
 	</section>
 
 
