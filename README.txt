@@ -51,4 +51,13 @@ To add the name for the sandbox repo to the local repository, run:
 	$ git push sandbox +master:refs/heads/master
 
 
+Everywhere
+----------
+
+Sometimes its useful to push everyone at once. Here's how you can set that up on the local client. Edit .git/config:
+
+	[remote "everything"]
+		url = ssh://leifer@gen200l.princeton.edu/home/leifer/leiferlab.sandbox.git
+		url = ssh://leifer@gen200l.princeton.edu/home/leifer/leiferlab.princeton.edu.git
+		url = git@github.com:leiferlab/leiferlab.princeton.edu.git
 
