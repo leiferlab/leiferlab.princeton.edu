@@ -79,7 +79,7 @@ echo '';
 					<a href="http://www.princeton.edu" class="logo logomiddle hidden"></a> 	
 					<ul class="nav">
 						<li class="<?php checkActive($currfile, 'index.php');  ?>"><a href="index.php" title="Home">Home</a></li>
-						<li class="<?php checkActive($currfile, 'research.php');  ?>"><a href="research.html" title="Research">Research</a></li>
+						<li class="<?php checkActive($currfile, 'research.php');  ?>"><a href="research.php" title="Research">Research</a></li>
 						<li class="<?php checkActive($currfile, 'publications.php');  ?>"><a href="publications.php" title="Publications">Publications</a></li>
 						 <li class="<?php checkActive($currfile, 'people.php');  ?>"><a href="people.php" title="People">People</a></li> 
 						<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
