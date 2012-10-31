@@ -154,7 +154,7 @@
 
 			<div class="thumbnail equalizeHeight">
 				<!-- image -->
-				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute">
+				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute" target="_blank">
 					<!--298x186 -->
 					<img src="assets/PNIlogo.png">
 				</a>
@@ -163,7 +163,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">The Leifer Lab</b> will be joining<!--is a new member of--> the <a href="http://www.princeton.edu/neuroscience/">Princeton Neuroscience Institute</a>.
+					<b class="project-name">The Leifer Lab</b> will be joining<!--is a new member of--> the <a href="http://www.princeton.edu/neuroscience/" target="_blank">Princeton Neuroscience Institute</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
@@ -173,12 +173,12 @@
 		<!-- end portfolio item-->
 		<article class="span4 project">
 			<div class="thumbnail equalizeHeight" >
-				<a href="project.html" title="">
+				<a href="http://wyss.harvard.edu/viewpressrelease/96" title="Press release for DNA origami barcodes" target="_blank">
 					<!--298x186 -->
 					<img src="assets/barcode.png"></a>
 			<!-- 	<a href="#"></a> -->
 				<div class="project-description">
-					<b class="name">DNA Origami Nanobarcode</b> paper was recently  published in <a href="http://www.nature.com/nchem/journal/v4/n10/full/nchem.1451.html">Nature Chemistry</a> with Lin et al.
+					<b class="name">DNA Origami Nanobarcode</b> paper was recently  published in <a href="http://www.nature.com/nchem/journal/v4/n10/full/nchem.1451.html" target="_blank">Nature Chemistry</a> with Lin et al.
 					<i class="icon-file"></i>
 				</div>
 			</a>
@@ -194,7 +194,7 @@
 						<source src="assets/video/touch.theora.ogv" type='video/ogg; codecs="theora, vorbis"' />
 						<source src="assets/video/touch.webm"  type='video/webm; codecs="vp8, vorbis"' />
 				        
-						<p><a href="https://vimeo.com/16933869">View this video on vimeo!</a></p> 
+						<p><a href="https://vimeo.com/16933869" target="_blank">View this video on vimeo!</a></p> 
 				</video>
 			</div>
 				

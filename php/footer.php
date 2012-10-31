@@ -8,22 +8,22 @@
 		<div class="container">
 			<div class="row">
 				<div class="span4">
-					<a href="http://www.princeton.edu" title="Princeton University">
+					<a href="http://www.princeton.edu" title="Princeton University" target="_blank">
 						<img alt="Princeton University" src="assets/PUsig2-158U-ww-os.png">
 					</a>
 				</div>
 				<div class="span4 social-networks">
 					<h3>Find us elsewhere</h3>
 					<p> 
-						<a class="social-network icon-twitter" href="https://twitter.com/AndrewLeifer"></a>
+						<a class="social-network icon-twitter" href="https://twitter.com/AndrewLeifer" target="_blank"></a>
 				<!-- <a class="social-network icon-facebook"></a> -->
 					<!--	<a class="social-network icon-vimeo"></a> -->   
-						<a class="social-network icon-github" href="https://github.com/leiferlab"></a> 
+						<a class="social-network icon-github" href="https://github.com/leiferlab" target="_blank"></a> 
 						<!-- <a class="social-network icon-linkedin"></a> --> 
 					</p>
 				</div>
 				<div class="span4 newsletter">
-					<a href="http://www.genomics.princeton.edu/">
+					<a href="http://www.genomics.princeton.edu/" target="_blank">
 						<img src="assets/lewis_sigler_gray_transparent.png" alt="Lewis-Sigler Institute for Integrative Genomics">
 					</a>
 
@@ -36,14 +36,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="span4">
-					&copy; 2012 <a href="http://www.princeton.edu">Princeton University</a>
+					&copy; 2012 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 				</div>
 				<div class="span4">
 					
 					<i class="icon-envelope"></i> <a href="mailto:leifer@princeton.edu" title="Send us email">leifer@princeton.edu</a> &nbsp; <i class="icon-phone"></i> (609) 258-2973 
 				</div>
 				<div class="span4">
-					<a href="http://www.genomics.princeton.edu/">Lewis-Sigler Institute for Integrative Genomics</a>
+					<a href="http://www.genomics.princeton.edu/" target="_blank">Lewis-Sigler Institute for Integrative Genomics</a>
 					
 				</div>
 			</div> <!-- end .row -->		
