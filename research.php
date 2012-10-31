@@ -16,17 +16,17 @@
 			
 	<hr />
 
+	<p>
+		How do a collection of neurons work together to receive information from the environment, encode that information, and then process it to generate purposeful behavior? This is the fundamental question confronting researchers in the field of systems neuroscience. The Leifer Lab is working towards answering this question by studying neural circuits in the small worm <i>C. elegans</i>.
+	</p>
+
 <h3>Why C. Elegans?</h3>
-<p>The nematode <i>C. elegans</i> </p>
+<p>Invertabrate model organisms have yielded many universal principles of neuroscience. Our understanding of the molecular basis of learning and memory, for example, came initially from studies of <i>Aplysia</i>, a giant sea slug. Similarly, our understanding of motor circuits was informed by early studies of leech and lamprey.<p> 
+	<p>The nematode <i>Caenorhabditis elegans</i> is a popular and robust model organism and a natural tool to study systems neuroscience. With only 302 neurons, its nervous system is compact but tractable. The 1 mm-long nematode exhibits a rich array of behaviors. It senses its environment, navigates toward food and temperatures  that it prefers, avoids chemicals that it dislikes, and responds to touch. The worm even exhibits associative learning– it can associate odors with foods that make it sick, and avoid them accordingly, for example.</p>
+	<p> Importantly <i>C. elegans</i> has a number of properties which makes it well suited to optical neurophysiology studies. The entire wiring diagram of the <i>C. elegans</>  nervous system (its connectome) has been mapped completely. The worm is easy to manipulate genetically, and its optically transparent body provides easy access for optical tools. <i>C. elegans</i>, with its compact nervous system, genetic tractability, optical access and well-mapped neural circuitry, is an ideal candidate for studying the neural dynamics underlying behavior</p>
+	
+<h3>Probing neural circuits</h3>	
 
-<h3>Graduate Students</h3>
-<p>Current or incoming Princeton graduate students interested in a rotation should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting.</p>
-
-<h3>Undergraduates</h3>
-<p>Princeton undergraduates interested in conducting research in the summer, during the school year or as part of a Junior or Senior Thesis should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a visit. Please note: there are many funding opportunities for undergraduates, but they often have deadlines many months in advance, so please get in touch early. For example, our <a href="http://molbio.princeton.edu/undergraduate/research/summer-research">Summer Undergraduate Research Program in Molecular, Quantitative and Computational Biology</a> has a deadline of February 1st.</p>
-
-<h3>Post-Bacs</h3>
-<p>Send a CV and references to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a>.</p>
 
 </div>
 	</section>
