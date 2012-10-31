@@ -36,11 +36,13 @@
 			<p class="member-bio">
 				We are a looking for talented new additions to our lab. Please see the <a href="positions.php">positions</a> page for more information.
 			</p>
-			<a href="positions.php">
+
 				<div class="member-avatar">
+					<a href="positions.php">
 					<p>?</p>
+					</a>
 				</div>
-			</a>
+			
 		</article>
 		
 
