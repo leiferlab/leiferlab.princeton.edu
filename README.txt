@@ -15,12 +15,12 @@ The idea is to use a bare repository on princeton's server with a post recieve h
 There is a bare repository located at:
 	/home/leifer/leiferlab.princeton.edu.git
 The public html folder is at:
-	/Genomics/local/leiferlab/www/
+	/Genomics/local/leiferlab/www/html
 
 The commands to create the post-hook on the server is:
 	$ cat > hooks/post-receive
 	#!/bin/sh
-	GIT_WORK_TREE=/Genomics/local/leiferlab/www git checkout -f
+	GIT_WORK_TREE=/Genomics/local/leiferlab/www/html git checkout -f
 	
 	$ chmod +x hooks/post-receive
 
