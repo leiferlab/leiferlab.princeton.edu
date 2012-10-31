@@ -105,7 +105,7 @@
 			
 			<!-- Item -->
 			<div class="item">
-				<img src="assets/carousel/CarlC_Icahn_Laboratory_Princeton_University_NewJersey_cc_carbonnyc.JPG" alt="" />
+				<img src="assets/carousel/CarlC_Icahn_Laboratory_Princeton_University_NewJersey_cc_carbonnyc.jpg" alt="" />
 				<div class="carousel-caption">
 			        <p>The Leifer Lab is located in the Carl C. Icahn Lab (credit: carbonnyc)</p>
 			    </div>			
