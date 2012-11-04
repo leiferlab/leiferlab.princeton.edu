@@ -1002,6 +1002,7 @@ input:focus, textarea:focus {
 	-webkit-box-sizing: border-box; 
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	margin-bottom:0;
 }
 .carousel-inner {}
 .carousel-control 
