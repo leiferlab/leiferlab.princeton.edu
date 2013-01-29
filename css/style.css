@@ -2479,7 +2479,10 @@ input.animated:focus {
 /* --------------------------------------------------------	*/
 
 .leftImg {
-	margin:0 15px 15px 0;
+	margin-top:0;
+	margin-left:0;
+	margin-right:15px;
+	margin-bottom:7px;
 }
 
 legend {
