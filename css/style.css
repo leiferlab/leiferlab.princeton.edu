@@ -1002,6 +1002,7 @@ input:focus, textarea:focus {
 	-webkit-box-sizing: border-box; 
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	margin-bottom:0;
 }
 .carousel-inner {}
 .carousel-control 
@@ -2470,4 +2471,23 @@ input.animated:focus {
 /* --------------------------------------------------------	*/
 .textblock {
 	margin-bottom:3em;
+}
+
+
+/* --------------------------------------------------------	*/
+/*	Image related (Andy) */
+/* --------------------------------------------------------	*/
+
+.leftImg {
+	margin:0 15px 15px 0;
+}
+
+legend {
+    position:relative;
+    left:0;
+    right:0;
+    bottom:5px;
+    text-align:center;
+    background:rgba(0, 0, 0, 0.75);
+
 }
