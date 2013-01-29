@@ -27,11 +27,11 @@
 	
 			<div class="span4">
 											
-				<div class="media-grid pull-left leftImg">
+				<!-- <div class="media-grid pull-left leftImg">
 
 				      <img class="thumbnail" src="assets/LeiferHeadsm.jpg" alt="">
 
-			  </div>
+			  </div> -->
 			  <h3>Andrew Leifer</h3><h4 class="grey"><i>Principal Investigator</i></h4>
 			  &nbsp;
 						<p> Located at the multi-disciplinary Lewis-Sigler Institute of integrative genomics the lab combines techniques from neuroscience, physics, engineering and computer science to study the dynamics of neural circuits in awake moving organisms.
