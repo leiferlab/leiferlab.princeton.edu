@@ -36,7 +36,7 @@
 
 			  <h3>Andrew Leifer</h3><h4 class="grey"><i>Principal Investigator</i></h4>
 			  &nbsp;
-						<p>My research combines techniques from neuroscience, physics, engineering and computer science to study the dynamics of neural circuits in awake moving organisms. We are located at the inter-disciplinary Lewis-Sigler Institute for Integrative genomics.  
+						<p>My research combines techniques from neuroscience, physics, engineering and computer science to study the dynamics of neural circuits in awake moving organisms. We are located at the inter-disciplinary Lewis-Sigler Institute for Integrative Genomics.  
 					</p>
 
 			</div>
