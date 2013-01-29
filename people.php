@@ -26,7 +26,7 @@
 				  
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/andyCropped.jpg" />
+				<img alt="" src="assets/team/LeiferHeadsm.jpg" />
 			</div>
 		</article>
 
