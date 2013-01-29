@@ -16,8 +16,9 @@
 			<h3>Where to find us</h3>
 			<p class="active lead">
 				Leifer Lab <br />
-				119 Carl C. Icahn Laboratory <br />
-				Princeton NJ 08540<br />
+				Lewis-Sigler Institute for Integrative genomics <br />
+				170 Carl C. Icahn Laboratory <br />
+				Princeton NJ 08544<br />
 			</p>
 			<p class="active lead" /=>
 			<i class="icon-envelope"></i> Email: <a href="mailto:leifer@princeton.edu"> leifer@princeton.edu</a> <br />
