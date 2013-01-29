@@ -1,3 +1,17 @@
+<?php
+/* Define a function that accepts the current page and the target link
+/* If the current page and the target link are the same, this function
+/* echos the string "active," otherwise it echos nothing, "" */
+function checkActive($currfile, $linktarget){
+if (strcmp($currfile,$linktarget)==0){echo 'active';
+}
+else{
+echo '';
+}
+}
+
+
+?>
 
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -24,73 +38,61 @@
 	
 	<!--[if IE 7]>
 		<link href="css/font-awesome/font-awesome-ie7.css" rel="stylesheet">
-		<![endif]-->
+	<![endif]-->
 	
-		<!-- Web Fonts  -->
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+	<!-- Web Fonts  -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
 
-		<!-- Javascript -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+	<!-- Javascript -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
 	
-		<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
-		<!--[if lt IE 9]>
-			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-			<![endif]-->
+	<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 
-		</head>
-		<body>
-			<script type="text/javascript">
+</head>
+<body>
+	<?php include_once("analyticstracking.php") ?> <!-- Include google analytics-->
 
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-35697214-1']);
-				_gaq.push(['_trackPageview']);
+	<!-- Header
+	================================================== -->
+	<header id="header">
 
-				(function() {
-					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-
-			</script> <!-- Include google analytics-->
-
-			<!-- Header
-				================================================== -->
-				<header id="header">
-
-					<!-- Navigation
-						================================================== -->
-						<nav class="navbar">
+		<!-- Navigation
+		================================================== -->
+		<nav class="navbar">
 		
-							<div class="navbar-inner">
+			<div class="navbar-inner">
 
-								<div class="container">
-									<!-- Logo -->
-									<div class="brand">
-										<a href="http://www.princeton.edu" class="show logo logoleft"></a> 	
+				<div class="container">
+					<!-- Logo -->
+					<div class="brand">
+						<a href="http://www.princeton.edu" class="show logo logoleft"></a> 	
 					
-										<a  href="index.php">
-											<span class="orange">Leifer</span>Lab
-										</a>
-									</div>
+						<a  href="index.php">
+							 <span class="orange">Leifer</span>Lab
+						</a>
+					</div>
 
-									<a href="http://www.princeton.edu" class="logo logomiddle hidden"></a> 	
-									<ul class="nav">
-										<li class="active"><a href="index.php" title="Home">Home</a></li>
-										<li class=""><a href="research.php" title="Research">Research</a></li>
-										<li class=""><a href="publications.php" title="Publications">Publications</a></li>
-										<li class=""><a href="people.php" title="People">People</a></li> 
-										<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
-										<li class=""><a href="positions.php" title="Positions">Positions</a></li>
-										<li class=""><a href="contact.php" title="Contact us">Contact</a></li>
-									</ul>
-								</div><!-- end .container -->
+					<a href="http://www.princeton.edu" class="logo logomiddle hidden"></a> 	
+					<ul class="nav">
+						<li class="<?php checkActive($currfile, 'index.php');  ?>"><a href="index.php" title="Home">Home</a></li>
+						<li class="<?php checkActive($currfile, 'research.php');  ?>"><a href="research.php" title="Research">Research</a></li>
+						<li class="<?php checkActive($currfile, 'publications.php');  ?>"><a href="publications.php" title="Publications">Publications</a></li>
+						 <li class="<?php checkActive($currfile, 'people.php');  ?>"><a href="people.php" title="People">People</a></li> 
+						<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
+						<li class="<?php checkActive($currfile, 'positions.php');  ?>"><a href="positions.php" title="Positions">Positions</a></li>
+						<li class="<?php checkActive($currfile, 'contact.php');  ?>"><a href="contact.php" title="Contact us">Contact</a></li>
+					</ul>
+				</div><!-- end .container -->
 				
 				
-							</div><!-- end .navbar-inner -->
-						</nav>
+			</div><!-- end .navbar-inner -->
+		</nav>
 
-					</header>
-					<!-- Content
-						================================================== -->
-						<!-- End of php/header.php -->
+	</header>
+	<!-- Content
+	================================================== -->
+	<!-- End of php/header.php -->
