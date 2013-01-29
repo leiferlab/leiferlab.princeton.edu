@@ -29,7 +29,7 @@
 											
 				<div class="media-grid pull-left leftImg">
 
-				      <img class="thumbnail" src="assets/LeiferHead.jpg" alt="">
+				      <img class="thumbnail" src="assets/LeiferHeadsm.jpg" alt="">
 
 			  </div>
 			  <h3>Andrew Leifer</h3><h4 class="grey"><i>Principal Investigator</i></h4>
