@@ -16,7 +16,7 @@
 			<h3>Where to find us</h3>
 			<p class="active lead">
 				Leifer Lab <br />
-				Lewis-Sigler Institute for Integrative genomics <br />
+				Lewis-Sigler Institute for Integrative Genomics <br />
 				170 Carl C. Icahn Laboratory <br />
 				Princeton NJ 08544<br />
 			</p>
