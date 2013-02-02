@@ -188,7 +188,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">The Leifer Lab</b> is now part of the <a href="http://www.princeton.edu/neuroscience/" target="_blank">Princeton Neuroscience Institute</a>.
+					<b class="project-name">The Leifer Lab</b> is now affiliated with the <a href="http://www.princeton.edu/neuroscience/" target="_blank">Princeton Neuroscience Institute</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
