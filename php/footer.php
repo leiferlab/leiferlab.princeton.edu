@@ -36,7 +36,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="span4">
-				&copy; 2012 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
+				&copy; 2013 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
 			<div class="span4">
 					
