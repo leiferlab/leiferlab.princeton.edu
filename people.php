@@ -50,13 +50,12 @@
 		<article class="member">
 			<h3 class="member-name">Fred Shipley</h3>
 			<h4 class="member-position">Research Specialist</h4>
-			<p class="member-contact">
-				Fred Shipley is a full time Research Assistant.  He grew up in Brooklyn, where a botched blood infusion as a child resulted in him being able to sense electromagnetic fields in an environment.  This engendered an interest in biophysics, which he majored in at Amherst while working in the lab of Ashley Carter.  When not in lab, Fred enjoys competitive hot dog eating and developing his abilities as a snake charmer.				
+			<p class="member-contact">			
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:fshipley@princeton.edu">fshipley@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				
+				Fred Shipley is a full time Research Assistant.  He grew up in Brooklyn, where a botched blood infusion as a child resulted in him being able to sense electromagnetic fields in an environment.  This engendered an interest in biophysics, which he majored in at Amherst while working in the lab of Ashley Carter.  When not in lab, Fred enjoys competitive hot dog eating and developing his abilities as a snake charmer.	
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/shipleyHeadSq.jpg" />
@@ -67,7 +66,6 @@
 			<h3 class="member-name">Kevin Mizes</h3>
 			<h4 class="member-position">Undergraduate Student</h4>
 			<p class="member-contact">
-								
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:linder@princeton.edu">linder@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
