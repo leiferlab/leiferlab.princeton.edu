@@ -75,7 +75,7 @@
 				Kevin Mizes is an undergraduate at Princeton University pursuing a degree in Physics. He plans for a future career in research. Kevin grew up in cloudy Rochester, New York.
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/mizesHeadSq.jpg" />
+				<img alt="" src="assets/team/mizesHeadsq.jpg" />
 			</div>
 		</article>
 		
