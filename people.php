@@ -40,7 +40,7 @@
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Ashley Linder is a Graduate Student in the physics department. She grew up in California, and abandoned a promising career as a junior competitive surfer during a near drowning experience. Her fear of the ocean prompted her to stay indoors to study mathematics (which she majored in at UCSD) and, eventually, propelled her to Princeton, as far away from the Pacific Ocean as she could get. Ashley has resumed surfing and sold her life story rights to make the movie Blue Crush, starring Kate Bosworth.
+				Ashley Linder is a graduate student in Neuroscience. She grew up in California, and abandoned a promising career as a junior competitive surfer during a near drowning experience. Her fear of the ocean prompted her to stay indoors to study mathematics (which she majored in at UCSD) and, eventually, propelled her to Princeton, as far away from the Pacific Ocean as she could get. Ashley has resumed surfing and sold her life story rights to make the movie Blue Crush, starring Kate Bosworth.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LinderHeadSq.jpg" />
