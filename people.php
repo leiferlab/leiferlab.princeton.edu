@@ -40,7 +40,7 @@
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Ashley Linder is a graduate student in Neuroscience. She grew up in California, and abandoned a promising career as a junior competitive surfer during a near drowning experience. Her fear of the ocean prompted her to stay indoors to study mathematics (which she majored in at UCSD) and, eventually, propelled her to Princeton, as far away from the Pacific Ocean as she could get. Ashley has resumed surfing and sold her life story rights to make the movie Blue Crush, starring Kate Bosworth.
+				Ashley Linder is a graduate student in Neuroscience. She grew up in California, and abandoned a promising career as a junior competitive surfer during a near drowning experience. Her fear of the ocean prompted her to stay indoors to study mathematics (she double-majored in Math and Neuroscience at  UCSD) and, eventually, propelled her to Princeton, as far away from the Pacific Ocean as she could get. Ashley has resumed surfing and sold her life story rights to make the movie Blue Crush, starring Kate Bosworth.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LinderHeadSq.jpg" />
@@ -55,7 +55,7 @@
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Fred Shipley is a full time Research Assistant.  He grew up in Brooklyn, where a botched blood infusion as a child resulted in him being able to sense electromagnetic fields in an environment.  This engendered an interest in biophysics, which he majored in at Amherst while working in the lab of Ashley Carter.  When not in lab, Fred enjoys competitive hot dog eating and developing his abilities as a snake charmer.	
+				Fred Shipley is a full time Research Assistant.  He grew up in Brooklyn, where a botched blood infusion as a child resulted in him being able to sense electromagnetic fields in an environment.  This engendered an interest in biophysics, which he studied at Amherst while working in the lab of Ashley Carter. Fred graduated Amherst with degrees in Physics and in Biochemsitry and Biophysics.  When not in lab, Fred enjoys competitive hot dog eating and developing his abilities as a snake charmer.	
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/shipleyHeadSq.jpg" />
