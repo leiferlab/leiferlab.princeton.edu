@@ -34,8 +34,9 @@
 		
 		<article class="member">
 			<h3 class="member-name">Ashley Linder</h3>
-			<h4 class="member-position">Graduate Student (joint w/ <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a>)</h4>
+			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
+				 Jointly advised with <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:linder@princeton.edu">linder@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
