@@ -34,7 +34,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Ashley Linder</h3>
-			<h4 class="member-position">Graduate Student</h4>
+			<h4 class="member-position">Graduate Student (joint w/ <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a>)</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:linder@princeton.edu">linder@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
@@ -49,7 +49,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Fred Shipley</h3>
-			<h4 class="member-position">Research Specialist</h4>
+			<h4 class="member-position">Research Assistant</h4>
 			<p class="member-contact">			
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:fshipley@princeton.edu">fshipley@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
@@ -61,12 +61,27 @@
 				<img alt="" src="assets/team/shipleyHeadSq.jpg" />
 			</div>
 		</article>
+
+		<article class="member">
+			<h3 class="member-name">George Plummer</h3>
+			<h4 class="member-position">Research Assistant</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:gplummer@princeton.edu">gplummer@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				George is a full time research assistant.  He grew up in the harsh weather of Minnesota, and endured many bouts of the cold. His body often induced fevers, which resulted in fantastical fever dreams.  These dreams sparked his curiosity in neurobiology, which he studied at Harvard under the supervision (or lack thereof) of Florian Engert.  In his free time, George enjoys becoming mediocre at things he is bad at. 
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/plummerHeadSq.jpg" />
+			</div>
+		</article>		
 		
 		<article class="member">
 			<h3 class="member-name">Kevin Mizes</h3>
 			<h4 class="member-position">Undergraduate Student</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:linder@princeton.edu">linder@princeton.edu</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kmizes@princeton.edu">kmizes@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
