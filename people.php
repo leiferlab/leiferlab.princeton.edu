@@ -94,6 +94,20 @@
 		</article>
 		
 		<article class="member">
+			<h3 class="member-name">Rajarshi Ghosh</h3>
+			<h4 class="member-position">Visiting Postdoc</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kmizes@princeton.edu">rajarshi@princeton.edu</a><br \>
+			</p>
+			<p class="member-bio">
+				Raj is a visiting postdoc from the lab of Leonid Kruglyak. He received his PhD from the lab of Scott Emmons at Albert Einstein College of Medicine. He is interested in the neurogenetics of behavioral diversity in natural populations. He thinks Colbert-the lab robot-will replace his fondness for Wall-e.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/RajHeadSq.jpg.jpg" />
+			</div>
+		</article>
+		
+		<article class="member">
 			<h3 class="member-name">You</h3>
 			<h4 class="member-position">Scientist</h4>
 			<p class="member-bio">
