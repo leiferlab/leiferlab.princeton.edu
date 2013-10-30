@@ -103,7 +103,7 @@
 				Raj is a visiting postdoc from the lab of Leonid Kruglyak. He received his PhD from the lab of Scott Emmons at Albert Einstein College of Medicine. He is interested in the neurogenetics of behavioral diversity in natural populations. He thinks Colbert-the lab robot-will replace his fondness for Wall-e.
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/RajHeadSq.jpg.jpg" />
+				<img alt="" src="assets/team/RajHeadSq.jpg" />
 			</div>
 		</article>
 		
