@@ -48,6 +48,14 @@
 				<div id="carousel" class="carousel slide" rel="carousel">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
+					<!-- Item -->
+					<div class="item active">
+						<a href="#"><img src="assets/carousel/lab_group_photo2013.jpg" alt="" /></a>
+						<div class="carousel-caption">
+							<p>The Leifer Lab in the Carl Icahn Building at Princeton University.</p>
+						</div>
+					</div>
+					<!-- end Item -->
 						<!-- Item -->
 						<div class="item active">
 							<a href="#"><img src="assets/carousel/blueAVM.jpg" alt="" /></a>
