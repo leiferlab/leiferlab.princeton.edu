@@ -48,19 +48,11 @@
 				<div id="carousel" class="carousel slide" rel="carousel">
 					<!-- Carousel items -->
 					<div class="carousel-inner">
-					<!-- Item -->
-					<div class="item active">
-						<a href="#"><img src="assets/carousel/lab_group_photo2013.jpg" alt="" /></a>
-						<div class="carousel-caption">
-							<p>The Leifer Lab in the Carl Icahn Building at Princeton University.</p>
-						</div>
-					</div>
-					<!-- end Item -->
 						<!-- Item -->
 						<div class="item active">
-							<a href="#"><img src="assets/carousel/blueAVM.jpg" alt="" /></a>
+							<a href="#"><img src="assets/carousel/lab_group_photo2013.jpg" alt="" /></a>
 							<div class="carousel-caption">
-								<p>To study neurocircuits, we build tools that monitor and manipulate neural activity in a worm with light.</p>
+								<p>The Leifer Lab in the Carl Icahn Building at Princeton University.</p>
 							</div>
 						</div>
 						<!-- end Item -->
@@ -74,7 +66,15 @@
 						</div>-->
 						<!-- end Item -->			
 			
-			
+						<!-- Item -->
+						<div class="item">
+							<img src="assets/carousel/blueAVM.jpg" alt="" />
+							<div class="carousel-caption">
+								<p>To study neurocircuits, we build tools that monitor and manipulate neural activity in a worm with light.</p>
+							</div>
+						</div> 
+						<!-- end Item -->
+						
 						<!-- Item -->
 						<div class="item">
 							<img src="assets/carousel/computerVision.png" alt="" />
