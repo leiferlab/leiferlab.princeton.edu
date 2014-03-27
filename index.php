@@ -187,10 +187,9 @@
 
 			<div class="thumbnail equalizeHeight">
 				<!-- image -->
-				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute" target="_blank">
+				<a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank" title="Inaguarl Dean for Research Innovation Fund" target="_blank">
 					<!--298x186 -->
-					<!--<img src="assets/DeanResearch.png"> -->
-					<i class="icon-trophy"></i>
+					<img src="assets/DeanResearch.png"> 
 				</a>
 				<!-- description -->
 				<div class="project-description">
