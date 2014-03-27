@@ -189,14 +189,15 @@
 				<!-- image -->
 				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute" target="_blank">
 					<!--298x186 -->
-					<img src="assets/DeanResearch.png">
+					<!--<img src="assets/DeanResearch.png"> -->
+					<a class="social-network icon-trophy" href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank"">
 				</a>
 				<!-- description -->
 				<div class="project-description">
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Andrew Leifer and Joshua Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a>.
+					<b class="project-name">Leifer and Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
