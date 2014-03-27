@@ -206,12 +206,12 @@
 		<!-- end portfolio item-->
 		<article class="span4 project">
 			<div class="thumbnail equalizeHeight" >
-				<a href="http://wyss.harvard.edu/viewpressrelease/96" title="Press release for DNA origami barcodes" target="_blank">
+				<a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" title="Simultaneous optogenetic manipulation and calcium imaging in freely moving C. elegans" target="_blank">
 					<!--298x186 -->
 					<img src="assets/barcode.png"></a>
 					<!-- 	<a href="#"></a> -->
 					<div class="project-description">
-						<b class="name">DNA Origami Nanobarcode</b> paper was recently  published in <a href="http://www.nature.com/nchem/journal/v4/n10/full/nchem.1451.html" target="_blank">Nature Chemistry</a> with Lin et al.
+						<b class="name">Simultaneous optogenetic manipulation and calcium imaging</b> paper was recently  published in <a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" target="_blank">Frontiers in Neural Circuits</a>.
 						<i class="icon-file"></i>
 					</div>
 				</a>
