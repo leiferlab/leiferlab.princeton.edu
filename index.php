@@ -196,7 +196,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Leifer and Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a>.
+					<b class="project-name">Leifer and Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a> award.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
@@ -208,10 +208,10 @@
 			<div class="thumbnail equalizeHeight" >
 				<a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" title="Simultaneous optogenetic manipulation and calcium imaging in freely moving C. elegans" target="_blank">
 					<!--298x186 -->
-					<img src="assets/barcode.png"></a>
+					<img src="assets/simulio.png"></a>
 					<!-- 	<a href="#"></a> -->
 					<div class="project-description">
-						<b class="name">Simultaneous optogenetic manipulation and calcium imaging</b> paper was recently  published in <a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" target="_blank">Frontiers in Neural Circuits</a>.
+						<b class="name">Simultaneous optogenetics and calcium imaging</b> paper was <a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" target="_blank">recently published</a>.
 						<i class="icon-file"></i>
 					</div>
 				</a>
