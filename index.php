@@ -196,7 +196,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Andrew Leifer and Joshua Shaevitz</b> are recipients of the new<a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a>.
+					<b class="project-name">Andrew Leifer and Joshua Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
