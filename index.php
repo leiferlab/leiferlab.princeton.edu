@@ -189,14 +189,14 @@
 				<!-- image -->
 				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute" target="_blank">
 					<!--298x186 -->
-					<img src="assets/PNIlogo.png">
+					<img src="assets/ResearchAtPrinceton.png">
 				</a>
 				<!-- description -->
 				<div class="project-description">
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">The Leifer Lab</b> is now affiliated with the <a href="http://www.princeton.edu/neuroscience/" target="_blank">Princeton Neuroscience Institute</a>.
+					<b class="project-name">Andrew Leifer and Joshua Shaevitz</b> are recipients of the new<a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
@@ -233,7 +233,7 @@
 				
 				<div class="project-description">
 					<b class="name">Blue light</b>
-					<i class="icon-play"></i> causes the worm to experience the sensation of touch, and so it recoils. <a href="#">More video &raquo;</a>
+					<i class="icon-play"></i> causes the worm to experience the sensation of touch, and so it recoils. <a href="#FF">More video &raquo;</a>
 				</div>
 			</div>
 		</article>
