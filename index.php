@@ -199,7 +199,7 @@
 					<b class="project-name">Leifer and Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a> award.
 				</div>
 				<!-- ribbon -->
-				<div class="ribbon"><span>New</span></div>
+				<div class="ribbon"><span>New Award</span></div>
 			</div>
 
 		</article>
@@ -215,7 +215,8 @@
 						<i class="icon-file"></i>
 					</div>
 				</a>
-				
+				<!-- ribbon -->
+				<div class="ribbon"><span>New Publication</span></div>
 			</div>
 		</article>
 
