@@ -190,7 +190,7 @@
 				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute" target="_blank">
 					<!--298x186 -->
 					<!--<img src="assets/DeanResearch.png"> -->
-					<a class="icon-trophy" href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank"">
+					<i class="icon-trophy">
 				</a>
 				<!-- description -->
 				<div class="project-description">
