@@ -184,12 +184,12 @@
 
 		<!-- portfolio item-->
 		<article class="span4 project">
-
+0
 			<div class="thumbnail equalizeHeight">
 				<!-- image -->
 				<a href="http://www.princeton.edu/neuroscience/" title="Princeton Neuroscience Institute" target="_blank">
 					<!--298x186 -->
-					<img src="assets/ResearchAtPrinceton.png">
+					<img src="assets/ResearchAtPrinecton.png">
 				</a>
 				<!-- description -->
 				<div class="project-description">
