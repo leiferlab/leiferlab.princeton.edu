@@ -234,7 +234,7 @@
 				
 				<div class="project-description">
 					<b class="name">Blue light</b>
-					<i class="icon-play"></i> causes the worm to experience the sensation of touch, and so it recoils. <a href="#FF">More video &raquo;</a>
+					<i class="icon-play"></i> causes the worm to experience the sensation of touch, and so it recoils. <a href="http://vimeo.com/87910242">More video &raquo;</a>
 				</div>
 			</div>
 		</article>
