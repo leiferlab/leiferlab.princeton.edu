@@ -77,7 +77,23 @@
 				<img alt="" src="assets/team/plummerHeadSq.jpg" />
 			</div>
 		</article>		
-		
+			
+			<article class="member">
+				<h3 class="member-name">David Mazumder</h3>
+				<h4 class="member-position">Undergraduate Student</h4>
+				<p class="member-contact">
+					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mazumder@princeton.edu">mazumder@princeton.edu</a><br \>
+					<i class="icon-phone"></i> (609) 258-2973<br \>
+				</p>
+				<p class="member-bio">
+	David is an undergraduate student at Princeton University pursuing a degree in Molecular Biology. He is excited to be exploring the intersection of genetics in neuroscience, aka nematodes. Around the lab, he acts as George's shadow; outside, he enjoys playing piano, singing songs, and hanging out with his brothers in his New Jersey home.
+				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/mazumderHeadsq.jpg" />
+				</div>
+			</article>	
+			
+			
 		<article class="member">
 			<h3 class="member-name">Kevin Mizes</h3>
 			<h4 class="member-position">Undergraduate Student</h4>
@@ -93,21 +109,7 @@
 			</div>
 		</article>
 		
-		
-		<article class="member">
-			<h3 class="member-name">George Plummer</h3>
-			<h4 class="member-position">Undergraduate Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kmizes@princeton.edu">kmizes@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
-			</p>
-			<p class="member-bio">
-David is an undergraduate student at Princeton University pursuing a degree in Molecular Biology. He is excited to be exploring the intersection of genetics in neuroscience, aka nematodes. Around the lab, he acts as George's shadow; outside, he enjoys playing piano, singing songs, and hanging out with his brothers in his New Jersey home.
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/mazumderHeadsq.jpg" />
-			</div>
-		</article>
+	
 		
 		<article class="member">
 			<h3 class="member-name">Rajarshi Ghosh</h3>
