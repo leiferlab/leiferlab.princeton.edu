@@ -54,7 +54,7 @@ echo '';
 
 </head>
 <body>
-	<?php include_once("analyticstracking.php") ?> <!-- Include google analytics-->
+	<?php include_once("analyticstracking.php") ?> <!-- Include piwik analytics-->
 
 	<!-- Header
 	================================================== -->
