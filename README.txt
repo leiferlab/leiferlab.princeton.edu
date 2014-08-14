@@ -1,7 +1,7 @@
 LeiferLab.princeton.edu
 =======================
 
-This is the repository for the Leifer Lab website. It is based off a template, ["Theme" by Virae](http://themeforest.net/item/plain/2616790) purchased from Themeforest.
+This is the repository for the Leifer Lab website at Prineton University. It is based off a template, ["Theme" by Virae](http://themeforest.net/item/plain/2616790) purchased from Themeforest.
 
 Its for the Leifer Lab Website at Princeton University.
 
