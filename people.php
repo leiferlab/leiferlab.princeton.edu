@@ -49,6 +49,21 @@
 		</article>
 		
 		<article class="member">
+			<h3 class="member-name">Mochi Liu</h3>
+			<h4 class="member-position">Graduate Rotation Student</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				Mochi is a rotating graduate student in the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/LiuHeadSq.jpg" />
+			</div>
+		</article>
+		
+		<article class="member">
 			<h3 class="member-name">Fred Shipley</h3>
 			<h4 class="member-position">Research Assistant</h4>
 			<p class="member-contact">			
@@ -110,7 +125,7 @@
 		</article>
 		
 	
-		
+		<!--
 		<article class="member">
 			<h3 class="member-name">Rajarshi Ghosh</h3>
 			<h4 class="member-position">Visiting Postdoc</h4>
@@ -124,8 +139,13 @@
 				<img alt="" src="assets/team/RajHeadSq.jpg" />
 			</div>
 		</article>
+	-->
+	
+	
+	
+	
 		
-		<article class="member">
+	<!--	<article class="member">
 			<h3 class="member-name">You</h3>
 			<h4 class="member-position">Scientist</h4>
 			<p class="member-bio">
@@ -138,8 +158,13 @@
 			</a>
 		</article>
 		
+	-->
 
-	</section>	</section>
+	</section>	
+
+
+
+	</section>
 
 	<?php 
 		include('php/footer.php');
