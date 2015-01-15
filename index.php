@@ -232,22 +232,24 @@
 
 		</article>
 		<!-- end portfolio item-->
+
+
+<!--
 		<article class="span4 project">
 			<div class="thumbnail equalizeHeight" >
 				<a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" title="Simultaneous optogenetic manipulation and calcium imaging in freely moving C. elegans" target="_blank">
-					<!--298x186 -->
 					<img src="assets/simulio.png"></a>
-					<!-- 	<a href="#"></a> -->
 					<div class="project-description">
 						<b class="name">Simultaneous optogenetics and calcium imaging</b> paper was <a href="http://journal.frontiersin.org/Journal/10.3389/fncir.2014.00028/full" target="_blank">recently published</a>.
 						<i class="icon-file"></i>
 					</div>
 				</a>
-				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
 			</div>
 		</article>
-<!--
+		
+	-->	
+		
 		<article class="span4 project">
 			<div class="thumbnail equalizeHeight" >
 				<div class="vidclip"> 
@@ -267,7 +269,6 @@
 			</div>
 		</article>
 
--->
 
 	</section>	
 
