@@ -190,14 +190,14 @@
 				<!-- image -->
 				<a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank" title="Simons Foundation Collaboration on the Global Brain" target="_blank">
 					<!--298x186 -->
-					<img src="assets/SimonsAward.png.png"> 
+					<img src="assets/SimonsAward.png"> 
 				</a>
 				<!-- description -->
 				<div class="project-description">
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Andrew Leifer</b> joins the <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank">Simons Foundation Collaboration on the Global Brain</a> project.
+					<b class="project-name"> Leifer</b> joins  <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank">Simons Foundation Collaboration on the Global Brain</a> project.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
