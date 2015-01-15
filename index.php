@@ -181,6 +181,34 @@
 	<hr />
 
 	<section class="row" id="portfolio">
+		
+		
+		<!-- portfolio item-->
+		<article class="span4 project">
+
+			<div class="thumbnail equalizeHeight">
+				<!-- image -->
+				<a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank" title="Simons Foundation Collaboration on the Global Brain" target="_blank">
+					<!--298x186 -->
+					<img src="assets/SimonsAward.png.png"> 
+				</a>
+				<!-- description -->
+				<div class="project-description">
+					<!-- icon -->
+					<i class="icon-link"></i>
+					<!-- name -->
+					<b class="project-name">Andrew Leifer</b> joins the <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank">Simons Foundation Collaboration on the Global Brain</a> project.
+				</div>
+				<!-- ribbon -->
+				<div class="ribbon"><span>New</span></div>
+			</div>
+
+		</article>
+		<!-- end portfolio item-->
+		
+		
+		
+		
 
 		<!-- portfolio item-->
 		<article class="span4 project">
@@ -219,7 +247,7 @@
 				<div class="ribbon"><span>New</span></div>
 			</div>
 		</article>
-
+<!--
 		<article class="span4 project">
 			<div class="thumbnail equalizeHeight" >
 				<div class="vidclip"> 
@@ -238,6 +266,8 @@
 				</div>
 			</div>
 		</article>
+
+-->
 
 	</section>	
 
