@@ -28,10 +28,10 @@
 		<li>Kevin J. Coakley, David S. Simons, <b>Andrew M. Leifer</b>. "Secondary Ion Mass Spectrometry Measurements of Isotopic Ratios: Correction for Time Varying Count Rate." <a href="http://www.sciencedirect.com/science/article/pii/S138738060400421X"><a><i>International Journal of Mass Spectrometry</i></a></a>, 204 (2005) 107-120.
 		</li>
 		</ul>		
-<!--	<h3>Manuscripts submitted for peer-review</h3>
+	<h3>Manuscripts submitted for peer-review</h3>
 	<ul class="publications">
-			<li>Frederick B. Shipley,  Christopher M. Clark,  Mark J. Alkema, <b>Andrew M. Leifer</b>. "Simultaneous optogenetic manipulation and calcium imaging in freely moving <i>C. elegans</i>." Submitted 25 November 2013. Preprints available at <a href="http://arxiv.org/abs/1311.6406">arXiv</a> and <a href="http://biorxiv.org/content/early/2013/11/27/000943">bioRxiv</a>. [<a href="http://arxiv.org/pdf/1311.6406v2">PDF</a>, <a href="http://biorxiv.org/content/early/2013/11/27/000943.figures-only">MOVIES</a>]</li>
-	</ul>  -->
+			<li>Jeffrey P. Nguyen,  Frederick B. Shipley,  Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz,  <b>Andrew M. Leifer</b>. "Whole-brain calcium imaging with cellular resolution in freely behaving <i>C. elegans</i>." Manuscript available on <a href="http://arxiv.org/abs/1501.03463">arXiv</a> [<a href="http://arxiv.org/pdf/1501.03463v1">PDF</a>]</li>
+	</ul>  
 			
 	</div>
 
