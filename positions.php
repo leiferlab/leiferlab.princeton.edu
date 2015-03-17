@@ -57,7 +57,9 @@ Essential Qualifications
 <li>The ideal candidate is one who seeks professional development in scientific research or a medical profession.</li>
 <li>Experience with fluorescent microscopy preferred.</li>
 <li>Willingness to conduct independent research and participate in project planning and experimental design.</li>
-<p>
+</p>
+<p>Please apply at <a href="https://jobs.princeton.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=210188">http://jobs.princeton.edu</a> Requisition #1500191.
+</p>
 
 
 
