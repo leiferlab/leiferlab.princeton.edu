@@ -11,7 +11,7 @@
 		<p>We're looking for talented researchers.</p> 
 	</div>
 	<div class="meaty">
-	<p>Our work spans many disciplines. If you have a background in molecular biology, neuroscience, physics, engineering or programming and are interested in applying your skills towards learning how neural circuits drive behavior, then please contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> by email.	
+	<!--<p>Our work spans many disciplines. If you have a background in molecular biology, neuroscience, physics, engineering or programming and are interested in applying your skills towards learning how neural circuits drive behavior, then please contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> by email.</p>-->
 	<hr />
 <h3>Research Specialist</h3>
 
