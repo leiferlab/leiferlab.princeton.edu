@@ -53,7 +53,7 @@
 <div class="textblock">
 	<h3>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li><b>Andrew Leifer</b>, <a href="https://talks.stanford.edu/andrew-leifer-whole-brain-neural-dynamics-and-behavior-in-freely-moving-nematodes/">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015.</li>
+	<li><b>Andrew Leifer</b>, <a href="https://talks.stanford.edu/andrew-leifer-whole-brain-neural-dynamics-and-behavior-in-freely-moving-nematodes/">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015. [<a href="https://talks.stanford.edu/video/neuro/sni/seminar/150217_andrew_leifer.mp4">Video Recording (.MP4)</a>]</li>
 </ul>
 	
 	<h3>Lecture slides</h3>
