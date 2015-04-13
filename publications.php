@@ -37,7 +37,6 @@
 
 	<hr />
 
-
 <div class="textblock">
 
 	
@@ -52,6 +51,11 @@
 <hr />
 
 <div class="textblock">
+	<h3>Video Recorded Lectures</h3>
+	<ul class="publications">
+	<li><b>Andrew Leifer</b>, <a href="https://talks.stanford.edu/andrew-leifer-whole-brain-neural-dynamics-and-behavior-in-freely-moving-nematodes/">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015.</li>
+</ul>
+	
 	<h3>Lecture slides</h3>
 	<ul class="publications">
 		<li><b>Andrew Leifer</b>, "Optical neurophysiology in freely behaving <i>C. elegans</i>"  <i>C. elegans topic meeting: neuronal development, synaptic function and behavior </i>, University of Wisconsin Madison, 9 July 2014. [<a href="http://leiferlab.princeton.edu/outsideAssets/CeNeuroWorkshop2014.pdf">PDF</a>] [<a href="https://www.zotero.org/groups/ceneuroworkshop2014/items">Bibliography</a>]
