@@ -5,6 +5,7 @@ This is the repository for the Leifer Lab website at Prineton University. It is 
 
 Its for the Leifer Lab Website at Princeton University.
 
+Sherif will be helping maintaining.
 
 Deploy on Server
 ----------------
