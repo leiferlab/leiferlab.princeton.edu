@@ -42,7 +42,7 @@
 				<!-- bio here-->
 				</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/jnguyen.jpg" />
+				<img alt="" src="assets/team/jnguyen.png" />
 			</div>
 		</article>
 		
