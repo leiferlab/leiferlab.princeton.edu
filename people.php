@@ -106,7 +106,10 @@
 	<section id="team-members">
 		<article class="member">
 			<h3 class="member-name">Fred Shipley</h3>
-			<h4 class="member-position">Former Research Assistant</h4>
+			<h4 class="member-position">Research Assistant</h4>
+			<p class="member-contact">
+				2013 - 2015
+			</p>
 			<p class="member-bio">
 				Currently a Ph.D. candidate in Biophysics at Harvard University.
 			</p>
@@ -117,7 +120,10 @@
 
 		<article class="member">
 			<h3 class="member-name">George Plummer</h3>
-			<h4 class="member-position">Former Research Assistant</h4>
+			<h4 class="member-position">Research Assistant</h4>
+			<p class="member-contact">
+				2013 - 2015
+			</p>
 			<p class="member-bio">
 				Currently a medical student at Tufts University School of Medicine. 
 			</p>
