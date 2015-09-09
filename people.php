@@ -31,6 +31,20 @@
 			</div>
 		</article>
 		
+		<article class="member">
+			<h3 class="member-name">Jeffrey Nguyen</h3>
+			<h4 class="member-position">Post-doctoral Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:jnguyen@princeton.edu">jnguyen@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				<!-- bio here-->
+				</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/jnguyen.jpg" />
+			</div>
+		</article>
 		
 		<article class="member">
 			<h3 class="member-name">Ashley Linder</h3>
