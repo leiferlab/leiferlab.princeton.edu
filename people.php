@@ -24,7 +24,6 @@
 			</p>
 			<p class="member-bio">
 				Andrew Leifer is a Lewis-Sigler Fellow and a Lecturer of Physics. He received his doctorate in Biophysics from Harvard under the supervision of Professor Aravi Samuel. As an undergraduate, he attended Stanford University where he graduated with degrees in Physics and Political Science and interdisciplinary honors in international security studies. He grew up out west in sunny California and Colorado. Andrew co-teaches the freshman integrated science lab course.
-				  
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LeiferHeadSq2.jpeg" />
@@ -71,7 +70,7 @@
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Mochi is a rotating graduate student in the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
+				Mochi is a graduate student in the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LiuHeadSq.jpg" />
@@ -85,7 +84,7 @@
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sgerges@princeton.edu">sgerges@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
-			<p class="member-bio">
+			<p class="member-bio">Sherif is a research assistant in the Leifer lab. He grew up in Cairo, Egypt before moving to the US to study molecular biology, joining the Hazard Lab at Montclair State University as an undergrad. In 2011, he spent a summer at the Sternberg lab at Caltech, where Paul advised him to look into systems biology. He then collaborated with the Zinn lab at Caltech, analyzing biological networks. After graduating, he joined the Ploss lab at Princeton to study viral infectious kinetics. In his spare time, Sherif enjoys reading, working out and listening to metal. 
 			<p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/sgerges.jpg" />
