@@ -64,6 +64,37 @@
 			</div>
 		</article>
 		
+		<article class="member">
+			<h3 class="member-name">Sherif Gerges</h3>
+			<h4 class="member-position">Research Specialist</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sgerges@princeton.edu">sgerges@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+			<p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/sgerges.jpg" />
+			</div>
+		</article>	
+		
+		
+		<article class="member">
+			<h3 class="member-name">Sagar Setru</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				 Advised by <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:ssetru@princeton.edu">ssetru@princeton.edu</a><br \>
+			</p>
+			<p class="member-bio">
+				<!-- Bio goes here-->
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/ssetru.jpg" />
+			</div>
+		</article>
+		
+		
 			
 			<article class="member">
 				<h3 class="member-name">David Mazumder</h3>
@@ -86,7 +117,7 @@
 			<h4 class="member-position">Undergraduate Student</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kmizes@princeton.edu">kmizes@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
+				<i class="icon-phone"></i> (609) 258-2973<br	 \>
 			</p>
 			<p class="member-bio">
 				Kevin Mizes is an undergraduate at Princeton University pursuing a degree in Physics. He plans for a future career in research. Kevin grew up in cloudy Rochester, New York.
@@ -97,7 +128,10 @@
 		</article>
 		
 	</section>	
-	
+
+
+
+
 	<div class="textblock">
 	</div>
 	
