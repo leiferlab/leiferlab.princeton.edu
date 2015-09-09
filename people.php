@@ -6,7 +6,7 @@
 
 
 	<div class="hero-unit">
-		<p>People</p>
+		<p>Current Lab Members</p>
 		<hr />
 	</div>
 
@@ -63,35 +63,6 @@
 			</div>
 		</article>
 		
-		<article class="member">
-			<h3 class="member-name">Fred Shipley</h3>
-			<h4 class="member-position">Research Assistant</h4>
-			<p class="member-contact">			
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:fshipley@princeton.edu">fshipley@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
-			</p>
-			<p class="member-bio">
-				Fred Shipley is a full time Research Assistant.  He grew up in Brooklyn, where a botched blood infusion as a child resulted in him being able to sense electromagnetic fields in an environment.  This engendered an interest in biophysics, which he studied at Amherst while working in the lab of Ashley Carter. Fred graduated Amherst with degrees in Physics and in Biochemsitry and Biophysics.  When not in lab, Fred enjoys competitive hot dog eating and developing his abilities as a snake charmer.	
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/shipleyHeadSq.jpg" />
-			</div>
-		</article>
-
-		<article class="member">
-			<h3 class="member-name">George Plummer</h3>
-			<h4 class="member-position">Research Assistant</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:gplummer@princeton.edu">gplummer@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
-			</p>
-			<p class="member-bio">
-				George is a full time research assistant.  He grew up in the harsh weather of Minnesota, and endured many bouts of the cold. His body often induced fevers, which resulted in fantastical fever dreams.  These dreams sparked his curiosity in neurobiology, which he studied at Harvard under the supervision (or lack thereof) of Florian Engert.  In his free time, George enjoys becoming mediocre at things he is bad at. 
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/plummerHeadSq.jpg" />
-			</div>
-		</article>		
 			
 			<article class="member">
 				<h3 class="member-name">David Mazumder</h3>
@@ -123,6 +94,38 @@
 				<img alt="" src="assets/team/mizesHeadsq.jpg" />
 			</div>
 		</article>
+		
+	</section>	
+	
+	
+	
+		<div class="hero-unit">
+			<p>Lab Alumni</p>
+			<hr />
+		</div>
+	<section id="team-members">
+		<article class="member">
+			<h3 class="member-name">Fred Shipley</h3>
+			<h4 class="member-position">Former Research Assistant</h4>
+			<p class="member-bio">
+				Currently a Ph.D. candidate in Biophysics at Harvard University.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/shipleyHeadSq.jpg" />
+			</div>
+		</article>
+
+		<article class="member">
+			<h3 class="member-name">George Plummer</h3>
+			<h4 class="member-position">Former Research Assistant</h4>
+			<p class="member-bio">
+				Currently a medical student at Tufts University School of Medicine. 
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/plummerHeadSq.jpg" />
+			</div>
+		</article>
+	</section>
 		
 	
 		<!--
@@ -160,7 +163,7 @@
 		
 	-->
 
-	</section>	
+
 
 
 
