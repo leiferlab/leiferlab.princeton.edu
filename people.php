@@ -20,7 +20,7 @@
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:leifer@princeton.edu">leifer@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 				<i class="icon-file"></i>&nbsp;<a href="assets/leiferCV.pdf">CV</a> &nbsp;
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=18826+Leifer">Asteroid</a> &nbsp; <i class="icon-globe"></i>&nbsp;<a href="http://www.andrewleifer.com"> Homepage</a> 
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=18826+Leifer">Asteroid</a>
 			</p>
 			<p class="member-bio">
 				Andrew Leifer is a Lewis-Sigler Fellow and a Lecturer of Physics. He received his doctorate in Biophysics from Harvard under the supervision of Professor Aravi Samuel. As an undergraduate, he attended Stanford University where he graduated with degrees in Physics and Political Science and interdisciplinary honors in international security studies. He grew up out west in sunny California and Colorado. Andrew co-teaches the freshman integrated science lab course.
@@ -50,8 +50,9 @@
 		
 		<article class="member">
 			<h3 class="member-name">Mochi Liu</h3>
-			<h4 class="member-position">Graduate Rotation Student</h4>
+			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
+				 Jointly advised with <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
@@ -97,7 +98,8 @@
 		
 	</section>	
 	
-	
+	<div class="textblock">
+	</div>
 	
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
