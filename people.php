@@ -155,7 +155,7 @@
 	<section id="team-members">
 		<article class="member">
 			<h3 class="member-name">Fred Shipley</h3>
-			<h4 class="member-position">Research Assistant</h4>
+			<h4 class="member-position">Research Specialist</h4>
 			<p class="member-contact">
 				2013 - 2015
 			</p>
@@ -169,7 +169,7 @@
 
 		<article class="member">
 			<h3 class="member-name">George Plummer</h3>
-			<h4 class="member-position">Research Assistant</h4>
+			<h4 class="member-position">Research Specialist</h4>
 			<p class="member-contact">
 				2013 - 2015
 			</p>
