@@ -11,7 +11,7 @@ How do a collection of neurons work together to receive information from the env
 	<h3>Probing neural circuits</h3>	
 	<p>To probe the neural circuits underlying behavior, it is important to perturb and observe the activity of individual neurons and their effect on whole-organism behavior. The Leifer Lab specializes in developing  non-invasive techniques to stimulate and record from ensembles of neurons across an organism with single-cell resolution in awake, intact, unrestrained animals whose behavior can be observed simultaneously. We build upon recent advances in the emerging field of optogenetics to use light to stimulate or inhibit neurons in a worm as it moves. We also use genetically encoded calcium indicators to observe neural activity in the worm as it moves. And we use computer vision software to quantify the worm's motion. </p>
 
-	<p>By systematically studying the contribution of individual neurons to behavior, we hope to uncover general principles about the functions of neural circuits. The first circuit we are studying is the <i>C. elegans</i> escape response circuit.</p> 
+	<p>By systematically studying the contribution of individual neurons to behavior, we hope to uncover general principles about the functions of neural circuits. 
 
 	
 
