@@ -51,9 +51,11 @@
 <div class="textblock">
 	<h3>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li><b>Andrew Leifer</b>, <a href="https://talks.stanford.edu/andrew-leifer-whole-brain-neural-dynamics-and-behavior-in-freely-moving-nematodes/">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015. [<a href="https://talks.stanford.edu/video/neuro/sni/seminar/150217_andrew_leifer.mp4">Video Recording (.MP4)</a>]</li>
+	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/150687408">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015. [<a href="https://vimeo.com/150687408"> (Vimeo Video)</a>]</li>
 </ul>
-	
+	<iframe src="https://player.vimeo.com/video/150687408" width="500" height="279" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe
+		
+		
 	<h3>Lecture slides</h3>
 	<ul class="publications">
 		<li><b>Andrew Leifer</b>, "Optical neurophysiology in freely behaving <i>C. elegans</i>"  <i>C. elegans topic meeting: neuronal development, synaptic function and behavior </i>, University of Wisconsin Madison, 9 July 2014. [<a href="http://leiferlab.princeton.edu/outsideAssets/CeNeuroWorkshop2014.pdf">PDF</a>] [<a href="https://www.zotero.org/groups/ceneuroworkshop2014/items">Bibliography</a>]
