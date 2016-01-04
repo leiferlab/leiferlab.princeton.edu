@@ -51,7 +51,7 @@
 <div class="textblock">
 	<h3>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/150687408">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015. <iframe src="https://player.vimeo.com/video/150687408" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
+	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/150687408">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015.<br> <iframe src="https://player.vimeo.com/video/150687408" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
 
 </ul>
 
