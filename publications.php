@@ -51,7 +51,7 @@
 <div class="textblock">
 	<h3>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/149168719">"Whole-brain neural dynamics and behavior in freely moving C. elegans"</a>,  <i>Emerging Tools for Acquisition and Interpretation of Whole-Brain Functional Data</i>, HHMI Janelia Research Campus, 3 November 2015. 12 minutes.<br> <iframe src="https://vimeo.com/149168719" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
+	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/149168719">"Whole-brain neural dynamics and behavior in freely moving C. elegans"</a>,  <i>Emerging Tools for Acquisition and Interpretation of Whole-Brain Functional Data</i>, HHMI Janelia Research Campus, 3 November 2015. 12 minutes.<br> <iframe src="https://vimeo.com/video/149168719" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
 
 	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/150687408">"Whole-brain neural dynamics and behavior in freely moving nematodes"</a>,  <i>Stanford Neurosciences Institute Seminar Series</i>, Stanford University, 17 February 2015. 1 hour 2 minutes.<br> <iframe src="https://player.vimeo.com/video/150687408" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
 
