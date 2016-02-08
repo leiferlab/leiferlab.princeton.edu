@@ -92,20 +92,6 @@
 		</article>	
 		
 		
-		<article class="member">
-			<h3 class="member-name">Sagar Setru</h3>
-			<h4 class="member-position">Graduate Student</h4>
-			<p class="member-contact">
-				 Advised by <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:ssetru@princeton.edu">ssetru@princeton.edu</a><br \>
-			</p>
-			<p class="member-bio">
-				<!-- Bio goes here-->
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/ssetru.jpg" />
-			</div>
-		</article>
 		
 		
 			
