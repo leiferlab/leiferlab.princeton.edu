@@ -104,7 +104,6 @@
 		
 		
 	<section id="team-members">
-		<article class="member">
 
 			<article class="member">
 				<h3 class="member-name">David Mazumder</h3>
