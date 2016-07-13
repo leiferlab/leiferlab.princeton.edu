@@ -7,12 +7,12 @@
 <footer id="footer">
 	<div class="container">
 		<div class="row">
-			<div class="span4">
+			<div class="span5">
 				<a href="http://www.princeton.edu" title="Princeton University" target="_blank">
 					<img alt="Princeton University" src="assets/PUsig2-158U-ww-os.png">
 				</a>
 			</div>
-			<div class="span4 social-networks">
+			<div class="span5 social-networks">
 				<h3>Find us elsewhere</h3>
 				<p> 
 					<a class="social-network icon-twitter" href="https://twitter.com/AndrewLeifer" target="_blank"></a>
@@ -23,14 +23,14 @@
 				</p>
 			</div>
 			
-			<div class="span4 newsletter">
+			<div class="span5 newsletter">
 				<a href="httphttp://www.princeton.edu/physics/" title="Department of Physics" target="_blank">
 					<img alt="Department of Physics" src="assets/physics_logo.png">
 				</a>
 
 			</div>
 			
-			<div class="span4 newsletter">
+			<div class="span5 newsletter">
 				<a href="ttp://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
 					<img alt="Princeton Neuroscience Institute" src="assets/pni_logo.png">
 				</a>
