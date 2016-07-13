@@ -186,11 +186,11 @@
 	
 	
 		
-	<!--	<article class="member">
+	<article class="member">
 			<h3 class="member-name">You</h3>
 			<h4 class="member-position">Scientist</h4>
 			<p class="member-bio">
-				We are a looking for talented new additions to our lab. Please see the <a href="positions.php">positions</a> page for more information.
+				We are a looking for talented new additions to our lab. Please see the <a href="positions.php">positions</a> page.
 			</p>
 			<a href="positions.php">
 				<div class="member-avatar">
@@ -199,7 +199,6 @@
 			</a>
 		</article>
 		
-	-->
 
 
 
