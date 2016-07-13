@@ -27,9 +27,9 @@
 			<br />
 			<h3>Social networks</h3>
 			<p class="lead">
-				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter" target="_blank"></a> &nbsp;
-				<a href="https://github.com/leiferlab/" class="social-network icon-github" target="_blank"></a> &nbsp;
-				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo" target="_blank"></a> &nbsp;
+				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter" target="_blank" title="Twitter"></a> &nbsp;
+				<a href="https://github.com/leiferlab/" class="social-network icon-github" target="_blank" title="Github"></a> &nbsp;
+				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo" target="_blank" title="Vimeo"></a> &nbsp;
 				<!--	<a class="social-network icon-linkedin"></a> &nbsp;
 					<a class="social-network icon-facebook"></a> &nbsp; -->
 			</p>
