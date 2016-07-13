@@ -112,7 +112,7 @@
 						2014-2016
 				</p>
 				<p class="member-bio">
-	Currently  undergrad student at Princeton.
+	Currently  undergrad at Princeton.
 				</p>
 				<div class="member-avatar">
 					<img alt="" src="assets/team/mazumderHeadsq.jpg" />
