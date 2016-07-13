@@ -94,7 +94,7 @@
 		
 		<article class="member">
 				<h3 class="member-name">You</h3>
-				<h4 class="member-position">Scientist</h4>
+				<h4 class="member-position"></h4>
 				<p class="member-bio">
 					We are a looking for talented new additions to our lab. Please see the <a href="positions.php">positions</a> page.
 				</p>
