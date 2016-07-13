@@ -112,7 +112,7 @@
 						2014-2016
 				</p>
 				<p class="member-bio">
-	Currently an undergraduate student at Princeton University pursuing a degree in Molecular Biology.
+	Currently  undergrad student at Princeton.
 				</p>
 				<div class="member-avatar">
 					<img alt="" src="assets/team/mazumderHeadsq.jpg" />
@@ -129,7 +129,7 @@
 					2013 - 2016
 				</p>
 				<p class="member-bio">
-					Department of Physics Treiman Fellow. Sanda &amp; Jeremiah Lambert '55 Undergraduate Neuroscience Research Award Recipient. Currently a Ph.D. candidate in Biophysics at Harvard University.
+					Currently a Ph.D. candidate in Biophysics at Harvard University.
 				</p>
 				<div class="member-avatar">
 					<img alt="" src="assets/team/mizesHeadsq.jpg" />
