@@ -16,7 +16,6 @@
 			<h3>Where to find us</h3>
 			<p class="active lead">
 				Leifer Lab <br />
-				Lewis-Sigler Institute for Integrative Genomics <br />
 				170 Carl C. Icahn Laboratory <br />
 				Princeton NJ 08544<br />
 			</p>
@@ -30,8 +29,8 @@
 			<p class="lead">
 				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter"></a> &nbsp;
 				<a href="https://github.com/leiferlab/" class="social-network icon-github"></a> &nbsp;
-				<!--<a class="social-network icon-vimeo"></a> &nbsp;
-					<a class="social-network icon-linkedin"></a> &nbsp;
+				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo"></a> &nbsp;
+				<!--	<a class="social-network icon-linkedin"></a> &nbsp;
 					<a class="social-network icon-facebook"></a> &nbsp; -->
 			</p>
 			<br />
