@@ -27,14 +27,14 @@
 			
 			
 			<div class="span4 newsletter">
-				<a href="httphttp://www.princeton.edu/physics/" title="Department of Physics" target="_blank">
+				<a href="http://www.princeton.edu/physics/" title="Department of Physics" target="_blank">
 					<img alt="Department of Physics" src="assets/physics_logo.png">
 				</a>
 
 			</div>
 			
 			<div class="span4 newsletter">
-				<a href="ttp://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
+				<a href="http://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
 					<img alt="Princeton Neuroscience Institute" src="assets/pni_logo.png">
 				</a>
 
