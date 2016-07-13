@@ -101,6 +101,8 @@
 			<p>Lab Alumni</p>
 			<hr />
 		</div>
+		
+		
 	<section id="team-members">
 		<article class="member">
 
@@ -135,7 +137,7 @@
 				</div>
 			</article>
 			
-			
+		<article class="member">
 			<h3 class="member-name">Fred Shipley</h3>
 			<h4 class="member-position">Research Specialist</h4>
 			<p class="member-contact">
