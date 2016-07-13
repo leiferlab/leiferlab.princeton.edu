@@ -23,8 +23,8 @@
 				</p>
 			</div>
 			<div class="span4 newsletter">
-				<a href="http://www.genomics.princeton.edu/" target="_blank">
-					<img src="assets/lewis_sigler_gray_transparent.png" alt="Lewis-Sigler Institute for Integrative Genomics">
+				<a href="httphttp://www.princeton.edu/physics/" target="_blank">
+					<img src="assets/physics_banner.png" alt="Department of Physics">
 				</a>
 
 			</div> 
@@ -36,14 +36,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="span4">
-				&copy; 2014 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
+				&copy; 2016 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
 			<div class="span4">
 					
 				<i class="icon-envelope"></i> <a href="mailto:leifer@princeton.edu" title="Send us email">leifer@princeton.edu</a> &nbsp; <i class="icon-phone"></i> (609) 258-2973 
 			</div>
 			<div class="span4">
-				<a href="http://www.genomics.princeton.edu/" target="_blank">Lewis-Sigler Institute for Integrative Genomics</a>
+				<a href="http://www.princeton.edu/physics/" target="_blank">Princeton University Department of Physics</a>
 					
 			</div>
 		</div> <!-- end .row -->		
