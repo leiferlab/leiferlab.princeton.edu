@@ -94,43 +94,6 @@
 		
 		
 		
-			
-			<article class="member">
-				<h3 class="member-name">David Mazumder</h3>
-				<h4 class="member-position">Undergraduate Student</h4>
-				<p class="member-contact">
-					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mazumder@princeton.edu">mazumder@princeton.edu</a><br \>
-					<i class="icon-phone"></i> (609) 258-2973<br \>
-				</p>
-				<p class="member-bio">
-	David is an undergraduate student at Princeton University pursuing a degree in Molecular Biology. He is excited to be exploring the intersection of genetics in neuroscience, aka nematodes. Around the lab, he acts as George's shadow; outside, he enjoys playing piano, singing songs, and hanging out with his brothers in his New Jersey home.
-				</p>
-				<div class="member-avatar">
-					<img alt="" src="assets/team/mazumderHeadsq.jpg" />
-				</div>
-			</article>	
-			
-			
-		<article class="member">
-			<h3 class="member-name">Kevin Mizes</h3>
-			<h4 class="member-position">Undergraduate Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kmizes@princeton.edu">kmizes@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br	 \>
-			</p>
-			<p class="member-bio">
-				Kevin Mizes is an undergraduate at Princeton University pursuing a degree in Physics. He plans for a future career in research. Kevin grew up in cloudy Rochester, New York.
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/mizesHeadsq.jpg" />
-			</div>
-		</article>
-		
-	</section>	
-
-
-
-
 	<div class="textblock">
 	</div>
 	
@@ -140,6 +103,39 @@
 		</div>
 	<section id="team-members">
 		<article class="member">
+
+			<article class="member">
+				<h3 class="member-name">David Mazumder</h3>
+				<h4 class="member-position">Undergraduate Student</h4>
+				<p class="member-contact">
+						2014-2016
+				</p>
+				<p class="member-bio">
+	Currently an undergraduate student at Princeton University pursuing a degree in Molecular Biology.
+				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/mazumderHeadsq.jpg" />
+				</div>
+			</article>	
+			
+			
+			
+			
+			<article class="member">
+				<h3 class="member-name">Kevin Mizes</h3>
+				<h4 class="member-position">Undergraduate Student</h4>
+				<p class="member-contact">
+					2013 - 2016
+				</p>
+				<p class="member-bio">
+					Department of Physics Treiman Fellow. Sanda &amp; Jeremiah Lambert '55 Undergraduate Neuroscience Research Award Recipient. Currently a Ph.D. candidate in Biophysics at Harvard University.
+				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/mizesHeadsq.jpg" />
+				</div>
+			</article>
+			
+			
 			<h3 class="member-name">Fred Shipley</h3>
 			<h4 class="member-position">Research Specialist</h4>
 			<p class="member-contact">
