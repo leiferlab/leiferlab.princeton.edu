@@ -24,7 +24,7 @@
 			</div>
 			<div class="span4 newsletter">
 				<a href="httphttp://www.princeton.edu/physics/" target="_blank">
-					<img src="assets/physics_banner.png" alt="Department of Physics">
+					<img src="assets/physics_logo.png" alt="Department of Physics">
 				</a>
 
 			</div> 
