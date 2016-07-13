@@ -22,9 +22,17 @@
 					<!-- <a class="social-network icon-linkedin"></a> --> 
 				</p>
 			</div>
+			
 			<div class="span4 newsletter">
-				<a href="httphttp://www.princeton.edu/physics/" target="_blank">
-					<img src="assets/physics_logo.png" alt="Department of Physics">
+				<a href="httphttp://www.princeton.edu/physics/" title="Department of Physics" target="_blank">
+					<img alt="Department of Physics" src="assets/physics_logo.png">
+				</a>
+
+			</div>
+			
+			<div class="span4 newsletter">
+				<a href="httphttp://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
+					<img alt="Princeton Neuroscience Institute" src="assets/pni_logo.png">
 				</a>
 
 			</div> 
@@ -43,7 +51,7 @@
 				<i class="icon-envelope"></i> <a href="mailto:leifer@princeton.edu" title="Send us email">leifer@princeton.edu</a> &nbsp; <i class="icon-phone"></i> (609) 258-2973 
 			</div>
 			<div class="span4">
-				<a href="http://www.princeton.edu/physics/" target="_blank">Princeton University Department of Physics</a>
+				<a href="http://www.princeton.edu/physics/" target="_blank">Department of Physics</a>
 					
 			</div>
 		</div> <!-- end .row -->		
