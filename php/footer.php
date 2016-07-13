@@ -46,12 +46,8 @@
 <footer id="copyright">
 	<div class="container">
 		<div class="row">
-			<div class="span8">
+			<div class="span12">
 				&copy; 2016 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
-			</div>
-			<div class="span4">
-					
-				<i class="icon-envelope"></i> <a href="mailto:leifer@princeton.edu" title="Send us email">leifer@princeton.edu</a>
 			</div>
 
 		</div> <!-- end .row -->		
