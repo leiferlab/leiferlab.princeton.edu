@@ -31,7 +31,7 @@
 			</div>
 			
 			<div class="span4 newsletter">
-				<a href="httphttp://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
+				<a href="ttp://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
 					<img alt="Princeton Neuroscience Institute" src="assets/pni_logo.png">
 				</a>
 
