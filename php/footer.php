@@ -12,25 +12,28 @@
 					<img alt="Princeton University" src="assets/PUsig2-158U-ww-os.png">
 				</a>
 			</div>
-			<div class="span3 social-networks">
+		
+		
+		<!-- 	<div class="span4 social-networks"> 
 				<h3>Find us elsewhere</h3>
 				<p> 
-					<a class="social-network icon-twitter" href="https://twitter.com/AndrewLeifer" target="_blank"></a>
+					<a class="social-network icon-twitter" href="https://twitter.com/AndrewLeifer" target="_blank"></a> -->
 					<!-- <a class="social-network icon-facebook"></a> -->
 					<!--	<a class="social-network icon-vimeo"></a> -->   
-					<a class="social-network icon-github" href="https://github.com/leiferlab" target="_blank"></a> 
+			<!--		<a class="social-network icon-github" href="https://github.com/leiferlab" target="_blank"></a> -->
 					<!-- <a class="social-network icon-linkedin"></a> --> 
-				</p>
-			</div>
+			<!--	</p>
+			</div> -->
 			
-			<div class="span3 newsletter">
+			
+			<div class="span4 newsletter">
 				<a href="httphttp://www.princeton.edu/physics/" title="Department of Physics" target="_blank">
 					<img alt="Department of Physics" src="assets/physics_logo.png">
 				</a>
 
 			</div>
 			
-			<div class="span3 newsletter">
+			<div class="span4 newsletter">
 				<a href="ttp://pni.princeton.edu" title="Princeton Neuroscience Institute" target="_blank">
 					<img alt="Princeton Neuroscience Institute" src="assets/pni_logo.png">
 				</a>
