@@ -7,7 +7,7 @@
 <footer id="footer">
 	<div class="container">
 		<div class="row">
-			<div class="span3">
+			<div class="span4">
 				<a href="http://www.princeton.edu" title="Princeton University" target="_blank">
 					<img alt="Princeton University" src="assets/PUsig2-158U-ww-os.png">
 				</a>
