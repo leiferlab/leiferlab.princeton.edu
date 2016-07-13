@@ -54,7 +54,9 @@
 				<i class="icon-envelope"></i> <a href="mailto:leifer@princeton.edu" title="Send us email">leifer@princeton.edu</a> &nbsp; <i class="icon-phone"></i> (609) 258-2973 
 			</div>
 			<div class="span4">
-				<a href="http://www.princeton.edu/physics/" target="_blank">Department of Physics</a>
+				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter" target="_blank" title="Twitter"></a> &nbsp;
+				<a href="https://github.com/leiferlab/" class="social-network icon-github" target="_blank" title="Github"></a> &nbsp;
+				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo" target="_blank" title="Vimeo"></a> &nbsp;
 					
 			</div>
 		</div> <!-- end .row -->		
