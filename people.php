@@ -91,7 +91,7 @@
 			</div>
 		</article>	
 		
-		
+	</section>	
 		
 		
 	<div class="textblock">
@@ -205,7 +205,7 @@
 
 
 
-	
+	</section>
 
 	<?php 
 		include('php/footer.php');
