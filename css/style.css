@@ -99,6 +99,7 @@ blockquote {
 
 ul {
 	margin:20px 0;
+	margin-left:1.5em;
 }
 ul li i[class^="icon-"] {
 	color:#999;
