@@ -40,17 +40,17 @@
 	
 	<h3>Popular press articles featuring our work</h3>
 	<ul class="publications">
-	<li>Emily Reynolds, " Neural activity of worm captured in mesmerising display," <a href="http://www.wired.co.uk/article/inside-worm-brain"><i>Wired</i></a>, 5 January 2016.</li>
+	<li>Emily Reynolds, "Neural activity of worm captured in mesmerising display," <a href="http://www.wired.co.uk/article/inside-worm-brain"><i>Wired</i></a>, 5 January 2016.</li>
 
-	<li>Steve dent, "Watch a worm’s brain light up as it plots its next move," <i><a href="https://www.engadget.com/2015/12/31/watch-a-worms-brain-light-up-as-it-plots-its-next-move/">Engadget</a></i>, 31 December 2015.</li>
+	<li>Steve Dent, "Watch a worm’s brain light up as it plots its next move," <i><a href="https://www.engadget.com/2015/12/31/watch-a-worms-brain-light-up-as-it-plots-its-next-move/">Engadget</a></i>, 31 December 2015.</li>
 	
 	<li>Esther Inglis-Arkell, "We can now watch the inside of a worm brain at work, <i><a href="http://gizmodo.com/we-can-now-watch-the-inside-of-a-worms-brain-at-work-1750380910">Gizmodo</a></i>, 30 December 2015.</li>
 	
 	<li>Morgan Kelly, "3-D footage of nematode brains links neurons with motion and behavior," <i> <a href="https://www.princeton.edu/main/news/archive/S45/14/90K98/index.xml?section=topstories">News at Princeton</a></i>, 30 December 2015.</li>
 	
-	<li>"First Videos Created of Whole Brain Neural Activity in an Unrestrained Animal," <a href="https://www.technologyreview.com/s/534481/first-videos-created-of-whole-brain-neural-activity-in-an-unrestrained-animal/"><i>MIT Technology Review</i></a>, January 25 2015.</li>
+	<li>"First videos created of whole brain neural activity in an unrestrained Animal," <a href="https://www.technologyreview.com/s/534481/first-videos-created-of-whole-brain-neural-activity-in-an-unrestrained-animal/"><i>MIT Technology Review</i></a>, January 25 2015.</li>
 		
-	<li>Laura Sanders, Making a worm do more than squirm <i><a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm#video" target="_blank">Science News</a></i> 16 January 2011.</li>
+	<li>Laura Sanders, "Making a worm do more than squirm," <i><a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm#video" target="_blank">Science News</a></i> 16 January 2011.</li>
 
 	<li>David Castelvecchi, "Single Worm Neurons Remotely Controlled with Lasers", <i><a href="http://www.scientificamerican.com/article.cfm?id=single-worm-neurons">Scientific American</a></i> 16 January 2011.</li>
 	
