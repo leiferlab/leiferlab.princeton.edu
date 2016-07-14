@@ -228,7 +228,7 @@
 					<b class="project-name">Andrew Leifer</b> <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain/foundations-global-brain-collaboration/andrew-m-leifer/" target="_blank">joins</a> the <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank"> Simons Foundation Collaboration on the Global Brain</a> research project.
 				</div>
 				<!-- ribbon -->
-				<div class="ribbon"><span>New</span></div>
+				<!-- <div class="ribbon"><span>New</span></div> -->
 			</div>
 
 		</article>
