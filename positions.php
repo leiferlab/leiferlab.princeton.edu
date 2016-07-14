@@ -28,7 +28,7 @@
 
 <!-- <p>Future searches and openings will be posted here.</p> -->
 
-<h2 name="grad">Graduate Students</h2>
+<h2><a name="grad">Graduate Students</a></h2>
 <p>Current or incoming Princeton graduate students interested in rotating or joining the lab should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. Dr. Leifer participates in the <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> and <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a> graduate programs. Prospective  students considering applying to Princeton should also explore Princeton's flexible umbrella life sciences graduate program, <a href="https://www.princeton.edu/biology/">Biology @ Princeton</a>.</p>
 <hr />
 
