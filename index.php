@@ -8,7 +8,7 @@
 	<div>
 		<section class="row">
 			<article class="span12">
-				<h1>Neural Dynamics of<span class="grey">Behavior</span></h1>
+				<h1>Neural Dynamics <span class="grey">of </span> Behavior</h1>
 				<p>
 					Our lab seeks to understand how patterns of neural activity generate animal behavior. In particular, we study the model organism <i>C. elegans</i>, a microscopic worm with a simple nervous system capable of rich behaviors. We have pioneered optogenetic microscopy techniques to optically manipulate and monitor populations of neurons in an animal as it moves. <a class="" href="research.php">Read more &raquo;</a></p>
 			</article>
