@@ -46,16 +46,15 @@
 <footer id="copyright">
 	<div class="container">
 		<div class="row">
-			<div class="span10" id="copyright-text">
+			<div class="span8" id="copyright-text">
 				&copy; 2016 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
 			
-			<p class="span2">
-				<a href="mailto:leifer@princeton.edu" class="social-network icon-envelope" id="copyright-small-icons" target="_blank" title="Email leifer@princeton.edu"></a> &nbsp;
-				<a href="mailto:leifer@princeton.edu" class="social-network icon-envolope" id="copyright-small-icons" target="_blank" title="Email leifer@princeton.edu"></a> &nbsp;
+			<p class="span4">
 				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter" id="copyright-small-icons" target="_blank" title="Twitter"></a> &nbsp;
 				<a href="https://github.com/leiferlab/" class="social-network icon-github" id="copyright-small-icons" target="_blank" title="Github"></a> &nbsp;
 				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo" id="copyright-small-icons" target="_blank" title="Vimeo"></a> &nbsp;
+				<a href="mailto:leifer@princeton.edu" class="social-network icon-envelope" id="copyright-small-icons" target="_blank" title="Email leifer@princeton.edu"></a> &nbsp;
 				<!--	<a class="social-network icon-linkedin"></a> &nbsp;
 					<a class="social-network icon-facebook"></a> &nbsp; -->
 			</p>
