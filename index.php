@@ -199,7 +199,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Whole-brain imaging</b>  paper, Ngyuen et. al, is published in  <a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank">PNAS</a>.
+					<b class="project-name">Whole-brain imaging</b>  paper, Ngyuen et. al, is published in  <a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank">PNAS</a> and featured in <a href="http://www.pnas.org/content/113/8/1965.full" target="_blank">this commentary</a>.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
