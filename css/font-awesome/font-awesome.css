@@ -97,6 +97,11 @@ ul.icons li .icon-large:before {
 .icon-envelope:before {
   content: "\f003";
 }
+
+.icon-envelope:hover{
+	color:#F47F22;
+}
+
 .icon-heart:before {
   content: "\f004";
 }
