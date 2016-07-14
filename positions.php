@@ -190,8 +190,8 @@ Essential qualifications:
 </ul>
 </p>
 <p>
-Preferred qualifications:
 <ul>
+Preferred qualifications:
 <li>Prior experience working with C. elegans is preferred</li>
 <li>Prior experience with microinjection is preferred</li>
 <li>Prior experience with Gateway or Gibson cloning techniques is preferred</li>
@@ -201,6 +201,7 @@ Preferred qualifications:
 <li>Familiarity with quantitative approaches to biology or neuroscience preferred. </li>
 <li>Willingness to conduct independent research and participate in project planning and experimental design.</li>
 </ul>
+</p>
 
 <p><i>Formal job posting to follow. For now please contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> directly.</i></p>
 
