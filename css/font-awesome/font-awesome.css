@@ -98,7 +98,7 @@ ul.icons li .icon-large:before {
   content: "\f003";
 }
 
-.icon-envelope:hover{
+a.icon-envelope:hover{
 	color:#F47F22;
 }
 
