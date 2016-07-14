@@ -31,8 +31,8 @@
 <h2>Staff scientist</h2>
 <p>A staff scientist is sought to perform and manage nematode transgenic efforts in the Leifer Lab. This appointment will be made at the rank of Associate Professional Specialist or more senior.  The Leifer Lab studies the patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
-<p>Specific duties include:
-<ul>
+<p>
+<ul><i>Specific duties include:</i>
 <li>Designing and generating novel transgenic strains of the nematode C. elegans optimized for calcium imaging and optogenetic applications. </li>
 <li>Researching and testing new gene editing techniques and adapting them for use in the lab.</li>
 <li>Carrying out independent investigations that focus on transgenics and molecular genetics.</li>
@@ -48,8 +48,8 @@
 </ul>
 </p>
 
-<p>Essential qualifications:
-<ul>
+<p>
+<ul><i>Essential qualifications:</i>
 	<li>Advanced degree in molecular or cellular biology, neuroscience, bioengineering or related field.</li>
 	<li>Prior experience working independently on complex multipart scientific investigation.</li>
 	<li>Prior experience performing nematode transgenics, including plasmid design, molecular cloning PCR, and microinjection.</li>
@@ -64,8 +64,8 @@
 </ul>
 </p>
 
-<p>Preferred Qualifications:
-<ul>
+<p>
+<ul><i>Preferred Qualifications:</i>
 	<li>Prior experience with Gateway or Gibson cloning techniques is preferred.</li>
 	<li>Prior experience with CRISPR or other advanced gene editing techniques is preferred.</li>
 	<li>Familiarity with quantitative approaches to biology or neuroscience preferred.</li>
@@ -74,6 +74,9 @@
 </ul>
 </p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.  This position is subject to the University’s background check policy.</p>
+
+<p><i>Formal job posting to follow. For now please contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> directly.</i></p>
+
 
 <hr />
 
@@ -84,8 +87,8 @@
 <p> A postdoctoral research associate or more senior is sought for a whole-brain neural imaging project in moving animals in the Leifer Laboratory at Princeton University's Department of Physics, affiliated with the Princeton Neuroscience Institute. The Leifer Lab develops novel optical techniques for probing neural dynamics that drive behavior in the nematode <i>C. elegans</i>.</p>
 <p> A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable mixing custom optical and electronics hardware and custom software. This position is subject to the University's background check policy. </p>
 
-<p>Ideal attributes are: 
-<ul>
+<p>
+<ul><i>Ideal attributes are: </i>
 	<li>Talented experimentalist with a history of performing difficult measurements</li>
 	<li>Talented troubleshooter of hardware and software</li>
 	<li>Experience with fluorescence microscopy and fundamentals of microscope design</li>
@@ -109,8 +112,8 @@
 <p> A postdoctoral research associate or more senior is sought for a whole-brain neural imaging project in moving animals in the Leifer Laboratory at Princeton University's Department of Physics, affiliated with the Princeton Neuroscience Institute. The Leifer Lab develops novel optical techniques for probing neural dynamics that drive behavior in the nematode <i>C. elegans</i>.</p>
 <p> A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable mixing custom optical and electronics hardware and custom software. This position is subject to the University's background check policy. </p>
 
-<p>Ideal attributes are: 
-<ul>
+<p>
+<ul><i>Ideal attributes are: </i>
 	<li>Talented experimentalist with a history of performing difficult measurements</li>
 	<li>Talented troubleshooter of hardware and software</li>
 	<li>Experience with fluorescence microscopy and fundamentals of microscope design</li>
@@ -135,8 +138,8 @@
 <p>A postdoctoral researcher or more senior is sought for a systems neuroscience project in the Leifer Lab investigating how a nervous system's structure informs or constrains neural function in the nematode C. elegans. The project will involve sophisticated transgenics and optical imaging. The Leifer Lab is affiliated with Princeton University's Department of Physics and the Princeton Neuroscience Institute. This position is subject to the University's background check policy.</p>
 <p> A Ph.D. in molecular biology, neuroscience, genetics or related field is required. Quantitative and mathematical fluency will also be critical. In particularly, someone is sought who is comfortable applying cutting edge genetic techniques in a neuroscience context as part of a large multipart quantitative scientific investigation.</p>
 
-<p>Ideal attributes are:
-	<ul>
+<p>
+	<ul><i>Ideal attributes are: </i>
 	<li>Talented at the bench with a history of performing difficult molecular or genetic manipulations</li>
 	<li>Talented troubleshooter of complicated molecular biology protocols</li>
 	<li>Prior exposure to neuroscience and/or C. elegans research</li>
@@ -161,8 +164,8 @@
 <h2>Research Specialist</h2>
 <p>A research specialist is sought to perform nematode transgenics in support of research efforts in the Leifer Lab. The Leifer Lab studies patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
-<p>Specific duties include:
-<ul>
+<p>
+<ul><i>Specific duties include:</i>
 	<li>Maintaining C. elegans stocks for experimentation.</li>
 	<li>Performing molecular cloning and plasmid design</li>
 	<li>Microinjecting C. elegans for creating new transgenic nematode  strains</li>
@@ -176,8 +179,7 @@
 </ul>
 </p>
 <p>
-Essential qualifications:
-<ul>
+<ul><i>Essential qualifications:</i>
 	<li>BA or BS in biology, neuroscience, bioengineering or related field. </li>
 	<li>Prior experience with genetics, molecular cloning and PCR</li>
 	<li>Prior experience working with a genetic model systems</li>
@@ -189,9 +191,11 @@ Essential qualifications:
 	<li>Applicant must have excellent organizational skills and flexibility to handle multiple tasks simultaneously.  The applicant should have a strong attention to detail and an independent problem-solving mentality.</li>
 </ul>
 </p>
+
+
 <p>
 <ul>
-Preferred qualifications:
+<i>Preferred qualifications:</i>
 <li>Prior experience working with C. elegans is preferred</li>
 <li>Prior experience with microinjection is preferred</li>
 <li>Prior experience with Gateway or Gibson cloning techniques is preferred</li>
