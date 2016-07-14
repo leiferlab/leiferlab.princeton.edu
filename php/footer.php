@@ -50,11 +50,9 @@
 				&copy; 2016 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
 			
-			<p class="span2">
+			<p class="span2" id="copyright-small-icons">
 				<a href="mailto:leifer@princeton.edu" class="social-network icon-envelope" target="_blank" title="Email leifer@princeton.edu"></a> &nbsp;
-=======
 				<a href="mailto:leifer@princeton.edu" class="social-network icon-envolope" target="_blank" title="Email leifer@princeton.edu"></a> &nbsp;
->>>>>>> a910a588ea7c6980b305b655d1caac5cf852b159
 				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter" target="_blank" title="Twitter"></a> &nbsp;
 				<a href="https://github.com/leiferlab/" class="social-network icon-github" target="_blank" title="Github"></a> &nbsp;
 				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo" target="_blank" title="Vimeo"></a> &nbsp;
