@@ -183,6 +183,34 @@
 	<section class="row" id="portfolio">
 		
 		
+		
+
+		<!-- portfolio item-->
+		<article class="span4 project">
+
+			<div class="thumbnail equalizeHeight">
+				<!-- image -->
+				<a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank" title="Inaguarl Dean for Research Innovation Fund" target="_blank">
+					<!--298x186 -->
+					<img src="assets/WholeBrainPaper.png"> 
+				</a>
+				<!-- description -->
+				<div class="project-description">
+					<!-- icon -->
+					<i class="icon-link"></i>
+					<!-- name -->
+					<b class="project-name">Leifer and Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a> award.
+				</div>
+				<!-- ribbon -->
+				<div class="ribbon"><span>New</span></div>
+			</div>
+
+		</article>
+		<!-- end portfolio item-->
+		
+		
+		
+		
 		<!-- portfolio item-->
 		<article class="span4 project">
 
@@ -210,28 +238,6 @@
 		
 		
 
-		<!-- portfolio item-->
-		<article class="span4 project">
-
-			<div class="thumbnail equalizeHeight">
-				<!-- image -->
-				<a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank" title="Inaguarl Dean for Research Innovation Fund" target="_blank">
-					<!--298x186 -->
-					<img src="assets/DeanResearch.png"> 
-				</a>
-				<!-- description -->
-				<div class="project-description">
-					<!-- icon -->
-					<i class="icon-link"></i>
-					<!-- name -->
-					<b class="project-name">Leifer and Shaevitz</b> recieve the <a href="http://www.princeton.edu/research/news/features/a/?id=12358" target="_blank">Inaugural Dean for Research Innovation Fund</a> award.
-				</div>
-				<!-- ribbon -->
-				<div class="ribbon"><span>New</span></div>
-			</div>
-
-		</article>
-		<!-- end portfolio item-->
 
 
 <!--
