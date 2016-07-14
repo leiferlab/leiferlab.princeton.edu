@@ -28,19 +28,19 @@
 
 <!-- <p>Future searches and openings will be posted here.</p> -->
 
-<h2><a name="grad">Graduate Students</a></h2>
+<h2><a name="grad"></a>Graduate Students</h2>
 <p>Current or incoming Princeton graduate students interested in rotating or joining the lab should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. Dr. Leifer participates in the <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> and <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a> graduate programs. Prospective  students considering applying to Princeton should also explore Princeton's flexible umbrella life sciences graduate program, <a href="https://www.princeton.edu/biology/">Biology @ Princeton</a>.</p>
 <hr />
 
 
-<h2 name="undergrad">Undergraduates</h2>
+<h2> <a name="undergrad"></a>Undergraduates</h2>
 <p>Princeton undergraduates interested in conducting research in the summer or as part of a Junior or Senior Thesis should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a visit. Please note: there are many funding opportunities for undergraduates, but they often have deadlines many months in advance, so please get in touch early. For example, our <a href="http://molbio.princeton.edu/undergraduate/research/summer-research">Summer Undergraduate Research Program in Molecular, Quantitative and Computational Biology</a> has a deadline of February 1st.</p>
 <hr />
 
 
 
 
-<h2 name="staffscientist">Staff scientist</h2>
+<h2><a name="staffscientist"></a>Staff scientist</h2>
 <p>A staff scientist is sought to perform and manage nematode transgenic efforts in the Leifer Lab. This appointment will be made at the rank of Associate Professional Specialist or more senior.  The Leifer Lab studies the patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
 <p>
@@ -94,7 +94,7 @@
 
 
 
-<h2 name="postdoc">Post-docs</h2>
+<h2><a name="postdoc"></a>Post-docs</h2>
 <h3>Postdoctoral Research Associate: Whole Brain Imaging</h3>
 <p> A postdoctoral research associate or more senior is sought for a whole-brain neural imaging project in moving animals in the Leifer Laboratory at Princeton University's Department of Physics, affiliated with the Princeton Neuroscience Institute. The Leifer Lab develops novel optical techniques for probing neural dynamics that drive behavior in the nematode <i>C. elegans</i>.</p>
 <p> A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable mixing custom optical and electronics hardware and custom software. This position is subject to the University's background check policy. </p>
@@ -148,7 +148,7 @@
 
 <hr /> 
 	  
-<h2 name="researchspecialist">Research Specialist</h2>
+<h2> <a name="researchspecialist"></a>Research Specialist</h2>
 <p>A research specialist is sought to perform nematode transgenics in support of research efforts in the Leifer Lab. The Leifer Lab studies patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
 <p>
