@@ -43,10 +43,10 @@
 	</div> <!-- end .container -->
 </footer><!-- end #footer -->
 
-<footer>
+<footer id="copyright">
 	<div class="container">
 		<div class="row">
-			<div class="span10" id="copyright">
+			<div class="span10" id="copyright-text">
 				&copy; 2016 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
 			

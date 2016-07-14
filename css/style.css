@@ -310,12 +310,27 @@ footer p {
 		background:url(../img/copyright-background.png) repeat-x #080707;
 		margin:0;
 		padding:14px 0 12px 0;
-		font-size:0.9em;
-		color:#999999;
-	}
+/*		font-size:0.9em;
+		color:#999999; 
+	}	
+	
 	#copyright a {
-		color:#fff;
+		color:#fff; */  /* Andy Removced this to add in social network icons */
 	}
+	
+	
+	/* Andy added to accomadate social network icons in the copyright bar */
+	#copyright-text {	
+		font-size:0.9em;
+		color:#999999; 
+	}	
+	
+	#copyright-text a {
+		color:#fff; 
+	}
+	
+	
+	
 
 /* ---------------------------------------------------------------------- */
 /*	Tables
