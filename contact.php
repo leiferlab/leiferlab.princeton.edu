@@ -38,7 +38,7 @@
 		</div>
 		<div class="span6 pull1">
 				<img id="pic" src="assets/640px-Inside_Icahn.jpg" class="img-rounded" alt="Lewis Sigler Institute at the Carl. C. Ichan Laboratory">
-						<p>The Lewis-Sigler Institute at Carl C. Icahn Laboratory</p>
+						<p>Carl Icahn Laboratory, home to the Leifer Lab.</p>
 
 		</div>
 

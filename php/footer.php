@@ -46,9 +46,17 @@
 <footer id="copyright">
 	<div class="container">
 		<div class="row">
-			<div class="span12">
+			<div class="span11">
 				&copy; 2016 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
+			
+			<p class="span1" id="content">
+				<a href="https://twitter.com/AndrewLeifer" class="social-network icon-twitter" target="_blank" title="Twitter"></a> &nbsp;
+				<a href="https://github.com/leiferlab/" class="social-network icon-github" target="_blank" title="Github"></a> &nbsp;
+				<a href="https://vimeo.com/user11723595" class="social-network icon-vimeo" target="_blank" title="Vimeo"></a> 
+			</p>
+			
+			
 
 		</div> <!-- end .row -->		
 	</div> <!-- end .container -->
