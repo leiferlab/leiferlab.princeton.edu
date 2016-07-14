@@ -19,13 +19,15 @@
 <!-- <p>Future searches and openings will be posted here.</p> -->
 
 <h2>Graduate Students</h2>
-<p>Current or incoming Princeton graduate students interested in rotating or joining the lab should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. Dr. Leifer participates in the <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> and <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a> graduate programs. Prospective graduate students  should also explore Princeton's flexible umbrella lifesciences graduate progra, <a href="https://www.princeton.edu/biology/">Biology@Princeton</a>.</p>
+<p>Current or incoming Princeton graduate students interested in rotating or joining the lab should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. Dr. Leifer participates in the <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> and <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a> graduate programs. Prospective  students considering applying to Princeton should also explore Princeton's flexible umbrella life sciences graduate program, <a href="https://www.princeton.edu/biology/">Biology @ Princeton</a>.</p>
+<hr />
+
 
 <h2>Undergraduates</h2>
 <p>Princeton undergraduates interested in conducting research in the summer or as part of a Junior or Senior Thesis should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a visit. Please note: there are many funding opportunities for undergraduates, but they often have deadlines many months in advance, so please get in touch early. For example, our <a href="http://molbio.princeton.edu/undergraduate/research/summer-research">Summer Undergraduate Research Program in Molecular, Quantitative and Computational Biology</a> has a deadline of February 1st.</p>
-
-
 <hr />
+
+
 
 
 <h2>Staff scientist</h2>
@@ -83,31 +85,6 @@
 
 
 <h2>Post-docs</h2>
-<h3>Postdoctoral Research Associate: Whole Brain Imaging</h3>
-<p> A postdoctoral research associate or more senior is sought for a whole-brain neural imaging project in moving animals in the Leifer Laboratory at Princeton University's Department of Physics, affiliated with the Princeton Neuroscience Institute. The Leifer Lab develops novel optical techniques for probing neural dynamics that drive behavior in the nematode <i>C. elegans</i>.</p>
-<p> A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable mixing custom optical and electronics hardware and custom software. This position is subject to the University's background check policy. </p>
-
-<p>
-<ul><i>Ideal attributes are: </i>
-	<li>Talented experimentalist with a history of performing difficult measurements</li>
-	<li>Talented troubleshooter of hardware and software</li>
-	<li>Experience with fluorescence microscopy and fundamentals of microscope design</li>
-	<li>Fluency in at least one programming language, and prior exposure to Matlab, LabView and C.</li>
-	<li>Able and willing to dive into large code-bases</li>
-	<li>Experience with digital signal processing and image processing</li>
-	<li>Comfortable learning new topics independently via the literature in the areas of computer vision, machine learning, optics or electronics</li>
-	<li>Interested in neuroscience and/or life sciences, although prior experience in these areas is not strictly necessary</li>
-	<li>Willing to balance competing demands for rapid instrument design and troubleshooting with the need to design tools that are sustainable, maintainable and user-friendly</li>
-	<li>Ability to mentor others</li>
-	<li>Someone who is organized, self-motivated</li>
-	<li>Able to work well in a team, but also able to work independently</li>
-	<li>Clear communicator</li>
-</ul>
-</p> 
-<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page.</a></p>
-<p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
-
-
 <h3>Postdoctoral Research Associate: Whole Brain Imaging</h3>
 <p> A postdoctoral research associate or more senior is sought for a whole-brain neural imaging project in moving animals in the Leifer Laboratory at Princeton University's Department of Physics, affiliated with the Princeton Neuroscience Institute. The Leifer Lab develops novel optical techniques for probing neural dynamics that drive behavior in the nematode <i>C. elegans</i>.</p>
 <p> A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable mixing custom optical and electronics hardware and custom software. This position is subject to the University's background check policy. </p>
