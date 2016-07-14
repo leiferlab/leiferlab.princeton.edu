@@ -29,7 +29,7 @@
 											
 				<div class="media-grid pull-left leftImg">
 
-				      <img class="thumbnail" src="assets/LeiferHeadsm.jpg">
+				      <img class="thumbnail" src="assets/20151223_Leifer_Tiny.jpg">
 
 			  </div> 											
 			  
