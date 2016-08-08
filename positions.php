@@ -87,7 +87,7 @@
 </p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.  This position is subject to the University’s background check policy.</p>
 
-<p>Please submit CV, cover letter and references through Princeton University's <a href="https://physics.princeton.edu/jobs/Apply/App0.php">Department of Physics Employment page</a> #1600550, "Associate Professional Specialist/Leifer Lab."</p>
+<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a> #1600550, "Associate Professional Specialist/Leifer Lab."</p>
 
 <hr />
 
@@ -115,7 +115,7 @@
 	<li>Clear communicator</li>
 </ul>
 </p> 
-<p>Please submit CV, cover letter and references through Princeton University's <a href="https://physics.princeton.edu/jobs/Apply/App0.php">Department of Physics Employment page</a> #1600539.</p>
+<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a> #1600539.</p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 
@@ -142,7 +142,7 @@
 	<li>Clear communicator    </li>
 	<ul>
 </p>
-<p>Please submit CV, cover letter and references through Princeton University's <a href="https://physics.princeton.edu/jobs/Apply/App0.php">Department of Physics Employment page</a> #1600540.</p>
+<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a> #1600540.</p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 <hr /> 
