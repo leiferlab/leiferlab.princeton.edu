@@ -29,7 +29,7 @@
 <!-- <p>Future searches and openings will be posted here.</p> -->
 
 <h2><a name="grad"></a>Graduate Students</h2>
-<p>Current or incoming Princeton graduate students interested in rotating or joining the lab should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. Dr. Leifer participates in the <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> and <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a> graduate programs. Prospective  students considering applying to Princeton should also explore Princeton's flexible umbrella life sciences graduate program, <a href="https://www.princeton.edu/biology/">Biology @ Princeton</a>.</p>
+<p>Current or incoming Princeton graduate students interested in rotating or joining the lab should contact <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. Dr. Leifer participates in the <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> and <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a> graduate programs, and can explore taking students from other departments on a case-by-case basis. </p>
 <hr />
 
 
@@ -87,7 +87,7 @@
 </p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.  This position is subject to the University’s background check policy.</p>
 
-<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a> #1600550, "Associate Professional Specialist/Leifer Lab."</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600550, "Associate Professional Specialist."</p>
 
 <hr />
 
@@ -115,7 +115,7 @@
 	<li>Clear communicator</li>
 </ul>
 </p> 
-<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a>, listing "Postdoctoral Research Associate - Whole-brain Neural Imaging," #1600539.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600539, "Postdoctoral Research Associate" .</p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 
@@ -142,7 +142,8 @@
 	<li>Clear communicator    </li>
 	<ul>
 </p>
-<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a>, listing "Postdoctoral Research Associate - Neuroscience", #1600540.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600540, "Postdoctoral Research Associate" .</p>
+
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 <hr /> 
@@ -193,8 +194,8 @@
 </ul>
 </p>
 
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600652, "Research Specialist" .</p>
 
-<p>Please submit CV, cover letter and references through Princeton University's <a href="http://www.princeton.edu/physics/about/employment/">Department of Physics Employment page</a>, listing "Research Specialist",  #0005784.</p>
 
 
 
@@ -209,4 +210,4 @@
 
 	<?php 
 		include('php/footer.php');
-	?>
+?>
