@@ -40,7 +40,7 @@
 
 
 
-<h2><a name="staffscientist"></a>Staff scientist</h2>
+<h2><a name="staffscientist"></a>Staff scientist - #1600550</h2>
 <p>A staff scientist is sought to perform and manage nematode transgenic efforts in the Leifer Lab. This appointment will be made at the rank of Associate Professional Specialist or more senior.  The Leifer Lab studies the patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
 <p>
@@ -87,14 +87,14 @@
 </p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.  This position is subject to the University’s background check policy.</p>
 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600550, "Associate Professional Specialist."</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website</a> and search for <b>requisition number 1600550</b>.</p>
 
 <hr />
 
 
 
 <h2><a name="postdoc"></a>Post-docs</h2>
-<h3>Postdoctoral Research Associate: Whole Brain Imaging</h3>
+<h3>Postdoctoral Research Associate: Whole Brain Imaging - #1600539</h3>
 <p> A postdoctoral research associate or more senior is sought for a whole-brain neural imaging project in moving animals in the Leifer Laboratory at Princeton University's Department of Physics, affiliated with the Princeton Neuroscience Institute. The Leifer Lab develops novel optical techniques for probing neural dynamics that drive behavior in the nematode <i>C. elegans</i>.</p>
 <p> A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable mixing custom optical and electronics hardware and custom software. This position is subject to the University's background check policy. </p>
 
@@ -115,12 +115,12 @@
 	<li>Clear communicator</li>
 </ul>
 </p> 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600539, "Postdoctoral Research Associate" .</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website </a> and search for <b>requisition number 1600539.</b></p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 
 
-<h3>Postdoctoral Research Associate: Systems Neuroscience</h3>
+<h3>Postdoctoral Research Associate: Systems Neuroscience - #1600540</h3>
 <p>A postdoctoral researcher or more senior is sought for a systems neuroscience project in the Leifer Lab investigating how a nervous system's structure informs or constrains neural function in the nematode C. elegans. The project will involve sophisticated transgenics and optical imaging. The Leifer Lab is affiliated with Princeton University's Department of Physics and the Princeton Neuroscience Institute. This position is subject to the University's background check policy.</p>
 <p> A Ph.D. in molecular biology, neuroscience, genetics or related field is required. Quantitative and mathematical fluency will also be critical. In particularly, someone is sought who is comfortable applying cutting edge genetic techniques in a neuroscience context as part of a large multipart quantitative scientific investigation.</p>
 
@@ -149,7 +149,7 @@
 
 <hr /> 
 	  
-<h2> <a name="researchspecialist"></a>Research Specialist</h2>
+<h2> <a name="researchspecialist"></a>Research Specialist - #1600652</h2>
 <p>A research specialist is sought to perform nematode transgenics in support of research efforts in the Leifer Lab. The Leifer Lab studies patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
 <p>
@@ -195,7 +195,7 @@
 </ul>
 </p>
 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton</a> website and search for requisition number 1600652, "Research Specialist" .</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website</a> and search for <b>requisition number 1600652</b>.</p>
 
 
 
