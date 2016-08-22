@@ -87,7 +87,7 @@
 </p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.  This position is subject to the University’s background check policy.</p>
 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website</a> and search for <b>requisition number 1600550</b>.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a> and search for <b>requisition number 1600550</b>.</p>
 
 <hr />
 
@@ -115,7 +115,7 @@
 	<li>Clear communicator</li>
 </ul>
 </p> 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website </a> and search for <b>requisition number 1600539.</b></p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website </a> and search for <b>requisition number 1600539.</b></p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 
@@ -142,7 +142,7 @@
 	<li>Clear communicator    </li>
 	</ul>
 </p>
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website</a> and search for <b>requisition number 1600540</b></a>.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a> and search for <b>requisition number 1600540</b></a>.</p>
 
 
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
@@ -195,7 +195,7 @@
 </ul>
 </p>
 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu/applicants/jsp/shared/search/Search_css.jsp">Jobs at Princeton website</a> and search for <b>requisition number 1600652</b>.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a> and search for <b>requisition number 1600652</b>.</p>
 
 
 
