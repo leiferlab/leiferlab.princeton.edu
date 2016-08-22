@@ -40,7 +40,7 @@
 
 
 
-<h2><a name="staffscientist"></a>Staff scientist - #1600550</h2>
+<h2><a name="staffscientist"></a>Staff scientist (Associate Professional Specialist) - #1600550</h2>
 <p>A staff scientist is sought to perform and manage nematode transgenic efforts in the Leifer Lab. This appointment will be made at the rank of Associate Professional Specialist or more senior.  The Leifer Lab studies the patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from physics, neuroscience and molecular biology. The Leifer Lab is affiliated with Princeton University’s Department of Physics and the Princeton Neuroscience Institute.</p>
 
 <p>
@@ -87,7 +87,7 @@
 </p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.  This position is subject to the University’s background check policy.</p>
 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a> and search for <b>requisition number 1600550</b>.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a>. Search for open position <b>requisition number 1600550</b>.</p>
 
 <hr />
 
@@ -115,7 +115,7 @@
 	<li>Clear communicator</li>
 </ul>
 </p> 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website </a> and search for <b>requisition number 1600539.</b></p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website </a>. Search for open position <b>requisition number 1600539.</b></p>
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
 
 
@@ -142,7 +142,7 @@
 	<li>Clear communicator    </li>
 	</ul>
 </p>
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a> and search for <b>requisition number 1600540</b></a>.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a>. Search for open position <b>requisition number 1600540</b></a>.</p>
 
 
 <p>Princeton University is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>
@@ -195,7 +195,7 @@
 </ul>
 </p>
 
-<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a> and search for <b>requisition number 1600652</b>.</p>
+<p>To apply, please submit CV, cover letter and list of three references through the <a href="https://jobs.princeton.edu">Jobs at Princeton website</a>. Search for open position <b>requisition number 1600652</b>.</p>
 
 
 
