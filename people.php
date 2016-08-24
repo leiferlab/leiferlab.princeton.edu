@@ -77,20 +77,7 @@
 			</div>
 		</article>
 		
-		<article class="member">
-			<h3 class="member-name">Sherif Gerges</h3>
-			<h4 class="member-position">Research Specialist</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sgerges@princeton.edu">sgerges@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
-			</p>
-			<p class="member-bio">Sherif is a research assistant in the Leifer lab. He grew up in Cairo, Egypt before moving to the US to study molecular biology, joining the Hazard Lab at Montclair State University as an undergrad. In 2011, he spent a summer at the Sternberg lab at Caltech, where Paul advised him to look into systems biology. He then collaborated with the Zinn lab at Caltech, analyzing biological networks. After graduating, he joined the Ploss lab at Princeton to study viral infectious kinetics. In his spare time, Sherif enjoys reading, working out and listening to metal. 
-			<p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/sgerges.jpg" />
-			</div>
-		</article>	
-		
+
 		
 		<article class="member">
 				<h3 class="member-name">You</h3>
@@ -122,6 +109,20 @@
 			<p>Lab Alumni</p>
 			<hr />
 		</div>
+		
+		
+		<article class="member">
+			<h3 class="member-name">Sherif Gerges</h3>
+			<h4 class="member-position">Research Specialist</h4>
+			<p class="member-contact">
+				2015-2016
+			</p>
+			<p class="member-bio">Currently a Ph.D. candidate in the Biological Biomedical Sciences program at Harvard Medical School.
+			<p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/sgerges.jpg" />
+			</div>
+		</article>	
 		
 		
 	<section id="team-members">
