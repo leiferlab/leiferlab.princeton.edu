@@ -11,12 +11,20 @@
 		<p>	<a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%28Leifer%20AM[Author]%29%20AND%20%28%222003%22[Date%20-%20Create]%20%3A%20%223000%22[Date%20-%20Create]%29">PubMed</a>  Listing, 
 			ORCID: #<a href="http://orcid.org/0000-0002-5362-5093">0000-0002-5362-5093</a>
 		</p>
+	<p>
+		<ul>
+			<li><a href="#peerreview">Peer-reviewed journal articles</a></li>
+			<li><a href="#pop">Popular press articles featuring our work</a></li>
+			<li><a href="#vid">Video Recorded Lectures</a></li>
+			<li><a href="#slides">Lecture slides</a></li>
+		</ul>
+	</p>
 	
 	</div>
 	<hr />		
 		
 	<div class="textblock">			
-		<h3>Peer-reviewed journal articles</h3>
+		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
 
 <li>Jeffrey P. Nguyen, Frederick B. Shipley, Ashley N. Linder, George S. Plummer, Mochi Liu, Sagar U. Setru, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Whole-brain calcium imaging with cellular resolution in freely behaving <i>Caenorhabditis elegans</i>" <i><a href="http://www.pnas.org/content/early/2015/12/23/1507110112.abstract.html">Proceedings of the National Academy of Sciences of the United States of America</a></i>, 10.1073/pnas.1507110112, Published online before print December 28, (2015). [<a href="http://www.pnas.org/content/early/2015/12/23/1507110112.full.pdf?with-ds=yes">PDF</a> and Movies <a href="http://static-movie-usa.glencoesoftware.com/source/10.1073/245/a321fb2cf399f52928565d056879ba6917038463/pnas.1507110112.sm01.mp4">S1</a>, <a hr=ef"http://static-movie-usa.glencoesoftware.com/source/10.1073/245/a321fb2cf399f52928565d056879ba6917038463/pnas.1507110112.sm01.mp4">S2</a>, <a href="http://static-movie-usa.glencoesoftware.com/source/10.1073/245/a321fb2cf399f52928565d056879ba6917038463/pnas.1507110112.sm01.mp4">S3</a> and <a href="http://static-movie-usa.glencoesoftware.com/source/10.1073/245/a321fb2cf399f52928565d056879ba6917038463/pnas.1507110112.sm01.mp4">S4</a>] </li>
@@ -38,7 +46,7 @@
 <div class="textblock">
 
 	
-	<h3>Popular press articles featuring our work</h3>
+	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
 	<li>Emily Reynolds, "Neural activity of worm captured in mesmerising display," <a href="http://www.wired.co.uk/article/inside-worm-brain"><i>Wired</i></a>, 5 January 2016.</li>
 
@@ -60,7 +68,7 @@
 <hr />
 
 <div class="textblock">
-	<h3>Video Recorded Lectures</h3>
+	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
 	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/149168719">"Whole-brain neural dynamics and behavior in freely moving C. elegans"</a>,  <i>Emerging Tools for Acquisition and Interpretation of Whole-Brain Functional Data</i>, HHMI Janelia Research Campus, 3 November 2015. 12 minutes.<br> <iframe src="https://player.vimeo.com/video/149168719" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
 
@@ -70,7 +78,7 @@
 
 		
 		
-	<h3>Lecture slides</h3>
+	<h3><a name="slides"></a>Lecture slides</h3>
 	<ul class="publications">
 		<li><b>Andrew Leifer</b>, "Optical neurophysiology in freely behaving <i>C. elegans</i>"  <i>C. elegans topic meeting: neuronal development, synaptic function and behavior </i>, University of Wisconsin Madison, 9 July 2014. [<a href="http://leiferlab.princeton.edu/outsideAssets/CeNeuroWorkshop2014.pdf">PDF</a>] [<a href="https://www.zotero.org/groups/ceneuroworkshop2014/items">Bibliography</a>]
 	</ul>
