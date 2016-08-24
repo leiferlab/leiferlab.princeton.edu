@@ -23,12 +23,13 @@
 	<div class="meaty">			
 		<h3><a name="code"></a>Code</h3>
 		
-		All data acquisition and analysis code used in Leifer Lab publications are publicly available for download at <a href="http://github.com/leiferlab/">http://github.com/leiferlab/</a>.
+		Data acquisition and analysis code used in Leifer Lab publications is available at <a href="http://github.com/leiferlab/">http://github.com/leiferlab/</a>.
 			<hr />		
 		<h3><a name="#data"></a>Data</h3>
-		<p>Extracted and processed data for all Leifer Lab senior-author publications are included as supplement in each respective journal article.</p> 
+		<p>Processed data for all Leifer Lab senior-author publications are included as supplement in each respective journal article.</p> 
 		
-		<p>The sheer size of raw imaging data makes it difficult to share. Those who seek raw imaging data may provide 1TB hard drives and pre-paid shipping and we will load the hard drives with the raw data and ship them back. For Nguyen et al., PNAS 2015, we are experimenting with making all raw data publicly available through Amazon S3 using a requester-pays model.  All of the raw imaging data used in that paper (approximately half a terabyte) is now publicly available on the bucket  <a href="s3://leiferlabnguyen2015">s3://leiferlabnguyen2015</a> to any user with an <a href="http://aws.amazon.com">Amazon Web Services</a> account. The data is free to transfer to any Amazon EC2 instance. To download the data out of Amazon, the requester will be charged Amazon's data transfer rate of $0.09 USD per GB (as of this posting). The most up-to-date pricing is available <a href="https://aws.amazon.com/s3/pricing/">here</a>. For more information please see: <a href="http://docs.aws.amazon.com/AmazonS3/latest/dev/RequesterPaysBuckets.html">Amazon's Requester Pays</a>. Note in addition to an AWS account, you will also need a client that supports S3 Requester Pays buckets, such as the free <a href="https://cyberduck.io/">Cyberduck</a> client.</p> 
+		<p>Those who seek raw imaging data may provide 1TB hard drives and pre-paid shipping and we will load the hard drives with the raw data and ship them back.</p> 
+		<p>For Nguyen et al., PNAS 2015, we are making all raw data publicly available through Amazon S3 using a  <a href="http://docs.aws.amazon.com/AmazonS3/latest/dev/RequesterPaysBuckets.html">Requester Pays</a> model.  All raw imaging data used in that paper (approximately half a terabyte) is available on the bucket  <a href="s3://leiferlabnguyen2015">s3://leiferlabnguyen2015</a> to any user with an <a href="http://aws.amazon.com">Amazon Web Services</a> account. The data is free to transfer to any Amazon EC2 instance. To download the data out of Amazon, the requester will be charged Amazon's data transfer rate of $0.09 USD per GB (as of this posting). See  <a href="https://aws.amazon.com/s3/pricing/">Amazon's page for up-to-date pricing</a>. . Note in addition to an AWS account, you will also need a client that supports S3 Requester Pays buckets, such as the free <a href="https://cyberduck.io/">Cyberduck</a> client.</p> 
 			
 			 	<hr />		
 		<h3><a name="worms"></a>Worms</h3>
