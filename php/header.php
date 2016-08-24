@@ -87,6 +87,7 @@ echo '';
 						 <li class="<?php checkActive($currfile, 'people.php');  ?>"><a href="people.php" title="People">People</a></li> 
 						<!-- <li><a href="blog.html" title="blog">Blog</a></li> -->
 						<li class="<?php checkActive($currfile, 'positions.php');  ?>"><a href="positions.php" title="Positions">Positions</a></li>
+						<li class="<?php checkActive($currfile, 'sharing.php');  ?>"><a href="sharing.php" title="Sharing">Sharing</a></li>
 						<li class="<?php checkActive($currfile, 'contact.php');  ?>"><a href="contact.php" title="Contact us">Contact</a></li>
 					</ul>
 				</div><!-- end .container -->
