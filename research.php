@@ -3,7 +3,7 @@
 	</div>
 	<div class="meaty">
 	<p>
-How do a collection of neurons work together to receive information from the environment, encode that information, and then process it to generate purposeful behavior? The Leifer lab uses optical neurophysiology techniques, such as optogenetics and calcium imaging, to probe and peer into the nerual activity of the small worm <i>C. elegans</i> and study the neural basis of behavior.
+How do a collection of neurons work together to receive information from the environment, encode that information, and then process it to generate purposeful behavior? The Leifer lab uses optical neurophysiology techniques, such as optogenetics and calcium imaging, to probe and peer into the neural activity of the small worm <i>C. elegans</i> and study the neural basis of behavior.
 	<hr />
 
 	
