@@ -22,7 +22,7 @@ How do a collection of neurons work together to receive information from the env
 		
 		<h3>Video</h3>
 		
-		<p>For a detailed introduction to the lab's research, see the video <a href="https://vimeo.com/150687408"> "Whole-brain neural dynamics and behavior in freely moving nematodes,"</a> from February 2015 by Andrew Leifer.</p>
+		<p>For a recent introduction to the lab's research, see the video <a href="https://vimeo.com/184408711"> "How does a nervous system transition between behavior states?,"</a> from February 2016 by Andrew Leifer.</p>
 		
 </div>
 	</section>

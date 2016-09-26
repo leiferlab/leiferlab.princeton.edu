@@ -70,7 +70,7 @@
 <div class="textblock">
 	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/184408711">"How does a nervous system generate behavior?"</a>,  <i>Princeton Neuroscience Institute Seminar</i>, Princeton University, 16 February 2016. 29 minutes.<br> <iframe src="https://player.vimeo.com/video/184408711" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>		
+	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/184408711">"How does a nervous system transition between behavior states?"</a>,  <i>Princeton Neuroscience Institute Seminar</i>, Princeton University, 16 February 2016. 29 minutes.<br> <iframe src="https://player.vimeo.com/video/184408711" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>		
 		
 	<li><b>Andrew Leifer</b>, <a href="https://vimeo.com/149168719">"Whole-brain neural dynamics and behavior in freely moving C. elegans"</a>,  <i>Emerging Tools for Acquisition and Interpretation of Whole-Brain Functional Data</i>, HHMI Janelia Research Campus, 3 November 2015. 12 minutes.<br> <iframe src="https://player.vimeo.com/video/149168719" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
 
