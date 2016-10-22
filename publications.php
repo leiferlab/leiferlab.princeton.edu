@@ -23,7 +23,16 @@
 	</div>
 	<hr />		
 		
-	<div class="textblock">			
+	<div class="textblock">		
+		
+				<h3><a name="peerreview"></a>Manuscripts pre-peer review</h3>
+				<ul class="publications">
+
+		<li>Jeffrey P. Nguyen, Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Automatically tracking neurons in a moving and deforming brain" <i><a href="https://arxiv.org/abs/1610.04579">arXiv</a></i>, arXiv:1610.04579, 14 Oct 2016. [<a href="https://arxiv.org/pdf/1610.04579v1">PDF</a] </li>
+				</li>
+				</ul>
+		
+			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
 
