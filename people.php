@@ -18,7 +18,7 @@
 			<p class="member-contact">
 								
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:leifer@princeton.edu">leifer@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
+				<i class="icon-phone"></i> (609) 258-8779<br \>
 				<i class="icon-file"></i>&nbsp;<a href="assets/leiferCV.pdf">CV</a> &nbsp;
 				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=18826+Leifer">Asteroid</a>
 			</p>
@@ -30,6 +30,19 @@
 			</div>
 		</article>
 		
+		<article class="member">
+			<h3 class="member-name">Anuj Sharma, Ph.D.</h3>
+			<h4 class="member-position">Staff Scientist</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:aksharma@princeton.edu">aksharma@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-8635<br \>
+			</p>
+			<p class="member-bio">
+				Anuj Sharma is an Associate Professional Specialist and Lab Manager in the Department of Physics. Previously, he had been a Postdoctoral Associate at University of Maryland, College Park and Cornell University, Ithaca. He received his Doctorate in Biotechnology from Jawaharlal Nehru University, New Delhi. Other than science, he is interested in Nature Photography and Sketching.</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/sharmaHeadSq.png" />
+			</div>
+		</article>
 		<article class="member">
 			<h3 class="member-name">Jeffrey Nguyen, Ph.D.</h3>
 			<h4 class="member-position">Post-doctoral Fellow</h4>
