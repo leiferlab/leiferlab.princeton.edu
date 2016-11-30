@@ -40,7 +40,7 @@
 			<p class="member-bio">
 				Anuj Sharma is an Associate Professional Specialist and Lab Manager in the Department of Physics. Previously, he had been a Postdoctoral Associate at University of Maryland, College Park and Cornell University, Ithaca. He received his Doctorate in Biotechnology from Jawaharlal Nehru University, New Delhi. Other than science, he is interested in Nature Photography and Sketching.</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/sharmaHeadSq.png" />
+				<img alt="" src="assets/team/sharmaHeadSq.jpg" />
 			</div>
 		</article>
 		<article class="member">
