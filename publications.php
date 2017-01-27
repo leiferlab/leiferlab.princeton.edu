@@ -57,6 +57,7 @@
 	
 	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
+	<li>Emily Singer, "Capturing the Whole Brain in Action,"<a href="https://www.simonsfoundation.org/uncategorized/capturing-the-whole-brain-in-action/?utm_source=SimonsFoundation.org+Newsletter&utm_campaign=3e4eb8cc28-January_2017_Simons_Foundation_Newsletter_01_06&utm_medium=email&utm_term=0_01c00e64ea-3e4eb8cc28-389524973"> <i>Simons Foudnation</i></a>, 22 December 2016.</li>
 	<li>Emily Reynolds, "Neural activity of worm captured in mesmerising display," <a href="http://www.wired.co.uk/article/inside-worm-brain"><i>Wired</i></a>, 5 January 2016.</li>
 
 	<li>Steve Dent, "Watch a worm’s brain light up as it plots its next move," <i><a href="https://www.engadget.com/2015/12/31/watch-a-worms-brain-light-up-as-it-plots-its-next-move/">Engadget</a></i>, 31 December 2015.</li>
