@@ -23,7 +23,7 @@
 				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=18826+Leifer">Asteroid</a>
 			</p>
 			<p class="member-bio">
-				Andrew Leifer is an Assistant Professor in the Department of Physics and the Princeton Neuroscience Institute. Previously he was a  Lewis-Sigler Fellow and Principal Investigator. He received his doctorate in Biophysics from Harvard University under the supervision of Professor Aravi Samuel. As an undergraduate, he attended Stanford University where he graduated with degrees in Physics and Political Science and interdisciplinary honors in international security studies. He grew up out west in sunny California and Colorado. 
+				Andrew Leifer is an Assistant Professor in the Department of Physics and the Princeton Neuroscience Institute. Previously he was a  Lewis-Sigler Fellow and Principal Investigator at the Lewis-Sigler Institute for Integrative Genomics. He received his doctorate in Biophysics from Harvard University under the supervision of Professor Aravi Samuel. As an undergraduate, he attended Stanford University where he graduated with degrees in Physics and Political Science and interdisciplinary honors in international security studies. He grew up out west in sunny California and Colorado. 
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LeiferHeadSq2.jpeg" />
