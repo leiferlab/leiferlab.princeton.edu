@@ -43,20 +43,6 @@
 				<img alt="" src="assets/team/sharmaHeadSq.jpg" />
 			</div>
 		</article>
-		<article class="member">
-			<h3 class="member-name">Jeffrey Nguyen, Ph.D.</h3>
-			<h4 class="member-position">Post-doctoral Fellow</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:jnguyen@princeton.edu">jnguyen@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
-			</p>
-			<p class="member-bio">
-				<!-- bio here-->
-				</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/jnguyen.png" />
-			</div>
-		</article>
 		
 		<article class="member">
 			<h3 class="member-name">Ashley Linder</h3>
@@ -123,6 +109,19 @@
 			<hr />
 		</div>
 		
+		<article class="member">
+			<h3 class="member-name">Jeffrey Nguyen, Ph.D.</h3>
+			<h4 class="member-position">Post-doctoral Fellow</h4>
+			<p class="member-contact">
+			2015-2017	
+			</p>
+			<p class="member-bio">
+			Currently at TheDataIncubator.com.<!-- bio here-->
+				</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/jnguyen.png" />
+			</div>
+		</article>
 		
 		<article class="member">
 			<h3 class="member-name">Sherif Gerges</h3>
