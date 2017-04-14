@@ -13,13 +13,13 @@
 	</div>
 	<div class="meaty">
 	<p>Our work spans disciplines. We seek individuals with backgrounds in physics, neuroscience, molecular biology, engineering or programming who are interested in applying their skills towards investigating how patterns of neural activity drive behavior.</p>
-	<p>We are seeking people at all levels:
+<!--	<p>We are seeking people at all levels:
 		<ul>
 			<li><a href="#grad">Graduate Student</a></li>
 			<li><a href="#undergrad">Undergraduate Student</a></li>
 			<li><a href="#postdoc">Post-doctoral research scholar</a></li>
 		</ul>
-	</p>
+	</p> -->
 	
 	<hr />
 <!-- <h3>There are currently no ongoing searches</h3> -->
