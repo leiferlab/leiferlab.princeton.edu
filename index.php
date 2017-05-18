@@ -203,7 +203,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Automated neuron tracking</b>  paper, Ngyuen et. al, is published in  <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517" target="_blank">PLOS Comp Bio</a>. Accompanying <a href="http://dx.doi.org/10.21227/H2901H">data</a> and <a href="http:://github.com/leiferlab/NeRVEclustering">code</a> are also available.</a>.
+					<b class="project-name">Automated neuron tracking</b>  paper, Ngyuen et. al, is published in  <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517" target="_blank">PLOS Comp Bio</a>. Accompanying <a href="http://dx.doi.org/10.21227/H2901H">data</a> and <a href="http:://github.com/leiferlab/NeRVEclustering">code</a> are also available.
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
