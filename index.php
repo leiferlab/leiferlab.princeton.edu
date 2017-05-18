@@ -185,12 +185,40 @@
 		
 		
 
+		
+		
+		
+
 		<!-- portfolio item-->
 		<article class="span4 project">
 
 			<div class="thumbnail equalizeHeight">
 				<!-- image -->
-				<a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank" title="Inaguarl Dean for Research Innovation Fund" target="_blank">
+				<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517" target="_blank" title="Automatically tracking moving and deforming brains" target="_blank">
+					<!--298x186 -->
+					<img src="assets/TrackingPaper.png"> 
+				</a>
+				<!-- description -->
+				<div class="project-description">
+					<!-- icon -->
+					<i class="icon-link"></i>
+					<!-- name -->
+					<b class="project-name">Automated neuron tracking</b>  paper, Ngyuen et. al, is published in  <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517" target="_blank">PLOS Comp Bio</a>. Accompanying <a href="http://dx.doi.org/10.21227/H2901H">data</a> and <a href="http:://github.com/leiferlab/NeRVEclustering">code</a> are also available.</a>.
+				</div>
+				<!-- ribbon -->
+				<div class="ribbon"><span>New</span></div>
+			</div>
+
+		</article>
+		<!-- end portfolio item-->
+		
+		
+		<!-- portfolio item-->
+		<article class="span4 project">
+
+			<div class="thumbnail equalizeHeight">
+				<!-- image -->
+				<a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank" title="Whole Brain Calcium imaging in freely moving animals" target="_blank">
 					<!--298x186 -->
 					<img src="assets/WholeBrainPaper.png"> 
 				</a>
@@ -202,38 +230,11 @@
 					<b class="project-name">Whole-brain imaging</b>  paper, Ngyuen et. al, is published in  <a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank">PNAS</a> and featured in <a href="http://www.pnas.org/content/113/8/1965.full" target="_blank">this commentary</a>.
 				</div>
 				<!-- ribbon -->
-				<div class="ribbon"><span>New</span></div>
+				
 			</div>
 
 		</article>
 		<!-- end portfolio item-->
-		
-		
-		
-		
-		<!-- portfolio item-->
-		<article class="span4 project">
-
-			<div class="thumbnail equalizeHeight">
-				<!-- image -->
-				<a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank" title="Simons Foundation Collaboration on the Global Brain" target="_blank">
-					<!--298x186 -->
-					<img src="assets/SimonsAward.png"> 
-				</a>
-				<!-- description -->
-				<div class="project-description">
-					<!-- icon -->
-					<i class="icon-link"></i>
-					<!-- name -->
-					<b class="project-name">Andrew Leifer</b> <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain/foundations-global-brain-collaboration/andrew-m-leifer/" target="_blank">joins</a> the <a href="https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-global-brain-2/whole-brain-calcium-imaging-in-freely-behaving-nematodes/" target="_blank"> Simons Foundation Collaboration on the Global Brain</a> research project.
-				</div>
-				<!-- ribbon -->
-				<!-- <div class="ribbon"><span>New</span></div> -->
-			</div>
-
-		</article>
-		<!-- end portfolio item-->
-		
 		
 		
 		
