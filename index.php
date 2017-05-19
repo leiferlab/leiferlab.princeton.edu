@@ -203,7 +203,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Automated neuron tracking</b>  paper, Ngyuen et. al, is published in <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517" target="_blank">PLOS Comp Bio</a>. 
+					<b class="project-name">Automated neuron tracking</b>  paper, Ngyuen et. al, is featured on <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517" target="_blank">PLOS Comp Bio</a> homepage. 
 				</div>
 				<!-- ribbon -->
 				<div class="ribbon"><span>New</span></div>
