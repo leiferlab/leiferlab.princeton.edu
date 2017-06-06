@@ -81,7 +81,6 @@
 <ul class="publications">
 	<li> Six Degrees, <a href="http://www.undiscoveredpodcast.org/six-degrees.html">Undiscovered</a>, 6 June 2017 [<a href="https://www.podtrac.com/pts/redirect.mp3/cdn.pri.org/sites/default/files/undiscovered/episode-audio/undiscovered-ep5-six-degrees.mp3">MP3</a>]. </li>
 
-<iframe frameborder="0"  src="https://www.pri.org/node/169033/embedded" height="80" width="40%"></iframe>
 </ul>
 </div>
 
