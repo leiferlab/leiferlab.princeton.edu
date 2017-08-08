@@ -219,7 +219,7 @@
 						2014-2016
 				</p>
 				<p class="member-bio">
-	Currently  undergrad at Princeton.
+	Currently an MD-PhD candidate at Harvard University.
 				</p>
 				<div class="member-avatar">
 					<img alt="" src="assets/team/mazumderHeadsq.jpg" />
