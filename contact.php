@@ -7,7 +7,7 @@
 
 	<div class="hero-unit">
 		<p>Contact</p>
-		<iframe id="map" width="100%" height="450" src="https://maps.google.com/maps?q=carl+icahn+laboratory&amp;oe=utf-8&amp;output=embed" frameborder="0"></iframe>
+		<iframe id="map" width="100%" height="450" src="https://maps.google.com/maps?q=Jadwin+Hall+Princeton&amp;oe=utf-8&amp;output=embed" frameborder="0"></iframe>
 		<img id="map-shadow" src="img/shadow.png" />
 	</div>
 	
