@@ -45,6 +45,32 @@
 		</article>
 		
 		<article class="member">
+			<h3 class="member-name">Francesco Randi, Ph.D.</h3>
+			<h4 class="member-position">Post-doctoral Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
+			<p class="member-bio">
+			        Francesco Randi is. 	
+
+			<div class="member-avatar">
+				<p>?</> <!--<img alt="" src="assets/team/sharmaHeadSq.jpg" />-->
+			</div>
+		</article>
+
+		<article class="member">
+			<h3 class="member-name">Monika Scholz, Ph.D.</h3>
+			<h4 class="member-position">Dicke Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mzcholz@princeton.edu">mzcholz@princeton.edu</a><br \>
+			<p class="member-bio">
+				Monika Scholz is a Dicke Fellow. 	
+
+			<div class="member-avatar">
+				<img alt="" src="assets/team/scholzsq.jpg" />
+			</div>
+		</article>
+
+		<article class="member">
 			<h3 class="member-name">Ashley Linder</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
@@ -77,7 +103,54 @@
 		</article>
 		
 
+		<article class="member">
+			<h3 class="member-name">Xinwei Yu</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:xinweiy@princeton.edu">xinweiy@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				Xinwei is a graduate student in the Physics program.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/yu_sq.jpg" />
+			</div>
+		</article>
+
+
+		<article class="member">
+			<h3 class="member-name">Xiaoting (Ting-Ting) Sun</h3>
+			<h4 class="member-position">Undergraduate</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:xiaoting@princeton.edu">xiaoting@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				Ting Ting...
+			</p>
+			<div class="member-avatar">
+				<!--<img alt="" src="assets/team/yu_sq.jpg" /> -->
+				<p>?</p>
+			</div>
+		</article>
 		
+		<article class="member">
+			<h3 class="member-name">Milena Chakraverti-Wuerthwein</h3>
+			<h4 class="member-position">Undergraduate</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:milenac@princeton.edu">milenac@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				Milena...
+			</p>
+			<div class="member-avatar">
+				<!--<img alt="" src="assets/team/yu_sq.jpg" /> -->
+				<p>?</p>
+			</div>
+		</article>
+
 		<article class="member">
 				<h3 class="member-name">You</h3>
 				<h4 class="member-position"></h4>
