@@ -16,7 +16,8 @@
 			<h3>Where to find us</h3>
 			<p class="active lead">
 				Leifer Lab <br />
-				170 Carl C. Icahn Laboratory <br />
+				118 Jadwin Hall <br />
+				Joseph Henry Laboratories <br />
 				Princeton NJ 08544<br />
 			</p>
 			<p class="active lead" /=>
@@ -37,8 +38,8 @@
 
 		</div>
 		<div class="span6 pull1">
-				<img id="pic" src="assets/640px-Inside_Icahn.jpg" class="img-rounded" alt="Lewis Sigler Institute at the Carl. C. Ichan Laboratory">
-						<p>Carl Icahn Laboratory, home to the Leifer Lab.</p>
+				<img id="pic" src="assets/JadwinHall640px.JPG" class="img-rounded" alt="Jadwin Hall">
+						<p>Jadwin Hall, home to the Leifer Lab.</p>
 
 		</div>
 
