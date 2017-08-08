@@ -189,7 +189,7 @@
 			2015-2017	
 			</p>
 			<p class="member-bio">
-			Currently at TheDataIncubator.com.<!-- bio here-->
+			Currently Data Scientist at Gartner Inc.<!-- bio here-->
 				</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/jnguyen.png" />
