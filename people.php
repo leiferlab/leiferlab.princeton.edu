@@ -114,7 +114,7 @@
 				Xinwei is a graduate student in the Physics program.
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/yu_sq.jpg" />
+				<img alt="" src="assets/team/yu_sq.jpeg" />
 			</div>
 		</article>
 
