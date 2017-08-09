@@ -143,10 +143,11 @@
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Milena...
+				Milena is an undergraduate in the physics department. She is yet another San-Diego-related person in the lab, who mistakingly left the sun and beach and ended up in temperamental New Jersey. In her free time, she enjoys inserting San Diego into every possible conversation and nerding out about cool new lab gadgets.
+				
 			</p>
 			<div class="member-avatar">
-				<!--<img alt="" src="assets/team/yu_sq.jpg" /> -->
+				<img alt="" src="assets/team/chakraverti.jpeg" /> 
 				<p>?</p>
 			</div>
 		</article>
