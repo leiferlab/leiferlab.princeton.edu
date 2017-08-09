@@ -111,7 +111,7 @@
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Xinwei is a graduate student in the Physics program.
+				Xinwei is a graduate student in the Physics program. He grew up in Nanchang, China. He attended the University of Science and Technology of China for his undergraduate study. After he came to Princeton, Xinwei became interested in neuroscience and he is working on how brain generates behaviors now. Other than science, Xinwei likes playing basketball and badminton. He is also a big fan of soccer matches. 
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/yu_sq.jpeg" />
