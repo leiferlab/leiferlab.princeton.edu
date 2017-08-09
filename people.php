@@ -152,7 +152,7 @@
 			</div>
 		</article>
 
-		<article class="member">
+	<!--	<article class="member">
 				<h3 class="member-name">You</h3>
 				<h4 class="member-position"></h4>
 				<p class="member-bio">
@@ -164,7 +164,7 @@
 					</div>
 				</a>
 			</article>
-		
+		-->
 	</section>	
 		
 		
