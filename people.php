@@ -120,17 +120,17 @@
 
 
 		<article class="member">
-			<h3 class="member-name">Xiaoting (Ting-Ting) Sun</h3>
+			<h3 class="member-name">Xiaoting (Tingting) Sun</h3>
 			<h4 class="member-position">Undergraduate</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:xiaoting@princeton.edu">xiaoting@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Ting Ting...
+				Tingting is... just trying to figure life out. Can commonly be found photosynthesizing outside or in the company of cats.
 			</p>
 			<div class="member-avatar">
-				<!--<img alt="" src="assets/team/yu_sq.jpg" /> -->
+				<img alt="" src="assets/team/sun.jpg" /> 
 				<p>?</p>
 			</div>
 		</article>
