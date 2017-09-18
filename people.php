@@ -52,7 +52,7 @@
 			<p class="member-bio">
 
 			<div class="member-avatar">
-				<p>?</> <!--<img alt="" src="assets/team/sharmaHeadSq.jpg" />-->
+				<p>?</> <img alt="" src="assets/team/francsco_randi_sq.jpg" />
 			</div>
 		</article>
 
