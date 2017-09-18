@@ -50,7 +50,6 @@
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
 			<p class="member-bio">
-			        Francesco Randi is. 	
 
 			<div class="member-avatar">
 				<p>?</> <!--<img alt="" src="assets/team/sharmaHeadSq.jpg" />-->
