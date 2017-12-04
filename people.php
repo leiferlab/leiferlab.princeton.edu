@@ -60,7 +60,7 @@
 			<h3 class="member-name">Monika Scholz, Ph.D.</h3>
 			<h4 class="member-position">Dicke Fellow</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mzcholz@princeton.edu">mzcholz@princeton.edu</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mscholz@princeton.edu">mzcholz@princeton.edu</a><br \>
 			<p class="member-bio">
 				Monika Scholz is a Dicke Fellow. 	
 
