@@ -61,30 +61,16 @@
 			<h4 class="member-position">Dicke Fellow</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mscholz@princeton.edu">mzcholz@princeton.edu</a><br \>
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/Monika_K_Scholz">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/monikascholz/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="https://twitter.com/Monika_K_Scholz">Google Scholar</a> 
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/Monika_K_Scholz">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/monikascholz/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="https://scholar.google.com/citations?hl=en&user=s1ZrksIAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> 
 			<p class="member-bio">
-Scholz is a Dicke Fellow in the Physics Department. She received her Doctorate in Biophysics from the University of Chicago. As an undergraduate, she studied in Wurzburg and Dresden, where she got a degree in Physics. Since she started working with worms, the fascination with living matter hasn't stopped. Outside of work, Monika likes singing and road biking.
+Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doctorate in Biophysics from the University of Chicago. As an undergraduate, she studied in Wurzburg and Dresden, where she got a degree in Physics. Since she started working with worms, the fascination with living matter hasn't stopped. Outside of work, Monika likes singing and road biking.
 
 			<div class="member-avatar">
 				<img alt="" src="assets/team/scholzsq.jpg" />
 			</div>
 		</article>
 
-		<article class="member">
-			<h3 class="member-name">Ashley Linder</h3>
-			<h4 class="member-position">Graduate Student</h4>
-			<p class="member-contact">
-				 Jointly advised with <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:linder@princeton.edu">linder@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
-			</p>
-			<p class="member-bio">
-				Ashley Linder is a graduate student in Neuroscience. She grew up in California, and abandoned a promising career as a junior competitive surfer during a near drowning experience. Her fear of the ocean prompted her to stay indoors to study mathematics (she double-majored in Math and Neuroscience at  UCSD) and, eventually, propelled her to Princeton, as far away from the Pacific Ocean as she could get. Ashley has resumed surfing and sold her life story rights to make the movie Blue Crush, starring Kate Bosworth.
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/LinderHeadSq.jpg" />
-			</div>
-		</article>
+
 		
 		<article class="member">
 			<h3 class="member-name">Mochi Liu</h3>
@@ -182,6 +168,22 @@ Scholz is a Dicke Fellow in the Physics Department. She received her Doctorate i
 			<p>Lab Alumni</p>
 			<hr />
 		</div>
+		
+		
+		<article class="member">
+			<h3 class="member-name">Ashley Linder</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				2012-2017
+			</p>
+			<p class="member-bio">Currently in industry.			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/LinderHeadSq.jpg" />
+			</div>
+		</article>
+		
+		
+		
 		
 		<article class="member">
 			<h3 class="member-name">Jeffrey Nguyen, Ph.D.</h3>
