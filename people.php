@@ -61,8 +61,9 @@
 			<h4 class="member-position">Dicke Fellow</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mscholz@princeton.edu">mzcholz@princeton.edu</a><br \>
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/Monika_K_Scholz">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/monikascholz/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="https://twitter.com/Monika_K_Scholz">Google Scholar</a> 
 			<p class="member-bio">
-				Monika Scholz is a Dicke Fellow. 	
+Scholz is a Dicke Fellow in the Physics Department. She received her Doctorate in Biophysics from the University of Chicago. As an undergraduate, she studied in Wurzburg and Dresden, where she got a degree in Physics. Since she started working with worms, the fascination with living matter hasn't stopped. Outside of work, Monika likes singing and road biking.
 
 			<div class="member-avatar">
 				<img alt="" src="assets/team/scholzsq.jpg" />
