@@ -23,7 +23,7 @@ echo '';
 	<!-- Basic meta tags -->
 	<meta charset="utf-8">
 	<title>Leifer Lab @ Princeton - Optical neurophysiology of behavior</title>
-	<meta name="description" content="The Leifer Lab at the Lewis Sigler Institute for Integrative Genomics, Princeton University">
+	<meta name="description" content="The Leifer Lab studies neural dynamics and behavior at Princeton University">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta content="Andrew Leifer" name="author">
