@@ -50,9 +50,9 @@
 					<div class="carousel-inner">
 						<!-- Item -->
 						<div class="item active">
-							<a href="#"><img src="assets/carousel/lab_group_photo2013.jpg" alt="" /></a>
+							<a href="#"><img src="assets/carousel/2017_GroupPhoto.JGP" alt="" /></a>
 							<div class="carousel-caption">
-								<p>The Leifer Lab in the Carl Icahn Building at Princeton University.</p>
+								<p>The Leifer Lab outside Jadwin Hall at Princeton University.</p>
 							</div>
 						</div>
 						<!-- end Item -->
@@ -144,14 +144,7 @@
 					<!-- end Item -->
 			
 			
-					<!-- Item -->
-					<div class="item">
-						<img src="assets/carousel/CarlC_Icahn_Laboratory_Princeton_University_NewJersey_cc_carbonnyc.jpg" alt="" />
-						<div class="carousel-caption">
-							<p>The Leifer Lab is located in the Carl C. Icahn Lab (credit: carbonnyc)</p>
-						</div>			
-					</div>
-					<!-- end Item -->			
+	
 
 			
 
