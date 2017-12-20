@@ -50,7 +50,7 @@
 					<div class="carousel-inner">
 						<!-- Item -->
 						<div class="item active">
-							<a href="#"><img src="assets/carousel/2017_GroupPhoto.JGP" alt="" /></a>
+							<a href="#"><img src="assets/carousel/2017_GroupPhoto.JPG" alt="" /></a>
 							<div class="carousel-caption">
 								<p>The Leifer Lab outside Jadwin Hall at Princeton University.</p>
 							</div>
