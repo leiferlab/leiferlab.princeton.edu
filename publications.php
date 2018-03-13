@@ -25,10 +25,11 @@
 		
 	<div class="textblock">		
 		
-				<!-- <h3><a name="peerreview"></a>Manuscripts pre-peer review</h3> 
+				<h3><a name="peerreview"></a>Manuscripts pre-peer review</h3> 
 				<ul class="publications"> 
+				<li>Mochi Liu, Anuj K. Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Temporal processing and context dependency in <i>C. elegans</i> mechanosensation" <i><a href="ihttps://arxiv.org/abs/1803.04085">arXiv</a></i> arXiv:1803.04085, 12 Mar 2018.  [ <a href="https://arxiv.org/pdf/1803.04085"> PDF</a> ]</li>
 
-				</ul> -->
+				</ul>
 		
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
