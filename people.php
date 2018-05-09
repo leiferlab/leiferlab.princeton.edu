@@ -106,20 +106,23 @@ Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doct
 
 
 		<article class="member">
-			<h3 class="member-name">Xiaoting (Tingting) Sun</h3>
+			<h3 class="member-name">Alicia Castillo Bahena</h3>
 			<h4 class="member-position">Undergraduate</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:xiaoting@princeton.edu">xiaoting@princeton.edu</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:alicialc@princeton.edu">alicialc@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
 			</p>
 			<p class="member-bio">
-				Tingting is... just trying to figure life out. Can commonly be found photosynthesizing outside or in the company of cats.
+				Ali is Michigan native and a senior in the Princeton Neuroscience Institute. She is interested in the neural underpinnings of behavior and she hopes to continue her studies in graduate school this fall. Other than neuroscience, Ali loves to spend time with her family, cook, and pet cute dogs.
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/sun.jpg" /> 
+				<img alt="" src="assets/team/Ali.jpg" /> 
 				<p>?</p>
 			</div>
 		</article>
+
+
+
 		
 		<article class="member">
 			<h3 class="member-name">Milena Chakraverti-Wuerthwein</h3>
@@ -168,6 +171,22 @@ Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doct
 			<p>Lab Alumni</p>
 			<hr />
 		</div>
+		
+		
+		<article class="member">
+			<h3 class="member-name">Xiaoting (Tingting) Sun</h3>
+			<h4 class="member-position">Undergraduate</h4>
+			<p class="member-contact">
+				2017
+			</p>
+			<p class="member-bio">
+				Currently an undergraduate at Princeton.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/sun.jpg" /> 
+				<p>?</p>
+			</div>
+		</article>
 		
 		
 		<article class="member">
