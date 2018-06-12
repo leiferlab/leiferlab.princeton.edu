@@ -25,16 +25,12 @@
 		
 	<div class="textblock">		
 		
-				<h3><a name="peerreview"></a>Manuscripts pre-peer review</h3> 
-				<ul class="publications"> 
-				<li>Mochi Liu, Anuj K. Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Temporal processing and context dependency in <i>C. elegans</i> mechanosensation" <i><a href="https://arxiv.org/abs/1803.04085">arXiv</a></i> arXiv:1803.04085, 12 Mar 2018.  [ <a href="https://arxiv.org/pdf/1803.04085"> PDF</a> ]</li>
 
-				</ul>
 		
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-
+				<li>Mochi Liu, Anuj K. Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Temporal processing and context dependency in <i>C. elegans</i> mechanosensation"  in press at <i> eLife </i>  Preprint available on <i> <a href="https://arxiv.org/abs/1803.04085">arXiv</a></i> arXiv:1803.04085, 12 Mar 2018.  [ <a href="https://arxiv.org/pdf/1803.04085"> PDF</a> ]</li>
 		<li>Jeffrey P. Nguyen, Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Automatically tracking neurons in a moving and deforming brain" <i><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517">PLOS Computational Biology</a></i> 13(5): e1005517 (2017). [<a href="http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005517&type=printable">PDF</a>,  <a href="https://figshare.com/articles/Automatically_tracking_neurons_in_a_moving_and_deforming_brain/5018993">Movie</a>, <a href="http://dx.doi.org/10.21227/H2901H">Data</a>  and <a href="https://github.com/leiferlab/NeRVEclustering">Code</a>] </li>
 
 <li>Jeffrey P. Nguyen, Frederick B. Shipley, Ashley N. Linder, George S. Plummer, Mochi Liu, Sagar U. Setru, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Whole-brain calcium imaging with cellular resolution in freely behaving <i>Caenorhabditis elegans</i>" <i><a href="https://doi.org/10.1073/pnas.1507110112">Proceedings of the National Academy of Sciences of the United States of America</a></i>, 10.1073/pnas.1507110112, Published online before print December 28, (2015). [<a href="http://www.pnas.org/content/early/2015/12/23/1507110112.full.pdf?with-ds=yes">PDF</a> and Movies <a href="http://static-movie-usa.glencoesoftware.com/source/10.1073/245/a321fb2cf399f52928565d056879ba6917038463/pnas.1507110112.sm01.mp4">S1</a>, <a href"http://movie-usa.glencoesoftware.com/video/10.1073/pnas.1507110112/video-2">S2</a>, <a href="http://movie-usa.glencoesoftware.com/video/10.1073/pnas.1507110112/video-3">S3</a> and <a href="http://movie-usa.glencoesoftware.com/video/10.1073/pnas.1507110112/video-4">S4</a>; <a href="https://github.com/leiferlab/WholeBrainImagingSuite">Code</a>, <a href="http://www.pnas.org/content/113/8/E1074.abstract?tab=ds">Processed</a> and <a href="sharing.php#data">Raw</a> Data]. <a href="http://www.pnas.org/content/113/8/1965.full">Commentary</a>.</li>
