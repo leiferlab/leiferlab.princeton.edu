@@ -50,7 +50,7 @@
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
 			<p class="member-bio">
-
+                Francesco is a postdoc in the Department of Physics. Before joining the lab to study the dynamics of the nervous system in <span style="font-style:italic;">C. elegans</span>, back in Europe he was doing research on out-of-equilibrium condensed matter, shooting laser pulses on solids in Trieste and doing theory in Hamburg.
 			<div class="member-avatar">
 				<img alt="" src="assets/team/francsco_randi_sq.jpg" />
 			</div>
