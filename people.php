@@ -141,6 +141,23 @@ Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doct
 			</div>
 		</article>
 
+		<article class="member">
+			<h3 class="member-name">Kevin Sean Chen</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kschen@princeton.edu">kschen@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				...
+				
+			</p>
+			<div class="member-avatar">
+				<!--<img alt="" src="assets/team/chakraverti.jpeg" />--> 
+				<p>?</p>
+			</div>
+		</article>
+
 	<!--	<article class="member">
 				<h3 class="member-name">You</h3>
 				<h4 class="member-position"></h4>
