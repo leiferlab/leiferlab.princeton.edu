@@ -155,7 +155,7 @@ Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doct
 				
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/kschenSq.jpeg" />
+				<img alt="" src="assets/team/kschenSq.jpg" />
 				<p>?</p>
 			</div>
 		</article>
