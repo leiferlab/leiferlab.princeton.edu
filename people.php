@@ -147,10 +147,10 @@ Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doct
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kschen@princeton.edu">kschen@princeton.edu</a><br \>
 				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/kevinschen13">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/Kevin-Sean-Chen">GitHub</a>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
+				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
 			</p>
 			<p class="member-bio">
-				Kevin is a graduate student in the Princeton Neuroscience Institute, interested in systems/computational neuroscience and biophysics. He attended National Taiwan University for undergraduate studies, where his research focused on the neural code in retina. After coming to Princeton, He was fascinated by worms and plans to study neural dynamics and behavior. Outside of lab, Kevin enjoys jogging in the woods, jazz, sketching, and sweet/colorful American snacks.
+				Kevin is a graduate student in the Princeton Neuroscience Institute, interested in systems/computational neuroscience and biophysics. He attended National Taiwan University for undergraduate studies, where his research focused on the neural code in retina. After coming to Princeton, he was fascinated by worms and wants to study neural dynamics and behavior. Outside of lab, Kevin enjoys jogging in the woods, jazz, sketching, and sweet, colorful American snacks.
 
 				
 			</p>
