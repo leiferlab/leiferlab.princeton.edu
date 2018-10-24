@@ -30,7 +30,7 @@
 		
 		<ul class="publications">
 
-				<li>Monika Scholz, Ashley N Linder, Francesco Randi, Anuj K Sharma, Xinwei Yu, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Predicting natural behavior from whole-brain neural dynamics"  <a href="https://doi.org/10.1101/445643 ">bioRxiv</a>, 17 October (2018).  [ <a href="https://www.biorxiv.org/content/early/2018/10/17/445643.full.pdf"> PDF</a> <a href="http://doi.org/10.17605/OSF.IO/MW5ZS">Data</a> <a href="https://github.com/monikascholz/PredictionCode">Code</a> <a href="https://vimeo.com/295461323">Video 1</a> <a href="https://vimeo.com/295462311">Video 2</a> <a href="https://twitter.com/AndrewLeifer/status/1052742368565313536">Tweet Synopsis</a>]</li>
+				<li>Monika Scholz, Ashley N Linder, Francesco Randi, Anuj K Sharma, Xinwei Yu, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Predicting natural behavior from whole-brain neural dynamics"  <a href="https://doi.org/10.1101/445643 ">bioRxiv</a>, 17 October (2018).  [ <a href="https://www.biorxiv.org/content/early/2018/10/17/445643.full.pdf"> PDF</a>, <a href="http://doi.org/10.17605/OSF.IO/MW5ZS">Data</a>, <a href="https://github.com/monikascholz/PredictionCode">Code</a>, <a href="https://vimeo.com/295461323">Video 1</a>, <a href="https://vimeo.com/295462311">2</a>, <a href="https://twitter.com/AndrewLeifer/status/1052742368565313536">Synopsis</a>]</li>
 
 </ul>
 </div>
