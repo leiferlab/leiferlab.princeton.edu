@@ -108,7 +108,7 @@ Monika Scholz is a Dicke Fellow in the Physics Department. She received her Doct
 			<h3 class="member-name">Kevin Sean Chen</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
-				 Jointly advised with Jonathan Pillow.
+				 Jointly advised with Jonathan Pillow.<br \>
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kschen@princeton.edu">kschen@princeton.edu</a><br \>
 				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/kevinschen13">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/Kevin-Sean-Chen">GitHub</a>
 				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
