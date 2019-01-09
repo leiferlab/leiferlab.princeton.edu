@@ -50,8 +50,8 @@ Current or incoming Princeton graduate students interested in rotating should se
 <p>
 Exceptional postdoctoral candidates interested in working or collaborating with the lab are further encouraged to apply to any of the following prestigious named fellowships. These are awarded competitively at the departmental level and provide additional recognition and benefits. Please also notify Andrew Leifer if you plan to apply.
 <ul>
-<li><a href="https://biophysics.princeton.edu/opportunit">CPBF Fellowship at the <a href="https://biophysics.princeton.edu/">Center for Physics of Biological Function</a>. Deadline is usually early November.</li>
-<li><a href="http://pni.princeton.edu/opportunities/cv-starr-fellow-opportunities">CV Starr Fellowship</a> at the Princeton Neuroscience Institute <a href="http://pni.princeton.edu">. Deadline is usually late January.</li>
+<li><a href="https://biophysics.princeton.edu/opportunit">CPBF Fellowship</a> at the <a href="https://biophysics.princeton.edu/">Center for Physics of Biological Function</a>. Deadline is usually early November.</li>
+<li><a href="http://pni.princeton.edu/opportunities/cv-starr-fellow-opportunities">CV Starr Fellowship</a> at the <a href="http://pni.princeton.edu">Princeton Neuroscience Institute</a>. Deadline is usually late January.</li>
 <li><a href="https://phy.princeton.edu/dicke-fellows">Robert Dicke Fellowship</a> at the <a href="http://phy.princeton.ed">Department of Physics</a>.  Deadline is usually mid-November.      </li>
 </ul>
 </p>
