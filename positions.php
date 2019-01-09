@@ -35,7 +35,7 @@ Current or incoming Princeton graduate students interested in rotating should se
 <h2> <a name="undergrad"></a>Undergraduates</h2>
 <p>Princeton undergraduates interested in summer research or in conducting a  Junior or Senior Thesis should send a CV to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. It helps to get in touch early.</p> 
 	
-<p>Undergraduates from other instituions should consider applying to the <a href="http://molbio.princeton.edu/undergraduate/research/summer-research">MOL/QCB SURP</a> or <a href="http://pni.princeton.edu/summer-programs/pni-summer-internship-program">PNI Summer</a> research programs. Applications are usually due February 1.
+<p>Undergraduates from other instituions should consider applying to the <a href="https://molbio.princeton.edu/undergraduate/research/surp">MOL/QCB SURP</a> or <a href="http://pni.princeton.edu/summer-programs/pni-summer-internship-program">PNI Summer</a> research programs. Applications are usually due February 1.
 	
 	
 <hr />
@@ -48,11 +48,11 @@ Current or incoming Princeton graduate students interested in rotating should se
 
 
 <p>
-Exceptional postdoctoral candidates interested in working or collaborating with the lab are further encouraged to apply to any of the following prestigious named fellowships. These are awarded competitively at the departmental level and provide additional recognition and benefits. Check the job listings for up-to-date  deadlines, and please notify Andrew Leifer if you plan to apply.
+Exceptional postdoctoral candidates interested in working or collaborating with the lab are further encouraged to apply to any of the following prestigious named fellowships. These are awarded competitively at the departmental level and provide additional recognition and benefits. Please also notify Andrew Leifer if you plan to apply.
 <ul>
-<li>The CPBF Fellowship at the Center for Physics of Biological Function. Deadline is usually early November.</li>
-<li>The CV Starr Fellowship at the Princeton Neuroscience Institute. Deadline is usually late January.</li>
-<li>The Robert Dicke Fellowship at the Department of Physics.  Deadline is usually mid-November.      </li>
+<li><a href="https://biophysics.princeton.edu/opportunit">CPBF Fellowship at the <a href="https://biophysics.princeton.edu/">Center for Physics of Biological Function</a>. Deadline is usually early November.</li>
+<li><a href="http://pni.princeton.edu/opportunities/cv-starr-fellow-opportunities">CV Starr Fellowship</a> at the Princeton Neuroscience Institute <a href="http://pni.princeton.edu">. Deadline is usually late January.</li>
+<li><a href="https://phy.princeton.edu/dicke-fellows">Robert Dicke Fellowship</a> at the <a href="http://phy.princeton.ed">Department of Physics</a>.  Deadline is usually mid-November.      </li>
 </ul>
 </p>
 
