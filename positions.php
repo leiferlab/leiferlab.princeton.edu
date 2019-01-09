@@ -52,7 +52,7 @@ Exceptional postdoctoral candidates interested in working or collaborating with 
 <ul>
 <li><a href="https://biophysics.princeton.edu/opportunit">CPBF Fellowship</a> at the <a href="https://biophysics.princeton.edu/">Center for Physics of Biological Function</a>. Deadline is usually early November.</li>
 <li><a href="http://pni.princeton.edu/opportunities/cv-starr-fellow-opportunities">CV Starr Fellowship</a> at the <a href="http://pni.princeton.edu">Princeton Neuroscience Institute</a>. Deadline is usually late January.</li>
-<li><a href="https://phy.princeton.edu/dicke-fellows">Robert Dicke Fellowship</a> at the <a href="http://phy.princeton.ed">Department of Physics</a>.  Deadline is usually mid-November.      </li>
+<li><a href="https://phy.princeton.edu/dicke-fellows">Robert Dicke Fellowship</a> at the <a href="http://phy.princeton.edy">Department of Physics</a>.  Deadline is usually mid-November.      </li>
 </ul>
 </p>
 
