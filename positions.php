@@ -61,6 +61,7 @@ Current or incoming Princeton graduate students interested in rotating should se
 <p>Interested applicants must apply online at <a href="https://www.princeton.edu/acad-positions/position/10281">https://www.princeton.edu/acad-positions/position/10281</a>.</p>
 </p>
 
+<h2><a name="postdocfellowships"></a>Post-doc Fellowships</h2>
 
 <p>
 Exceptional postdoctoral candidates interested in working or collaborating with the lab are further encouraged to apply to any of the following prestigious named fellowships. These are awarded competitively at the departmental level and provide additional recognition and benefits. Please also notify Andrew Leifer if you plan to apply.
