@@ -44,7 +44,22 @@ Current or incoming Princeton graduate students interested in rotating should se
 
 
 <h2><a name="postdoc"></a>Post-docs</h2>
-<p>We are currently recruiting postdocs with a background in systems and circuit-level neuroscience. We expect to post a formal job ad  shortly. In the meantime, feel free to send a CV, cover letter or research statement, and contact info for three references to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> directly.</p>
+
+<p>A postdoctoral or more senior research position in experimental neuroscience is available in the laboratory of Andrew Leifer within the Department of Physics and Princeton Neuroscience Institute. The lab studies the patterns of neural activity that drive behavior in the nematode C. elegans using novel imaging approaches that combine techniques from neuroscience, physics and molecular biology. </p>
+
+
+<p>We are seeking an extremely motivated postdoctoral researcher with a background in neural systems or circuits investigations. The postdoctoral researcher will leverage the lab's optical neurophysiology toolkit to investigate neural circuit function underlying behavior in the nematode C. elegans. Experimental approaches will include calcium imaging of brain activity, optogenetic manipulation of specific neurons and circuits, behavioral experiments and genetic studies. Possible application domains may include sensorimotor processing, chemosensory guided navigation, mating behavior or learning. </p>
+
+
+<p>Successful applicants are expected to demonstrate a strong record of research accomplishment and creativity.</p>
+<p>The position has an initial appointment of one year with the possibility of renewal based on satisfactory performance and funding availability.</p>
+
+<p>Essential qualifications: Ph.D. in Neuroscience, Molecular Biology, Biophysics or other closely related field. Strong quantitative skills. Familiarity with MATLAB or Python. </p>
+
+<p>Preferred qualifications: Prior experience investigating neural circuit function. </p>
+
+<p>Interested applicants must apply online at <a href="https://www.princeton.edu/acad-positions/position/10281">https://www.princeton.edu/acad-positions/position/10281</a>.</p>
+</p>
 
 
 <p>
