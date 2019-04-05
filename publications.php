@@ -33,13 +33,15 @@
 
 				<li>Monika Scholz, Ashley N Linder, Francesco Randi, Anuj K Sharma, Xinwei Yu, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Predicting natural behavior from whole-brain neural dynamics"  <a href="https://doi.org/10.1101/445643 ">bioRxiv</a>, 17 October (2018).  [ <a href="https://www.biorxiv.org/content/early/2018/10/17/445643.full.pdf"> PDF</a>, <a href="https://twitter.com/AndrewLeifer/status/1052742368565313536">Synopsis</a>, <a href="https://vimeo.com/295461323">Video 1</a>, <a href="https://vimeo.com/295462311">2</a>, <a href="http://doi.org/10.17605/OSF.IO/MW5ZS">Data</a> and <a href="https://github.com/monikascholz/PredictionCode">Code</a> ]</li>
 
-				<li>Xiaowen Chen, Francesco Randi, <b>Andrew M. Leifer</b>, William Bialek. "Searching for collective behavior in a small brain"  <a href="https://arxiv.org/abs/1810.07623">arXiv</a>, arxiv:1810.07623, 17 October (2018).  [ <a href="https://arxiv.org/pdf/1810.07623">PDF</a> ]</li>
 </ul>
 </div>
 <hr />
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+
+				<li>Xiaowen Chen, Francesco Randi, <b>Andrew M. Leifer</b>, William Bialek. "Searching for collective behavior in a small brain"  <i>Phys Rev E</i> in press (2019). Preprint available on the <a href="https://arxiv.org/abs/1810.07623">arXiv</a>, arxiv:1810.07623, 17 October (2018).  [ <a href="https://arxiv.org/pdf/1810.07623">PDF</a> ]</li>
+
 				<li>Mochi Liu, Anuj K. Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Temporal processing and context dependency in <i>C. elegans</i> response to mechanosensation"  <a href="https://doi.org/10.7554/eLife.36419">eLife</a>, 7:e36419 (2018).  [ <a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY0MTkvZWxpZmUtMzY0MTktdjIucGRm/elife-36419-v2.pdf?_hash=7da%2F9O%2Bkh%2BaYqpgo0eS1ISgvIvexXpqIZwoBCT0FWzQ%3D"> PDF</a> ]</li>
 		<li>Jeffrey P. Nguyen, Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Automatically tracking neurons in a moving and deforming brain" <i><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517">PLOS Computational Biology</a></i> 13(5): e1005517 (2017). [<a href="http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005517&type=printable">PDF</a>,  <a href="https://figshare.com/articles/Automatically_tracking_neurons_in_a_moving_and_deforming_brain/5018993">Movie</a>, <a href="http://dx.doi.org/10.21227/H2901H">Data</a>  and <a href="https://github.com/leiferlab/NeRVEclustering">Code</a>] </li>
 
