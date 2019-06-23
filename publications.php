@@ -111,6 +111,8 @@
 		
 	<h3><a name="slides"></a>Lecture slides</h3>
 	<ul class="publications">
+		<li><b>Francesco Randi</b>, "Whole Brain Imaging Workshop: Microscopy Techniques"  <i>International C. elegans Meeting</i>, UCLA, 23 June 2019. [<a href="http://leiferlab.princeton.edu/outsideAssets/presentazione.pdf">PDF</a>]
+	</ul>
 		<li><b>Andrew Leifer</b>, "Optical neurophysiology in freely behaving <i>C. elegans</i>"  <i>C. elegans topic meeting: neuronal development, synaptic function and behavior </i>, University of Wisconsin Madison, 9 July 2014. [<a href="http://leiferlab.princeton.edu/outsideAssets/CeNeuroWorkshop2014.pdf">PDF</a>] [<a href="https://www.zotero.org/groups/ceneuroworkshop2014/items">Bibliography</a>]
 	</ul>
 </div>
