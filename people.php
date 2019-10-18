@@ -61,7 +61,7 @@
 
 		
 		<article class="member">
-			<h3 class="member-name">Kelsey Hallinen, Ph.D</h3>
+			<h3 class="member-name">Kelsey Hallinen, Ph.D.</h3>
 			<h4 class="member-position">NSF CPBF Fellow</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:hallinen@princeton.edu">hallinen@princeton.edu</a><br \>
