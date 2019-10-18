@@ -56,17 +56,6 @@
 			</div>
 		</article>
 
-		<article class="member">
-			<h3 class="member-name">Francesco Randi, Ph.D.</h3>
-			<h4 class="member-position">Post-doctoral Fellow</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
-			<p class="member-bio">
-                Francesco is a postdoc in the Department of Physics. Before joining the lab to study the dynamics of the nervous system in <span style="font-style:italic;">C. elegans</span>, back in Europe he was doing research on out-of-equilibrium condensed matter, shooting laser pulses on solids in Trieste and doing theory in Hamburg.
-			<div class="member-avatar">
-				<img alt="" src="assets/team/francsco_randi_sq.jpg" />
-			</div>
-		</article>
 
 
 
@@ -86,17 +75,28 @@
 		
 
 		<article class="member">
-			<h3 class="member-name">Xinwei Yu</h3>
-			<h4 class="member-position">Graduate Student</h4>
+			<h3 class="member-name">Francesco Randi, Ph.D.</h3>
+			<h4 class="member-position">Post-doctoral Fellow</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:xinweiy@princeton.edu">xinweiy@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
+			<p class="member-bio">
+                Francesco is a postdoc in the Department of Physics. Before joining the lab to study the dynamics of the nervous system in <span style="font-style:italic;">C. elegans</span>, back in Europe he was doing research on out-of-equilibrium condensed matter, shooting laser pulses on solids in Trieste and doing theory in Hamburg.
+			<div class="member-avatar">
+				<img alt="" src="assets/team/francsco_randi_sq.jpg" />
+			</div>
+		</article>
+
+
+		<article class="member">
+			<h3 class="member-name">Matthew Creamer</h3>
+			<h4 class="member-position">CV Starr Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mcreamer@princeton.edu">mcreamer@princeton.edu</a><br \>
 			</p>
 			<p class="member-bio">
-				Xinwei is a graduate student in the Physics program. He grew up in Nanchang, China. He attended the University of Science and Technology of China for his undergraduate study. After he came to Princeton, Xinwei became interested in neuroscience and he is working on how brain generates behaviors now. Other than science, Xinwei likes playing basketball and badminton. He is also a big fan of soccer matches. 
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/yu_sq.JPG" />
+				<img alt="" src="assets/team/creamer.jpg" />
 			</div>
 		</article>
 
