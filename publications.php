@@ -40,6 +40,10 @@
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
 
+<li>Robert Datta, David Anderson, Kristin Branson, Peitro Perona, <b>Andrew Leifer</b>. "Computational Neuroethology: A Call to Action" <i><a href="https://doi.org/10.1016/j.neuron.2019.09.038"><i>Neuron</i>  104:1, (2019). 
+
+				<li>Xiaowen Chen, Francesco Randi, <b>Andrew M. Leifer</b>, William Bialek. "Searching for collective behavior in a small brain"  <i><a href="https://doi.org/10.1103/PhysRevE.99.052418">Phys. Rev. E</a></i> 99, 052418 (2019). [<a href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.99.052418">Journal PDF ($)</a>] [ <a href="https://arxiv.org/pdf/1810.07623">Preprint PDF</a> ]</li>
+
 				<li>Xiaowen Chen, Francesco Randi, <b>Andrew M. Leifer</b>, William Bialek. "Searching for collective behavior in a small brain"  <i><a href="https://doi.org/10.1103/PhysRevE.99.052418">Phys. Rev. E</a></i> 99, 052418 (2019). [<a href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.99.052418">Journal PDF ($)</a>] [ <a href="https://arxiv.org/pdf/1810.07623">Preprint PDF</a> ]</li>
 
 				<li>Mochi Liu, Anuj K. Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Temporal processing and context dependency in <i>C. elegans</i> response to mechanosensation"  <a href="https://doi.org/10.7554/eLife.36419">eLife</a>, 7:e36419 (2018).  [ <a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY0MTkvZWxpZmUtMzY0MTktdjIucGRm/elife-36419-v2.pdf?_hash=7da%2F9O%2Bkh%2BaYqpgo0eS1ISgvIvexXpqIZwoBCT0FWzQ%3D"> PDF</a> ]</li>
