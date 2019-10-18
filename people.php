@@ -79,8 +79,10 @@
 
 		<article class="member">
 			<h3 class="member-name">Matthew Creamer, Ph.D.</h3>
+			
 			<h4 class="member-position">CV Starr Fellow</h4>
 			<p class="member-contact">
+				Joint with Jonathan Pillow<br \>
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mcreamer@princeton.edu">mcreamer@princeton.edu</a><br \>
 			</p>
 			<p class="member-bio">
