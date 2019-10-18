@@ -23,7 +23,7 @@
 				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=18826+Leifer">Asteroid</a>
 			</p>
 			<p class="member-bio">
-				Andrew Leifer, Ph.D., is an Assistant Professor of Physics and Neuroscience at Princeton University. He obtained a B.S. in Physics and B.A. in Political Science at Stanford University in 2007 and earned his Ph.D. in Biophysics from Harvard University in 2012 under the guidance of Professor Aravinthan Samuel. He then received a Lewis-Sigler Fellowship to form his own independent research group at Princeton University, where he subsequently joined the faculty in 2016. His laboratory uses novel optical methods to manipulate and monitor brain-wide neural activity in the nematode C. elegans to reveal the interplay between neural dynamics, neural connectivity, and animal behavior. He is an Investigator in the Simons Collaboration on the Global Brain and a recipient of the National Institutes of Health Director's New Innovator Award and the  National Science Foundation's CAREER Award.
+				Andrew Leifer, Ph.D., is an Assistant Professor of Physics and Neuroscience at Princeton University. He obtained a B.S. in Physics and B.A. in Political Science at Stanford University in 2007 and earned his Ph.D. in Biophysics from Harvard University in 2012 under the guidance of Professor Aravinthan Samuel. He then received a Lewis-Sigler Fellowship to form his own independent research group at Princeton University, where he subsequently joined the faculty in 2016. He is an Investigator in the Simons Collaboration on the Global Brain and a recipient of the National Institutes of Health Director's New Innovator Award and the  National Science Foundation's CAREER Award.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LeiferHeadSq2.jpeg" />
@@ -56,22 +56,31 @@
 			</div>
 		</article>
 
+		<article class="member">
+			<h3 class="member-name">Francesco Randi, Ph.D.</h3>
+			<h4 class="member-position">Post-doctoral Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
+			<p class="member-bio">
+                Francesco is a postdoc in the Department of Physics. Before joining the lab to study the dynamics of the nervous system in <span style="font-style:italic;">C. elegans</span>, back in Europe he was doing research on out-of-equilibrium condensed matter, shooting laser pulses on solids in Trieste and doing theory in Hamburg.
+			<div class="member-avatar">
+				<img alt="" src="assets/team/francsco_randi_sq.jpg" />
+			</div>
+		</article>
+
 
 
 		
 		<article class="member">
-			<h3 class="member-name">Mochi Liu</h3>
-			<h4 class="member-position">Graduate Student</h4>
+			<h3 class="member-name">Kelsey Hallinen, Ph.D</h3>
+			<h4 class="member-position">NSF CPBF Fellow</h4>
 			<p class="member-contact">
-				 Jointly advised with <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:hallinen@princeton.edu">hallinen@princeton.edu</a><br \>
 			</p>
 			<p class="member-bio">
-				Mochi is a graduate student in the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/LiuHeadSq.jpg" />
+				<img alt="" src="assets/team/kelsey.jpg" />
 			</div>
 		</article>
 		
@@ -117,7 +126,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Milena Chakraverti-Wuerthwein</h3>
-			<h4 class="member-position">Undergraduate</h4>
+			<h4 class="member-position">Senior thesis student</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:milenac@princeton.edu">milenac@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-2973<br \>
@@ -171,7 +180,7 @@
 					<p class="member-contact"> 2017-2019</p>
 						
 					<p class="member-bio">
-		Dr. Monika Scholz is now <a href="https://www.caesar.de/en/our-research/current-groups/neural-information-flow/research-focus-nif.html">group leader at the CAESAR / Max Planck Institute </a>.
+		Currently <a href="https://www.caesar.de/en/our-research/current-groups/neural-information-flow/research-focus-nif.html">group leader at the CAESAR / Max Planck Institute </a>.
 
 					<div class="member-avatar">
 						<img alt="" src="assets/team/scholzsq.jpg" />
