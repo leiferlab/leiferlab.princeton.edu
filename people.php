@@ -90,6 +90,40 @@
 			</div>
 		</article>
 
+	<article class="member">
+			<h3 class="member-name">Xinwei Yu</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:xinweiy@princeton.edu">xinweiy@princeton.edu</a><br \>
+				<i class="icon-phone"></i> (609) 258-2973<br \>
+			</p>
+			<p class="member-bio">
+				Xinwei is a graduate student in the Physics program. He grew up in Nanchang, China. He attended the University of Science and Technology of China for his undergraduate study. After he came to Princeton, Xinwei became interested in neuroscience and he is working on how brain generates behaviors now. Other than science, Xinwei likes playing basketball and badminton. He is also a big fan of soccer matches. 
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/yu_sq.JPG" />
+			</div>
+		</article>
+		
+		
+		
+		<article class="member">
+				<h3 class="member-name">Mochi Liu</h3>
+				<h4 class="member-position">Graduate Student</h4>
+				<p class="member-contact">
+					 Jointly advised with <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
+					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
+					<i class="icon-phone"></i> (609) 258-2973<br \>
+				</p>
+				<p class="member-bio">
+					Mochi is a graduate student in the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
+				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/LiuHeadSq.jpg" />
+				</div>
+			</article>
+			
+			
 		<article class="member">
 			<h3 class="member-name">Kevin Sean Chen</h3>
 			<h4 class="member-position">Graduate Student</h4>
