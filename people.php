@@ -65,8 +65,9 @@
 			<h4 class="member-position">NSF CPBF Fellow</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:hallinen@princeton.edu">hallinen@princeton.edu</a><br \>
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/kmhalinen">Twitter</a> 
 			</p>
-			<p class="member-bio">
+			<p class="member-bio">Kelsey is a Fellow in the Center for the Physics of Biological Function working on whole brain imaging and neural dynamics in <i>C. elegans</i>. She received her BS in Physics from Carnegie Mellon University before heading to the University of Michigan for her PhD in Biophysics in the Wood Lab, where she studied antibiotic resistance and bacterial population dynamics. Beyond lab work, she enjoys running, rock climbing, and hanging out with her 20 year old cat named Gabrielle.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/kelsey.jpg" />
