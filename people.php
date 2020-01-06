@@ -85,8 +85,12 @@
 			<p class="member-contact">
 				Joint with Jonathan Pillow<br \>
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mcreamer@princeton.edu">mcreamer@princeton.edu</a><br \>
+
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/MattSCreamer">Twitter</a> 
+<i class="icon-globe"></i>&nbsp;<a href="https://matthewscreamer.com/">Website</a>
 			</p>
 			<p class="member-bio">
+Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is jointly advised by Andrew Leifer and Jonathan Pillow. He is currently working on modeling whole-brain calcium dynamics and characterizing functional changes between neurons during learning in C. elegans. Matt received his PhD from Yale, working with Damon Clark studying how animals detect visual motion cues and use these cues to regulate their walking speed. When not in lab, he enjoys rock climbing, running, board games, dungeons and dragons, and video games.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/creamer.jpg" />
