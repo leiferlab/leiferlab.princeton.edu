@@ -67,7 +67,7 @@ PREFERRED Qualifications:
 
 <p>Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law. EEO IS THE LAW</p>
 	
-Mp>Apply online through Princeton's job site at <a href="https://social.icims.com/viewjob/po15901760129970a207">https://social.icims.com/viewjob/po15901760129970a207</a>.</p>
+<p>Apply online through Princeton's job site at <a href="https://social.icims.com/viewjob/po15901760129970a207">https://social.icims.com/viewjob/po15901760129970a207</a>.</p>
 <hr />
 
 
