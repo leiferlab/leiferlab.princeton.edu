@@ -65,15 +65,15 @@ PREFERRED Qualifications:
     <li>Prior experience with Gibson cloning techniques.</li>
 </ul>
 
-Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law. EEO IS THE LAW
+<p>Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law. EEO IS THE LAW</p>
 	
-Apply online through Princeton's job site at <a href="https://social.icims.com/viewjob/po15901760129970a207">https://social.icims.com/viewjob/po15901760129970a207</a>.
-
+Mp>Apply online through Princeton's job site at <a href="https://social.icims.com/viewjob/po15901760129970a207">https://social.icims.com/viewjob/po15901760129970a207</a>.</p>
+<hr />
 
 
 <h2><a name="grad"></a>Graduate Students</h2>
 <p>Prospective grad students should apply to Princeton's PhD programs in either <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> or <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a>.
-Current or incoming Princeton graduate students interested in rotating should send a CV to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. </p>
+Current or incoming Princeton graduate students interested in rotating or doing an experimental project should send a CV to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. </p>
 <hr />
 
 
