@@ -97,6 +97,22 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			</div>
 		</article>
 
+
+		<article class="member">
+				<h3 class="member-name">Mochi Liu</h3>
+				<h4 class="member-position">Postdoctoral Scholar</h4>
+					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
+					<i class="icon-phone"></i> (609) 258-2973<br \>
+				</p>
+				<p class="member-bio">
+					Mochi is a recent graduate of the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
+				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/LiuHeadSq.jpg" />
+				</div>
+			</article>
+
+
 	<article class="member">
 			<h3 class="member-name">Xinwei Yu</h3>
 			<h4 class="member-position">Graduate Student</h4>
@@ -113,22 +129,6 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		</article>
 		
 		
-		
-		<article class="member">
-				<h3 class="member-name">Mochi Liu</h3>
-				<h4 class="member-position">Graduate Student</h4>
-				<p class="member-contact">
-					 Jointly advised with <a href="https://sites.google.com/site/shaevitzlab/">Josh Shaevitz</a><br \>
-					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
-					<i class="icon-phone"></i> (609) 258-2973<br \>
-				</p>
-				<p class="member-bio">
-					Mochi is a graduate student in the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
-				</p>
-				<div class="member-avatar">
-					<img alt="" src="assets/team/LiuHeadSq.jpg" />
-				</div>
-			</article>
 			
 			
 		<article class="member">
@@ -152,25 +152,26 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		</article>
 
 
-
-
-		
 		<article class="member">
-			<h3 class="member-name">Milena Chakraverti-Wuerthwein</h3>
-			<h4 class="member-position">Senior thesis student</h4>
+			<h3 class="member-name">Sophie Dvali</h3>
+			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:milenac@princeton.edu">milenac@princeton.edu</a><br \>
-				<i class="icon-phone"></i> (609) 258-2973<br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sdvali@princeton.edu">sdvali@princeton.edu</a><br \>
+				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
 			</p>
 			<p class="member-bio">
-				Milena is an undergraduate in the physics department. She is yet another San-Diego-related person in the lab, who mistakingly left the sun and beach and ended up in temperamental New Jersey. In her free time, she enjoys inserting San Diego into every possible conversation and nerding out about cool new lab gadgets.
-				
+				Sophie is a graduate student in Physics.
 			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/chakraverti.jpeg" /> 
+				<!--<img alt="" src="assets/team/kschenSq.jpg" /> -->
 				<p>?</p>
 			</div>
 		</article>
+
+
+
+
+		
 
 
 
@@ -194,15 +195,27 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 	</div>
 	
 	
-	
-	
-	
-	
-	
-	
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
 			<hr />
+			
+		<article class="member">
+			<h3 class="member-name">Milena Chakraverti-Wuerthwein</h3>
+			<h4 class="member-position">Senior thesis student</h4>
+			<p class="member-contact">
+				2017-2020
+			</p>
+			<p class="member-bio">
+				Last seen: headed to University of Chicago Biophysics PhD program.
+			</p>		
+			<div class="member-avatar">
+				<img alt="" src="assets/team/chakraverti.jpeg" /> 
+				<p>?</p>
+			</div>
+		</article>
+			
+			
+			
 		</div>
 		
 				<article class="member">
@@ -243,7 +256,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				2017
 			</p>
 			<p class="member-bio">
-				Currently an undergraduate at Princeton.
+				Last seen heading for an industry job. 
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/sun.jpg" /> 
@@ -258,7 +271,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			<p class="member-contact">
 				2012-2017
 			</p>
-			<p class="member-bio">Currently in industry.			</p>
+			<p class="member-bio">Last seen in industry.			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LinderHeadSq.jpg" />
 			</div>
@@ -335,7 +348,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				2013 - 2015
 			</p>
 			<p class="member-bio">
-				Currently a Ph.D. candidate in Biophysics at Harvard University.
+				Last seen defending Ph.D. in Biophysics at Harvard University.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/shipleyHeadSq.jpg" />
@@ -349,8 +362,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				2013 - 2015
 			</p>
 			<p class="member-bio">
-				Currently a medical student at Tufts University School of Medicine. 
-			</p>
+				Compoleted MD at Tufts. Last seen in neurology residency at University of Washington.  			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/plummerHeadSq.jpg" />
 			</div>
