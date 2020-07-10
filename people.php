@@ -160,7 +160,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
 			</p>
 			<p class="member-bio">
-				Sophie is a graduate student Kevin Physics.
+				Sophie is a graduate student in Physics.
 			</p>
 			<div class="member-avatar">
 				<!--<img alt="" src="assets/team/kschenSq.jpg" /> -->
