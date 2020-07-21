@@ -47,7 +47,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="span9" id="copyright-text">
-				&copy; 2019 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
+				&copy; 2020 <a href="http://www.princeton.edu" target="_blank">Princeton University</a>
 			</div>
 			
 			<p class="span3">
