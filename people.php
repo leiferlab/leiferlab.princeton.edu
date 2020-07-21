@@ -189,7 +189,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sdvali@princeton.edu">sdvali@princeton.edu</a><br \>
 				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/DvaliSophie">Twitter</a> &nbsp; <i class="icon-github"></i>
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/DvaliSophie">Twitter</a>
 			</p>
 			<p class="member-bio">
 				Sophie is a graduate student in the Physics program and is interested in studying the dynamics of the C. elegans nervous system. She grew up in Munich Germany, before heading to New York University where she graduated with a B.A. in Physics. It was there that she became interested in studying biophysics and computational neuroscience while working on navigational decision making in Drosophila larvae. Beyond research, she enjoys rock climbing, skiing, playing music, and being outdoors.			</p>
