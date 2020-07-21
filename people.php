@@ -57,6 +57,21 @@
 		</article>
 
 
+		<article class="member">
+			<h3 class="member-name">Sarah Srour</h3>
+			<h4 class="member-position">Research Specialist</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sdvali@princeton.edu">sdvali@princeton.edu</a><br \>
+				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
+			</p>
+			<p class="member-bio">
+				Sarah is a research specialist.
+			</p>
+			<div class="member-avatar">
+				<!--<img alt="" src="assets/team/kschenSq.jpg" /> -->
+				<p>?</p>
+			</div>
+		</article>
 
 
 		
@@ -99,7 +114,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 
 
 		<article class="member">
-				<h3 class="member-name">Mochi Liu</h3>
+				<h3 class="member-name">Mochi Liu, Ph.D.</h3>
 				<h4 class="member-position">Postdoctoral Scholar</h4>
 					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
 					<i class="icon-phone"></i> (609) 258-2973<br \>
@@ -153,17 +168,33 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 
 
 		<article class="member">
+			<h3 class="member-name">Sandeep Kumar</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sk35@princeton.edu">sk35@princeton.edu</a><br \>
+			</p>
+			<p class="member-bio">
+				Sandeep is a graduate student in Neuroscience. He wants to understand how sensory cues (such as touch) are processed by the brain. He has a B.S-M.S. in Physics from University of Hyderabad and an M. Eng. in Biomedical Engineering from Cornell University. Coming from a first-generation low-income background, he is passionate about teaching and mentoring opportunities. When not in the lab, he enjoys playing tennis, hiking, trying new food, and exploring New York city.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/Sandeep_picture.jpg" />
+				<p>?</p>
+			</div>
+		</article>
+
+
+		<article class="member">
 			<h3 class="member-name">Sophie Dvali</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sdvali@princeton.edu">sdvali@princeton.edu</a><br \>
 				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/DvaliSophie">Twitter</a> &nbsp; <i class="icon-github"></i>
 			</p>
 			<p class="member-bio">
-				Sophie is a graduate student in Physics.
-			</p>
+				Sophie is a graduate student in the Physics program and is interested in studying the dynamics of the C. elegans nervous system. She grew up in Munich Germany, before heading to New York University where she graduated with a B.A. in Physics. It was there that she became interested in studying biophysics and computational neuroscience while working on navigational decision making in Drosophila larvae. Beyond research, she enjoys rock climbing, skiing, playing music, and being outdoors.			</p>
 			<div class="member-avatar">
-				<!--<img alt="" src="assets/team/kschenSq.jpg" /> -->
+				<img alt="" src="assets/team/Dvali-Sophie.jpg" />
 				<p>?</p>
 			</div>
 		</article>
