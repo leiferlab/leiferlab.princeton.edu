@@ -51,11 +51,9 @@
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:ssrour@princeton.edu">ssrour@princeton.edu</a><br \>
 				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
 			</p>
-			<p class="member-bio">
-				Sarah is a research specialist.
-			</p>
+			<p class="member-bio"> Sarah Srour is a Research Specialist in the Physics Department. She is performing nematode transgenics in support of other lab members' research. In 2020, she graduated from Georgian Court University with a BS in Biology. Sarah's goal is to earn a PhD in molecular biology. Some of her hobbies outside of the lab include cooking, biking, going to the beach, and listening to music.			</p>
 			<div class="member-avatar">
-				<!--<img alt="" src="assets/team/kschenSq.jpg" /> -->
+				<img alt="" src="assets/team/sarah.jpg" />
 				<p>?</p>
 			</div>
 		</article>
