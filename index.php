@@ -50,9 +50,9 @@
 					<div class="carousel-inner">
 						<!-- Item -->
 						<div class="item active">
-							<a href="#"><img src="assets/carousel/2017_GroupPhoto.JPG" alt="" /></a>
+							<a href="#"><img src="assets/carousel/2020_quarentine.jpg" alt="Leifer Lab members  in a circle wearing masks on the lawn at Princeton University." /></a>
 							<div class="carousel-caption">
-								<p>The Leifer Lab outside Jadwin Hall at Princeton University.</p>
+								<p>The Leifer Lab holds socially distant journal club at Princeton University.</p>
 							</div>
 						</div>
 						<!-- end Item -->
