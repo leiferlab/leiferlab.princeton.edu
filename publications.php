@@ -42,8 +42,9 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+<li>Francesco Randi and <b>Andrew M Leifer</b>. "Measuring and modeling whole-brain neural dynamics in CAenorhabditis elegans," <a href="https://www.sciencedirect.com/science/article/pii/S0959438820301689"><i>Current Opinion in Neurobiology</i></a>. Vol 65, Pages 167-157, December (2020).</li>
 
-<li>Robert Datta, David Anderson, Kristin Branson, Peitro Perona, <b>Andrew Leifer</b>. "Computational Neuroethology: A Call to Action" <a href="https://doi.org/10.1016/j.neuron.2019.09.038"><i>Neuron</i></a>  104:1, (2019). 
+<li>Robert Datta, David Anderson, Kristin Branson, Peitro Perona, <b>Andrew Leifer</b>. "Computational Neuroethology: A Call to Action" <a href="https://doi.org/10.1016/j.neuron.2019.09.038"><i>Neuron</i></a>  104:1, (2019). </li>
 
 				<li>Xiaowen Chen, Francesco Randi, <b>Andrew M. Leifer</b>, William Bialek. "Searching for collective behavior in a small brain"  <i><a href="https://doi.org/10.1103/PhysRevE.99.052418">Phys. Rev. E</a></i> 99, 052418 (2019). [<a href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.99.052418">Journal PDF ($)</a>] [ <a href="https://arxiv.org/pdf/1810.07623">Preprint PDF</a> ]</li>
 
