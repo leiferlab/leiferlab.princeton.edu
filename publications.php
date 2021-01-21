@@ -30,11 +30,13 @@
 		<h3><a name="preprint"></a>Pre peer-reviewed manuscripts</h3>
 		
 		<ul class="publications">
+			<li>Xinwei Yu, Matthew S. Creamer, Francesco Randi, Anuj K. Sharma, Scott W. Linderman, <b>Andrew M.~Leifer</b>, "Fast deep learning correspondence for neuron tracking and identification in C. elegans using synthetic training." <a href="https://arxiv.org/abs/2101.08211">arxiv</a>, 2101.08211, 21 January (2021). [<a href="https://arxiv.org/pdf/2101.08211">PDF</a>]</li>
+			<li>Kelsey M. Hallinen*, Ross Dempsey*, Monika Scholz*, Xinwei Yu, Ashley Linder, Francesco Randi, Anuj Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>, "Decoding locomotion from population neural activity in moving C. elegans."<a href="https://doi.org/10.1101/445643">bioRxiv</a>, 445643, (2021).</li>
 			<li>Francesco Randi and <b>Andrew M Leifer</b>, "Nonequilibrium Green's functions for functional connectivity in the brain." <a href="https://arxiv.org/abs/2008.06093">arXiv</a>, 2008.06093, 13 August (2020). [<a href="https://arxiv.org/pdf/2008.06093">PDF</a>].</li>
 			<li> Princeton Open Ventilation Monitor Collaboration, Philippe Bourrianne, Stanley Chidzik, Daniel J Cohen, Peter Elmer, Thomas Hallowell, Todd J Kilbaugh, David Lange, <b>Andrew M Leifer (corresponding author)</b>, Daniel R. Marlow, Peter D. Meyers, Edna Normand, Janine Nunes, Myungchul Oh, Lyman Page, Talmo Pereira, Jim Pivarski, Henry Schreiner, Howard A Stone, David W Tank, Stephan Thiberge, Christopher Tully. "Inexpensive multi-patient respiratory monitoring system for helmet ventilation during COVID-19 pandemic." <a href="https://doi.org/10.1101/2020.06.29.20141283">medRxiv</a> 2020.06.29.20141283, 29 June (2020). [<a href="https://www.medrxiv.org/content/10.1101/2020.06.29.20141283v1.full.pdf">PDF</a>, <a href="https://vimeo.com/412147280">Video</a>, <a href="https://www.medrxiv.org/content/10.1101/2020.06.29.20141283v1.supplementary-material">Data</a>] .
 			</li>
 
-			<li>Monika Scholz, Ashley N Linder, Francesco Randi, Anuj K Sharma, Xinwei Yu, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>. "Predicting natural behavior from whole-brain neural dynamics"  <a href="https://doi.org/10.1101/445643 ">bioRxiv</a>, 17 October (2018).  [ <a href="https://www.biorxiv.org/content/early/2018/10/17/445643.full.pdf"> PDF</a>, <a href="https://twitter.com/AndrewLeifer/status/1052742368565313536">Synopsis</a>, <a href="https://vimeo.com/295461323">Video 1</a>, <a href="https://vimeo.com/295462311">2</a>, <a href="http://doi.org/10.17605/OSF.IO/MW5ZS">Data</a> and <a href="https://github.com/monikascholz/PredictionCode">Code</a> ]</li>
+
 
 </ul>
 </div>
