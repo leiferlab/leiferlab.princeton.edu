@@ -43,7 +43,7 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-			<li>Francesco Randi and <b>Andrew M Leifer</b>, "Nonequilibrium Green's functions for functional connectivity in the brain." <i>Physical Review Letters</i> <b>(in press)</b> (2021).  Manuscript prior to peer review available on the   <a href="https://arxiv.org/abs/2008.06093">arXiv</a>, 2008.06093, 13 August (2020). [<a href="https://arxiv.org/pdf/2008.06093">PDF</a>].</li>
+			<li>Francesco Randi and <b>Andrew M Leifer</b>, "Nonequilibrium Green's functions for functional connectivity in the brain." <i>Physical Review Letters</i> (in press, 2021).  [<a href="https://arxiv.org/pdf/2008.06093">Preprint PDF</a>].</li>
 			
 			
 <li>Francesco Randi and <b>Andrew M Leifer</b>. "Measuring and modeling whole-brain neural dynamics in Caenorhabditis elegans," <a href="https://doi.org/10.1016/j.conb.2020.11.001"><i>Current Opinion in Neurobiology</i></a>. Vol 65, Pages 167-157, December (2020). [<a href="https://www.sciencedirect.com/science/article/pii/S0959438820301689/pdfft?isDTMRedir=true&download=true">PDF</a>] </li>
