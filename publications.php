@@ -32,7 +32,6 @@
 		<ul class="publications">
 			<li>Xinwei Yu, Matthew S. Creamer, Francesco Randi, Anuj K. Sharma, Scott W. Linderman, <b>Andrew M.~Leifer</b>, "Fast deep learning correspondence for neuron tracking and identification in C. elegans using synthetic training." <a href="https://arxiv.org/abs/2101.08211">arXiv</a>, 2101.08211, 21 January (2021). [<a href="https://arxiv.org/pdf/2101.08211">PDF</a>]</li>
 			<li>Kelsey M. Hallinen*, Ross Dempsey*, Monika Scholz*, Xinwei Yu, Ashley Linder, Francesco Randi, Anuj Sharma, Joshua W. Shaevitz, <b>Andrew M. Leifer</b>, "Decoding locomotion from population neural activity in moving C. elegans." <a href="https://doi.org/10.1101/445643">bioRxiv</a>, 445643, (2021).</li>
-			<li>Francesco Randi and <b>Andrew M Leifer</b>, "Nonequilibrium Green's functions for functional connectivity in the brain." <a href="https://arxiv.org/abs/2008.06093">arXiv</a>, 2008.06093, 13 August (2020). [<a href="https://arxiv.org/pdf/2008.06093">PDF</a>].</li>
 			<li> Princeton Open Ventilation Monitor Collaboration, Philippe Bourrianne, Stanley Chidzik, Daniel J Cohen, Peter Elmer, Thomas Hallowell, Todd J Kilbaugh, David Lange, <b>Andrew M Leifer (corresponding author)</b>, Daniel R. Marlow, Peter D. Meyers, Edna Normand, Janine Nunes, Myungchul Oh, Lyman Page, Talmo Pereira, Jim Pivarski, Henry Schreiner, Howard A Stone, David W Tank, Stephan Thiberge, Christopher Tully. "Inexpensive multi-patient respiratory monitoring system for helmet ventilation during COVID-19 pandemic." <a href="https://doi.org/10.1101/2020.06.29.20141283">medRxiv</a> 2020.06.29.20141283, 29 June (2020). [<a href="https://www.medrxiv.org/content/10.1101/2020.06.29.20141283v1.full.pdf">PDF</a>, <a href="https://vimeo.com/412147280">Video</a>, <a href="https://www.medrxiv.org/content/10.1101/2020.06.29.20141283v1.supplementary-material">Data</a>] .
 			</li>
 
@@ -44,6 +43,9 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+			<li>Francesco Randi and <b>Andrew M Leifer</b>, "Nonequilibrium Green's functions for functional connectivity in the brain." <i>Physical Review Letters</i> <b>(in press)</b> (2021).  Manuscript prior to peer review available on the   <a href="https://arxiv.org/abs/2008.06093">arXiv</a>, 2008.06093, 13 August (2020). [<a href="https://arxiv.org/pdf/2008.06093">PDF</a>].</li>
+			
+			
 <li>Francesco Randi and <b>Andrew M Leifer</b>. "Measuring and modeling whole-brain neural dynamics in Caenorhabditis elegans," <a href="https://doi.org/10.1016/j.conb.2020.11.001"><i>Current Opinion in Neurobiology</i></a>. Vol 65, Pages 167-157, December (2020). [<a href="https://www.sciencedirect.com/science/article/pii/S0959438820301689/pdfft?isDTMRedir=true&download=true">PDF</a>] </li>
 
 <li>Robert Datta, David Anderson, Kristin Branson, Peitro Perona, <b>Andrew Leifer</b>. "Computational Neuroethology: A Call to Action" <a href="https://doi.org/10.1016/j.neuron.2019.09.038"><i>Neuron</i></a>  104:1, (2019). </li>
