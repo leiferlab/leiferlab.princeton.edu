@@ -118,7 +118,8 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 					<i class="icon-phone"></i> (609) 258-2973<br \>
 				</p>
 				<p class="member-bio">
-					Mochi is a recent graduate of the QCB program. He grew up in the mean streets of suburban San Diego, where daily drive-by shootings in front of his low-income housing prompted him to move to rustic Berkeley, CA for his undergraduate education. It was at UC Berkeley that Mochi became interested in how biological things worked, and he eventually graduated with a degree in Bioengineering. Outside of work, he likes to play tug of war against fish and read about trivial issues such as arms control.
+					Mochi is a recent graduate of the QCB program. He grew up San Diego and graduated with a degree in Bioengineering from UC Berkeley. He studies worm mechanosensation with optogenetics. Outside of work, he likes to go fishing and read about trivial issues such as arms control.
+					
 				</p>
 				<div class="member-avatar">
 					<img alt="" src="assets/team/LiuHeadSq.jpg" />
