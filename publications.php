@@ -42,7 +42,7 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-			<li>Xinwei Yu, Matthew S. Creamer, Francesco Randi, Anuj K. Sharma, Scott W. Linderman, <b>Andrew M. Leifer</b>, "Fast deep neural correspondence for tracking and identifying neurons in C. elegans using semi-synthetic training." <a href="https://doi.org/10.7554/eLife.66410">elife</a>, 10:e66410, 14 July (2021). [<a href="https://elifesciences.org/articles/66410#downloads">PDF</a>]</li>
+			<li>Xinwei Yu, Matthew S. Creamer, Francesco Randi, Anuj K. Sharma, Scott W. Linderman, <b>Andrew M. Leifer</b>, "Fast deep neural correspondence for tracking and identifying neurons in C. elegans using semi-synthetic training." <a href="https://doi.org/10.7554/eLife.66410">eLife</a>, 10:e66410, 14 July (2021). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNjY0MTAvZWxpZmUtNjY0MTAtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzY2NDEw/elife-66410-v1.pdf?_hash=3B0glFnU8yqN5w9wIW%2FI7ZXKWFnq%2F0wuiec5pSRJg7U%3D">PDF</a>]</li>
 			<li>Francesco Randi and <b>Andrew M Leifer</b>, "Nonequilibrium Green's functions for functional connectivity in the brain." <a href="https://doi.org/10.1103/PhysRevLett.126.118102">Physical Review Letters</a> 12, 118102, 19 March (2021).  [<a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.126.118102">PDF</a>].</li>
 			
 			
