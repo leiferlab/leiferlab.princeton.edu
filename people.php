@@ -44,19 +44,6 @@
 			</div>
 		</article>
 		
-		<article class="member">
-			<h3 class="member-name">Sarah Srour</h3>
-			<h4 class="member-position">Research Specialist</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:ssrour@princeton.edu">ssrour@princeton.edu</a><br \>
-				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
-			</p>
-			<p class="member-bio"> Sarah Srour is a Research Specialist in the Physics Department. She is performing nematode transgenics in support of other lab members' research. In 2020, she graduated from Georgian Court University with a BS in Biology. Sarah's goal is to earn a PhD in molecular biology. Some of her hobbies outside of the lab include cooking, biking, going to the beach, and listening to music.			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/sarah.jpg" />
-				<p>?</p>
-			</div>
-		</article>
 		
 		
 		<article class="member">
@@ -228,6 +215,36 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
 			<hr />
+			
+	<article class="member">
+			<h3 class="member-name">Mochi Liu, Ph.D.</h3>
+			<h4 class="member-position">Postdoctoral Scholar; Graduate Student</h4>
+			<p class="member-contact">2014-2021</p>
+			<p class="member-bio">
+				Last seen: starting a Data Scientist position at <a href="http://www.aquabyte.ai">Aquabyte</a> 
+				
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/LiuHeadSq.jpg" />
+			</div>
+		</article>
+	
+	
+		
+	<article class="member">
+		<h3 class="member-name">Sarah Srour</h3>
+		<h4 class="member-position">Research Specialist</h4>
+		<p class="member-contact">
+			2019-2020
+		</p>
+		<p class="member-bio"> Last seen: headed to a research position at UT Southwestern</p>
+		<div class="member-avatar">
+			<img alt="" src="assets/team/sarah.jpg" />
+			<p>?</p>
+		</div>
+	</article>
+			
+			
 			
 		<article class="member">
 			<h3 class="member-name">Milena Chakraverti-Wuerthwein</h3>
