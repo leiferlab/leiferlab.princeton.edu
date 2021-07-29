@@ -27,10 +27,12 @@
 	<div class="textblock">		
 		
 
-		<h3><a name="preprint"></a>Pre peer-reviewed manuscripts</h3>
+		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		
 		<ul class="publications">
-			<li>Kelsey M. Hallinen*, Ross Dempsey*, Monika Scholz*, Xinwei Yu, Ashley Linder, Francesco Randi, Anuj Sharma, Joshua W. Shaevitz, Andrew M. Leifer, "Decoding locomotion from population neural activity in moving C. elegans." <a href="https://doi.org/10.1101/445643">bioRxiv</a>, 445643, (2021).</li>
+			<li>Anne E. Urai, Brent Doiron, Andrew M. Leifer, Anne K. Churchland. "Large-scale neural recordings call for new insights to link brain and behavior." <a href="https://arxiv.org/abs/2103.14662">arXiv</a>, 2103.14662 (2021).</li>
+			
+			
 			<li> Princeton Open Ventilation Monitor Collaboration, Philippe Bourrianne, Stanley Chidzik, Daniel J Cohen, Peter Elmer, Thomas Hallowell, Todd J Kilbaugh, David Lange, Andrew M Leifer (corresponding author), Daniel R. Marlow, Peter D. Meyers, Edna Normand, Janine Nunes, Myungchul Oh, Lyman Page, Talmo Pereira, Jim Pivarski, Henry Schreiner, Howard A Stone, David W Tank, Stephan Thiberge, Christopher Tully. "Inexpensive multi-patient respiratory monitoring system for helmet ventilation during COVID-19 pandemic." <a href="https://doi.org/10.1101/2020.06.29.20141283">medRxiv</a> 2020.06.29.20141283, 29 June (2020). [<a href="https://www.medrxiv.org/content/10.1101/2020.06.29.20141283v1.full.pdf">PDF</a>, <a href="https://vimeo.com/412147280">Video</a>, <a href="https://www.medrxiv.org/content/10.1101/2020.06.29.20141283v1.supplementary-material">Data</a>] .
 			</li>
 
@@ -42,6 +44,8 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+
+			<li>Kelsey M. Hallinen*, Ross Dempsey*, Monika Scholz*, Xinwei Yu, Ashley Linder, Francesco Randi, Anuj Sharma, Joshua W. Shaevitz, Andrew M. Leifer, "Decoding locomotion from population neural activity in moving C. elegans." <a href="https://doi.org/10.7554/eLife.66135">eLife</a> 10:e66135, 29 July (2021). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNjYxMzUvZWxpZmUtNjYxMzUtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzY2MTM1/elife-66135-v1.pdf?_hash=kyTmtA03NI7aSvfaezbihOknEkk5ZYqTBq11JD33%2BQI%3D">PDF</a>] </li>
 			<li>Xinwei Yu, Matthew S. Creamer, Francesco Randi, Anuj K. Sharma, Scott W. Linderman, Andrew M. Leifer, "Fast deep neural correspondence for tracking and identifying neurons in C. elegans using semi-synthetic training." <a href="https://doi.org/10.7554/eLife.66410">eLife</a>, 10:e66410, 14 July (2021). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvNjY0MTAvZWxpZmUtNjY0MTAtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzY2NDEw/elife-66410-v1.pdf?_hash=3B0glFnU8yqN5w9wIW%2FI7ZXKWFnq%2F0wuiec5pSRJg7U%3D">PDF</a>]</li>
 			<li>Francesco Randi and Andrew M Leifer, "Nonequilibrium Green's functions for functional connectivity in the brain." <a href="https://doi.org/10.1103/PhysRevLett.126.118102">Physical Review Letters</a> 12, 118102, 19 March (2021).  [<a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.126.118102">PDF</a>].</li>
 			
