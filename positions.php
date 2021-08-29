@@ -93,7 +93,7 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 </ul>
 </p>
 
-<p>Interested applicants must apply online at <a href="://www.princeton.edu/acad-positions/position/21861">https://www.princeton.edu/acad-positions/position/21861</a> and include a cover letter, a curriculum vitae including a publication list, and contact information of at least two references.</p>
+<p>Interested applicants must apply online at <a href="http://www.princeton.edu/acad-positions/position/21861">https://www.princeton.edu/acad-positions/position/21861</a> and include a cover letter, a curriculum vitae including a publication list, and contact information of at least two references.</p>
 
 
 
