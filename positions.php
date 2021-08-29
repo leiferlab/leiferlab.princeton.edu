@@ -45,7 +45,8 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 
 
 <h2><a name="postdoc"></a>Post-doctoral positions</h2>
-
+<p>The lab currently has two searches for postdoctoral positions:</p>
+	
 <h3>Precision measurements of the brain</h3>
 
 <p>A postdoctoral research associate or more senior researcher is sought for a neural imaging and optogenetics project in moving animals. A PhD in a related field is required as well as a background in experimental physics, optics, computer science, electrical engineering or neuroscience with expertise building and using custom scientific instruments for precision measurements. In particular, someone is sought who is comfortable working with custom optics, ultrafast lasers, electronics and custom software. Candidates should be self-motivated by a desire to understand open questions in neuroscience.</p>
