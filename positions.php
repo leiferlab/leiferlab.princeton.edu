@@ -79,7 +79,7 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 <p>A PhD in neuroscience, molecular biology, biophysics or a related field is required. Successful applicants will have demonstrated a strong record of research accomplishment and creativity. Appointments are for one year, renewable annually based on satisfactory performance and availability of funding.</p>
 
 <p>Ideal attributes are:
-<ul>=
+<ul>
 <li>Experience with systems and circuit-level investigations involving, neural dynamics, genes and behavior</li>
 <li>Talented troubleshooter of difficult measurements and experiments</li>
 <li>Self-motivated to follow relevant literature and advances in the field</li>
