@@ -30,7 +30,7 @@
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		
 		<ul class="publications">
-			<li>Mochi Liu, Sandeep Kumar, Anuj K Sharma, Andrew M. Leifer. "Closed-loop targeted optogenetic sitmulation of C. elegans populations." <a href="https://arxiv.org/abs/2109.05303">arXiv</a>, 2109.05303). [<a href="https://arxiv.org/pdf/2109.05303">PDF</a>] </li>
+			<li>Mochi Liu, Sandeep Kumar, Anuj K Sharma, Andrew M. Leifer. "Closed-loop targeted optogenetic sitmulation of C. elegans populations." <a href="https://arxiv.org/abs/2109.05303">arXiv</a>, 2109.05303 (2021). [<a href="https://arxiv.org/pdf/2109.05303">PDF</a>] </li>
 			<li>Anne E. Urai, Brent Doiron, Andrew M. Leifer, Anne K. Churchland. "Large-scale neural recordings call for new insights to link brain and behavior." <a href="https://arxiv.org/abs/2103.14662">arXiv</a>, 2103.14662 (2021).</li>
 			
 			
