@@ -83,6 +83,7 @@
 	
 	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
+		<li>"Princeton Open Ventilation Monitor," <a href=""https://innovation.princeton.edu/news/2021/andrew-leifer-princeton-open-ventilation-monitor>Princeton University Innovation News</a></li>
 		<li>Toin Feder, "Stuck at home, physicists pivot to combat COVID-19," <a href="https://doi.org/10.1063/PT.3.4519">Physics Today</a> 73, 7, 22 (2020).</li>
 	<li>Emily Singer, "Capturing the Whole Brain in Action,"<a href="https://www.simonsfoundation.org/uncategorized/capturing-the-whole-brain-in-action/?utm_source=SimonsFoundation.org+Newsletter&utm_campaign=3e4eb8cc28-January_2017_Simons_Foundation_Newsletter_01_06&utm_medium=email&utm_term=0_01c00e64ea-3e4eb8cc28-389524973"> <i>Simons Foundation</i></a>, 22 December 2016.</li>
 	<li>Emily Reynolds, "Neural activity of worm captured in mesmerising display," <a href="http://www.wired.co.uk/article/inside-worm-brain"><i>Wired</i></a>, 5 January 2016.</li>
