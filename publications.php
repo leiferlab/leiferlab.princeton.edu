@@ -7,8 +7,7 @@
 	<div class="textblock">
 		<div class="hero-unit">	
 			<p> Publications</p>
-		</div>A
-		<p>	<a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Leifer+AM%5BAuthor%5D%29+AND+%28%222003%22%5BDate+-+Create%5D+%3A+%223000%22%5BDate+-+Create%5D%29&sort=date">PubMed</a>  Listing, 
+		</div>	<p>	<a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Leifer+AM%5BAuthor%5D%29+AND+%28%222003%22%5BDate+-+Create%5D+%3A+%223000%22%5BDate+-+Create%5D%29&sort=date">PubMed</a>  Listing, 
 			ORCID: #<a href="http://orcid.org/0000-0002-5362-5093">0000-0002-5362-5093</a>
 		</p>
 	<p>
