@@ -32,7 +32,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Anuj Sharma, Ph.D.</h3>
-			<h4 class="member-position">Staff Scientist</h4>
+			<h4 class="member-position">Associate Professional Specialist and Lab Manager</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:aksharma@princeton.edu">aksharma@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-8635<br \>
