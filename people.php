@@ -98,20 +98,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		</article>
 
 
-		<article class="member">
-				<h3 class="member-name">Mochi Liu, Ph.D.</h3>
-				<h4 class="member-position">Postdoctoral Scholar</h4>
-					<i class="icon-envelope"></i>&nbsp;<a href="mailto:mochil@princeton.edu">mochil@princeton.edu</a><br \>
-					<i class="icon-phone"></i> (609) 258-2973<br \>
-				</p>
-				<p class="member-bio">
-					Mochi is a recent graduate of the QCB program. He grew up San Diego and graduated with a degree in Bioengineering from UC Berkeley. He studies worm mechanosensation with optogenetics. Outside of work, he likes to go fishing and read about trivial issues such as arms control.
-					
-				</p>
-				<div class="member-avatar">
-					<img alt="" src="assets/team/LiuHeadSq.jpg" />
-				</div>
-			</article>
+
 
 
 	<article class="member">
@@ -188,6 +175,20 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 
 
 
+		<article class="member">
+			<h3 class="member-name">Tori Edington</h3>
+			<h4 class="member-position">Senior Thesis Student</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:tfe@princeton.edu">tfe@princeton.edu</a><br \>
+			</p>
+			<p class="member-bio">
+				Tori is a fourth-year undergraduate in the Physics Department pursuing certificates in Biophysics and Dance. She is doing her senior thesis under the guidance of Dr. Francesco Randi and Xinwei Yu to study nonlinearity in C. elegans neural dynamics. She hopes to continue exploring the intersection of neuroscience and physics as she pursues a career in research. Along with science, Tori is passionate about STEM activism and dance, and enjoys doodling, being outdoors, and pretending to play ukulele. 
+				</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/tori.jpg" />
+				<p>?</p>
+			</div>
+		</article>
 		
 
 
