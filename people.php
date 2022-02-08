@@ -48,7 +48,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Francesco Randi, Ph.D.</h3>
-			<h4 class="member-position">Post-doctoral Fellow</h4>
+			<h4 class="member-position">Swartz Fellows for Theoretical Neuroscience</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
 			<p class="member-bio">
