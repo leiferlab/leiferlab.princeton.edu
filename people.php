@@ -86,7 +86,7 @@
 				Joint with Jonathan Pillow<br \>
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mcreamer@princeton.edu">mcreamer@princeton.edu</a><br \>
 
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/MattSCreamer">Twitter</a> 
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/NondairyC">Twitter</a> 
 <i class="icon-globe"></i>&nbsp;<a href="https://matthewscreamer.com/">Website</a>
 			</p>
 			<p class="member-bio">
