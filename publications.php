@@ -26,13 +26,13 @@
 	<div class="textblock">		
 		
 
-		<!--<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
+		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		
 		<ul class="publications">
-			<li>Mochi Liu, Sandeep Kumar, Anuj K Sharma, Andrew M. Leifer. "Closed-loop targeted optogenetic stimulation of C. elegans populations." <a href="https://arxiv.org/abs/2109.05303"><i>arXiv</i></a>, 2109.05303 (2021). [<a href="https://arxiv.org/pdf/2109.05303">PDF</a>] </li>
+			<li>Matthew S. Creamer, Kevin S. Chen, Andrew M. Leifer, Jonathan W. Pillow, "Correcting motion induced fluorescence artifacts in two-channel neural imaging." <a href="https://arxiv.org/abs/2204.12595"><i>arXiv</i></a>, 2204.12595 (2022). [<a href="https://arxiv.org/pdf/2204.12595">PDF</a>] </li>
 </ul>
 </div>
-<hr /> -->
+<hr /> 
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
