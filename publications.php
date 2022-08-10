@@ -28,7 +28,7 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
-			<li>Francsco Rand, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A functional connectivity atlas of C. elegans measured by neural activation." <a href="https://doi.org/10.48550/arXiv.2208.04790">arXiv</a>, (2022) [<a href="https://arxiv.org/pdf/2208.04790">PDF</a>]</li>
+			<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A functional connectivity atlas of C. elegans measured by neural activation." <a href="https://doi.org/10.48550/arXiv.2208.04790">arXiv</a>, (2022) [<a href="https://arxiv.org/pdf/2208.04790">PDF</a>]</li>
 		</ul>
 	
 		
