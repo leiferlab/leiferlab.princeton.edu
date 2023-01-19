@@ -28,6 +28,12 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
+			<li>Kevin S. Chen, Rui Wu, Marc H. Gershow, Andrew M. Leifer, "Continuous odor profile monitoring to study olfactory navigation in small animals." <a href="https://doi.org/10.48550/arXiv.2301.05905">arXiv</a>, (2023) [<a href="https://arxiv.org/pdf/2301.05905">PDF</a>]</li>
+		</ul>
+	<ul class="publications">
+		<li>Sandeep Kumar, Anuj K Sharma, Andrew Leifer, "Inhibitory motor signals gate mechanosensory processing in C. elegans." <a href="https://doi.org/10.48550/arXiv.2301.02709">arXiv</a>, (2023) [<a href="https://arxiv.org/pdf/2301.02709">PDF</a>]</li>
+	</ul>
+		<ul class="publications">
 			<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A functional connectivity atlas of C. elegans measured by neural activation." <a href="https://doi.org/10.48550/arXiv.2208.04790">arXiv</a>, (2022) [<a href="https://arxiv.org/pdf/2208.04790">PDF</a>]</li>
 		</ul>
 	
