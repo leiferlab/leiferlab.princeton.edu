@@ -45,19 +45,7 @@
 		</article>
 		
 
-		<article class="member">
-			<h3 class="member-name">Junang Li, Ph.D.</h3>
-			<h4 class="member-position">CPBF Fellow</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
-			<p class="member-bio">
-				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
-                
-			<div class="member-avatar">
-				<img alt="" src="assets/team/Junang.jpg" />
-			</div>
-		</article>
-		
+
 		
 		
 		<article class="member">
@@ -72,6 +60,20 @@
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/kelsey.jpg" />
+			</div>
+		</article>
+		
+		
+		<article class="member">
+			<h3 class="member-name">Junang Li, Ph.D.</h3>
+			<h4 class="member-position">NSF CPBF Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
+			<p class="member-bio">
+				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
+                
+			<div class="member-avatar">
+				<img alt="" src="assets/team/Junang.jpg" />
 			</div>
 		</article>
 		
@@ -209,14 +211,14 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		-->
 	</section>	
 		
-		
+					<hr />
 	<div class="textblock">
 	</div>
 	
 	
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
-			
+				
 			
 		
 			<article class="member">
@@ -232,7 +234,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 
 			
 			
-			<hr />
+
 	<article class="member">
 			<h3 class="member-name">Xinwei Yu</h3>
 			<h4 class="member-position"> Graduate Student</h4>
