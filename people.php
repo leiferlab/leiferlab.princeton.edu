@@ -20,7 +20,7 @@
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:leifer@princeton.edu">leifer@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-8779<br \>
 				<i class="icon-file"></i>&nbsp;<a href="assets/leiferCV.pdf">CV</a> &nbsp;
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=18826+Leifer">Asteroid</a>
+				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndrewLeifer">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/aleifer/">GitHub</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="http://scholar.google.com/citations?user=b0DQef8AAAAJ">Google Scholar</a> &nbsp; <i class="icon-asterisk"></i>&nbsp;<a href="https://www.minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&object_id=leifer">Asteroid</a>
 			</p>
 			<p class="member-bio">
 				Andrew Leifer, Ph.D., is an Assistant Professor of Physics and Neuroscience at Princeton University. He obtained a B.S. in Physics and B.A. in Political Science at Stanford University in 2007 and earned his Ph.D. in Biophysics from Harvard University in 2012 under the guidance of Professor Aravinthan Samuel. He then received a Lewis-Sigler Fellowship to form his own independent research group at Princeton University, where he subsequently joined the faculty in 2016. He is an Investigator in the Simons Collaboration on the Global Brain and a recipient of the National Institutes of Health Director's New Innovator Award and the  National Science Foundation's CAREER Award.
@@ -44,21 +44,21 @@
 			</div>
 		</article>
 		
-		
-		
+
 		<article class="member">
-			<h3 class="member-name">Francesco Randi, Ph.D.</h3>
-			<h4 class="member-position">Swartz Fellow for Theoretical Neuroscience</h4>
+			<h3 class="member-name">Junang Li, Ph.D.</h3>
+			<h4 class="member-position">CPBF Fellow</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
 			<p class="member-bio">
-                Francesco is a postdoc in the Department of Physics. Before joining the lab to study the dynamics of the nervous system in <span style="font-style:italic;">C. elegans</span>, back in Europe he was doing research on out-of-equilibrium condensed matter, shooting laser pulses on solids in Trieste and doing theory in Hamburg.
+				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
+                
 			<div class="member-avatar">
-				<img alt="" src="assets/team/francsco_randi_sq.jpg" />
+				<img alt="" src="assets/team/Junang.jpg" />
 			</div>
 		</article>
-
-
+		
+		
 		
 		<article class="member">
 			<h3 class="member-name">Kelsey Hallinen, Ph.D.</h3>
@@ -216,6 +216,20 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 	
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
+			
+			
+		
+			<article class="member">
+				<h3 class="member-name">Francesco Randi, Ph.D.</h3>
+				<h4 class="member-position">Swartz Fellow for Theoretical Neuroscience</h4>
+				<p class="member-contact">2017-2023</p>
+				<p class="member-bio">
+	               Principal Scientist at Regeneron.
+				<div class="member-avatar">
+					<img alt="" src="assets/team/francsco_randi_sq.jpg" />
+				</div>
+			</article>
+
 			
 			
 			<hr />
