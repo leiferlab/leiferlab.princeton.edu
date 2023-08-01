@@ -47,7 +47,6 @@
 
 					<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A functional connectivity atlas of C. elegans measured by neural activation." <i>Nature</i> (2023). [in press, <a href="https://arxiv.org/pdf/2208.04790">preprint</a>]</li>
 					<li>Sandeep Kumar, Anuj K Sharma, Andrew Leifer, "Inhibitory motor signals gate mechanosensory processing in C. elegans." <i>PLOS Biology</i> (2023). [in press, <a href="https://arxiv.org/pdf/2301.02709">preprint</a>].</li>
-			</ul>
 
 					<li>Kevin S. Chen, Rui Wu, Marc H. Gershow, Andrew M. Leifer, "Continuous odor profile monitoring to study olfactory navigation in small animals." <a href="https://doi.org/10.7554/eLife.85910"><i>eLife</i></a>, (2023). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODU5MTAvZWxpZmUtODU5MTAtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzg1OTEw/elife-85910-v1.pdf?_hash=OS3VahCdIRxXbA45mxdykhx93RRhJlXrhxrvyOwP66Y%3D">PDF</a>]</li>
 
