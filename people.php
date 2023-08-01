@@ -178,21 +178,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			</div>
 		</article>
 
-		<article class="member">
-			<h3 class="member-name">Tori Edington</h3>
-			<h4 class="member-position">Senior Thesis Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:tfe@princeton.edu">tfe@princeton.edu</a><br \>
-			</p>
-			<p class="member-bio">
-				Tori is a fourth-year undergraduate in the Physics Department pursuing certificates in Biophysics and Dance. She is doing her senior thesis under the guidance of Dr. Francesco Randi and Xinwei Yu to study nonlinearity in C. elegans neural dynamics. She hopes to continue exploring the intersection of neuroscience and physics as she pursues a career in research. Along with science, Tori is passionate about STEM activism and dance, and enjoys doodling, being outdoors, and pretending to play ukulele. 
-				</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/tori.jpg" />
-				<p>?</p>
-			</div>
-		</article>
-		
+
 
 
 
@@ -233,6 +219,20 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			</article>
 
 			
+			<article class="member">
+				<h3 class="member-name">Tori Edington</h3>
+				<h4 class="member-position">Senior Thesis Student</h4>
+				<p class="member-contact">
+					2019-2022
+				</p>
+				<p class="member-bio">
+					University Chicago PhD program in Biophysics. 
+					</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/tori.jpg" />
+					<p>?</p>
+				</div>
+			</article>
 			
 
 	<article class="member">
@@ -240,7 +240,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			<h4 class="member-position"> Graduate Student</h4>
 			<p class="member-contact">2015-2022</p>
 			<p class="member-bio">
-				Last seen: starting a position at <a href="https://www.jumptrading.com/">Jump Trading</a> 
+				Last seen:  at <a href="https://www.jumptrading.com/">Jump Trading</a> 
 				
 			</p>
 			<div class="member-avatar">
@@ -254,7 +254,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			<h4 class="member-position">Postdoctoral Scholar; Graduate Student</h4>
 			<p class="member-contact">2014-2021</p>
 			<p class="member-bio">
-				Last seen: starting a Data Scientist position at <a href="http://www.aquabyte.ai">Aquabyte</a> 
+				Last seen: Data Scientist  at <a href="http://www.aquabyte.ai">Aquabyte</a> 
 				
 			</p>
 			<div class="member-avatar">
@@ -270,7 +270,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		<p class="member-contact">
 			2019-2020
 		</p>
-		<p class="member-bio"> Last seen: headed to a research position at UT Southwestern</p>
+		<p class="member-bio"> Last seen: reserach assistant at Thomas Jefferson University</p>
 		<div class="member-avatar">
 			<img alt="" src="assets/team/sarah.jpg" />
 			<p>?</p>
@@ -286,7 +286,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				2017-2020
 			</p>
 			<p class="member-bio">
-				Last seen: headed to University of Chicago Biophysics PhD program.
+				Last  University of Chicago Biophysics PhD program.
 			</p>		
 			<div class="member-avatar">
 				<img alt="" src="assets/team/chakraverti.jpeg" /> 
@@ -319,7 +319,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				2016-2018
 			</p>
 			<p class="member-bio">
-				Currently Research Assistant at Helen DeVos Children's Hospital.
+  				Last seen at Spectrum Health.
 			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/Ali.jpg" /> 
@@ -351,7 +351,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			<p class="member-contact">
 				2012-2017
 			</p>
-			<p class="member-bio">Last seen in industry.			</p>
+			<p class="member-bio">Enact Insight.			</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/LinderHeadSq.jpg" />
 			</div>
@@ -367,7 +367,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			2015-2017	
 			</p>
 			<p class="member-bio">
-			Currently Data Scientist at Gartner Inc.<!-- bio here-->
+			Vice President of Data Science at Gartner Inc.<!-- bio here-->
 				</p>
 			<div class="member-avatar">
 				<img alt="" src="assets/team/jnguyen.png" />
