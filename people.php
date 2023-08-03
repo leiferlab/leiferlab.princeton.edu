@@ -236,7 +236,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			
 
 	<article class="member">
-			<h3 class="member-name">Xinwei Yu</h3>
+			<h3 class="member-name">Xinwei Yu, Ph.D.</h3>
 			<h4 class="member-position"> Graduate Student</h4>
 			<p class="member-contact">2015-2022</p>
 			<p class="member-bio">
@@ -346,7 +346,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 		
 		
 		<article class="member">
-			<h3 class="member-name">Ashley Linder</h3>
+			<h3 class="member-name">Ashley Linder, Ph.D.</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
 				2012-2017
