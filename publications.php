@@ -28,7 +28,7 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
-			<li>Anuj Kumar Sharma, Francesco Randi, Sandeep Kumar, Sophie Dvali, Andrew M.~Leifer, "TWISP: A Transgenic Worm for Interrogating Signal Propagation in C. elegans." <a href="https://doi.org/10.1101/2023.08.03.551820"><i>bioRxiv</i></a>, 2023.08.03.551820; 5 August (2023).
+			<li>Anuj Kumar Sharma, Francesco Randi, Sandeep Kumar, Sophie Dvali, Andrew M. Leifer, "TWISP: A Transgenic Worm for Interrogating Signal Propagation in C. elegans." <a href="https://doi.org/10.1101/2023.08.03.551820"><i>bioRxiv</i></a>, 2023.08.03.551820; 5 August (2023).
  [<a href="https://www.biorxiv.org/content/10.1101/2023.08.03.551820v1.full.pdf">PDF</a>]</li>
 		</ul>
 
