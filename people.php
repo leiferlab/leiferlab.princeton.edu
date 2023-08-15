@@ -192,7 +192,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 			
 	</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/fijabi.png" />
+				<img alt="" src="assets/team/fijabi.jpg" />
 				<p>?</p>
 			</div>
 		</article>
