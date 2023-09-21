@@ -28,7 +28,7 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
-			<li>Anuj Kumar Sharma, Francesco Randi, Sandeep Kumar, Sophie Dvali, Andrew M. Leifer, "TWISP: A Transgenic Worm for Interrogating Signal Propagation in C. elegans." <a href="https://doi.org/10.1101/2023.08.03.551820"><i>bioRxiv</i></a>, 2023.08.03.551820; 5 August (2023).
+			<li>Anuj K. Sharma, Francesco Randi, Sandeep Kumar, Sophie Dvali, Andrew M. Leifer, "TWISP: A Transgenic Worm for Interrogating Signal Propagation in C. elegans." <a href="https://doi.org/10.1101/2023.08.03.551820"><i>bioRxiv</i></a>, 2023.08.03.551820; 5 August (2023).
  [<a href="https://www.biorxiv.org/content/10.1101/2023.08.03.551820v1.full.pdf">PDF</a>]</li>
 		</ul>
 
@@ -42,7 +42,7 @@
 
 
 					<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A signal propagation atlas of C. elegans." <i>Nature</i> (2023). [in press, <a href="https://arxiv.org/pdf/2208.04790">preprint</a>]</li>
-					<li>Sandeep Kumar, Anuj K Sharma, Andrew Leifer, "Inhibitory motor signals gate mechanosensory processing in C. elegans." <i>PLOS Biology</i> (2023). [in press, <a href="https://arxiv.org/pdf/2301.02709">preprint</a>].</li>
+					<li>Sandeep Kumar, Anuj K Sharma, Andrew Tran, Mochi Liu, Andrew Leifer, "Inhibitory motor signals gate mechanosensory processing in C. elegans." <i><a href="https://doi.org/10.1371/journal.pbio.3002280">PLOS Biology</a></i> 21(9): e3002280 (2023). [<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002280&type=printable">PDF</a>].</li>
 
 					<li>Kevin S. Chen, Rui Wu, Marc H. Gershow, Andrew M. Leifer, "Continuous odor profile monitoring to study olfactory navigation in small animals." <a href="https://doi.org/10.7554/eLife.85910"><i>eLife</i></a>, (2023). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODU5MTAvZWxpZmUtODU5MTAtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzg1OTEw/elife-85910-v1.pdf?_hash=OS3VahCdIRxXbA45mxdykhx93RRhJlXrhxrvyOwP66Y%3D">PDF</a>]</li>
 
