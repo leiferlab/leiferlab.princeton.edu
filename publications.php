@@ -106,7 +106,7 @@
 		
 	<li>Laura Sanders, "Making a worm do more than squirm," <i><a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm#video" target="_blank">Science News</a></i> 16 January 2011.</li>
 
-	<li>David Castelvecchi, "Single Worm Neurons Remotely Controlled with Lasers", <i><a href="http://www.scientificamerican.com/article.cfm?id=single-worm-neurons">Scientific American</a></i> 16 January 2011.</li>
+	<li>Davide Castelvecchi, "Single Worm Neurons Remotely Controlled with Lasers", <i><a href="http://www.scientificamerican.com/article.cfm?id=single-worm-neurons">Scientific American</a></i> 16 January 2011.</li>
 	
 	</ul>
 </div>
