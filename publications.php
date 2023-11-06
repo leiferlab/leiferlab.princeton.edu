@@ -41,7 +41,7 @@
 		<ul class="publications">
 
 
-					<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A signal propagation atlas of C. elegans." <i>Nature</i> (2023). [in press, <a href="https://arxiv.org/pdf/2208.04790">preprint</a>]</li>
+					<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A signal propagation atlas of C. elegans." <i><a href="https://doi.org/10.1038/s41586-023-06683-4">Nature</a></i> (2023). [<a href="https://www.nature.com/articles/s41586-023-06683-4.pdf?pdf=button%20sticky">PDF</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06683-4/MediaObjects/41586_2023_6683_MOESM1_ESM.pdf">Supplement (PDF)</a>]</li>
 					<li>Sandeep Kumar, Anuj K Sharma, Andrew Tran, Mochi Liu, Andrew Leifer, "Inhibitory motor signals gate mechanosensory processing in C. elegans." <i><a href="https://doi.org/10.1371/journal.pbio.3002280">PLOS Biology</a></i> 21(9): e3002280 (2023). [<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002280&type=printable">PDF</a>].</li>
 
 					<li>Kevin S. Chen, Rui Wu, Marc H. Gershow, Andrew M. Leifer, "Continuous odor profile monitoring to study olfactory navigation in small animals." <a href="https://doi.org/10.7554/eLife.85910"><i>eLife</i></a>, (2023). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODU5MTAvZWxpZmUtODU5MTAtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzg1OTEw/elife-85910-v1.pdf?_hash=OS3VahCdIRxXbA45mxdykhx93RRhJlXrhxrvyOwP66Y%3D">PDF</a>]</li>
