@@ -41,7 +41,7 @@
 		<ul class="publications">
 
 
-					<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A signal propagation atlas of C. elegans." <i><a href="https://doi.org/10.1038/s41586-023-06683-4">Nature</a></i>  623, 406–414 (2023). [<a href="https://www.nature.com/articles/s41586-023-06683-4.pdf?pdf=button%20sticky">PDF</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06683-4/MediaObjects/41586_2023_6683_MOESM1_ESM.pdf">Supplement (PDF)</a>]</li>
+					<li>Francesco Randi, Anuj K. Sharma, Sophie Dvali, Andrew M. Leifer, "A signal propagation atlas of C. elegans." <i><a href="https://doi.org/10.1038/s41586-023-06683-4">Nature</a></i>  623, 406–414 (2023). [<a href="https://www.nature.com/articles/s41586-023-06683-4.pdf?pdf=button%20sticky">PDF</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06683-4/MediaObjects/41586_2023_6683_MOESM1_ESM.pdf">Supplement (PDF)</a>, <a href="https://www.nature.com/articles/d41586-023-03619-w">News</a>]</li>
 					<li>Sandeep Kumar, Anuj K Sharma, Andrew Tran, Mochi Liu, Andrew Leifer, "Inhibitory motor signals gate mechanosensory processing in C. elegans." <i><a href="https://doi.org/10.1371/journal.pbio.3002280">PLOS Biology</a></i> 21(9): e3002280 (2023). [<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002280&type=printable">PDF</a>].</li>
 
 					<li>Kevin S. Chen, Rui Wu, Marc H. Gershow, Andrew M. Leifer, "Continuous odor profile monitoring to study olfactory navigation in small animals." <a href="https://doi.org/10.7554/eLife.85910"><i>eLife</i></a>, (2023). [<a href="https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODU5MTAvZWxpZmUtODU5MTAtdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzg1OTEw/elife-85910-v1.pdf?_hash=OS3VahCdIRxXbA45mxdykhx93RRhJlXrhxrvyOwP66Y%3D">PDF</a>]</li>
@@ -91,6 +91,7 @@
 	
 	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
+		<li>Claudia López Lloreda, "Wi-Fi for neurons: first map of wireless nerve signals unveiled in worms," <i><a href="https://www.nature.com/articles/d41586-023-03619-w">Nature</a></i>, 21 November 2023.</li>
 		<li>"Princeton Open Ventilation Monitor," <a href="https://innovation.princeton.edu/news/2021/andrew-leifer-princeton-open-ventilation-monitor"><i>Princeton University Innovation News</i></a>, 2 November 2021.</li>
 		<li>Toin Feder, "Stuck at home, physicists pivot to combat COVID-19," <a href="https://doi.org/10.1063/PT.3.4519"><i>Physics Today</i></a> 73, 7, 22 (2020).</li>
 	<li>Emily Singer, "Capturing the Whole Brain in Action,"<a href="https://www.simonsfoundation.org/uncategorized/capturing-the-whole-brain-in-action/?utm_source=SimonsFoundation.org+Newsletter&utm_campaign=3e4eb8cc28-January_2017_Simons_Foundation_Newsletter_01_06&utm_medium=email&utm_term=0_01c00e64ea-3e4eb8cc28-389524973"> <i>Simons Foundation</i></a>, 22 December 2016.</li>
