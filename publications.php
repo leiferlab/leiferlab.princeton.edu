@@ -129,8 +129,8 @@
 	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
 	<li>
-		<div id="kaltura_player_1" style="width: 640px;height: 360px"></div>
-		<script type="text/javascript" src='https://cdnapisec.kaltura.com/p/1449362/embedPlaykitJs/uiconf_id/52003512?autoembed=true&targetId=kaltura_player_1&entry_id=1_5tb10c36&config[playback]={"autoplay":true}'></script>
+		<div id="kaltura_player_1" style="width: 250px;height: 140px"></div>
+		<script type="text/javascript" src='https://cdnapisec.kaltura.com/p/1449362/embedPlaykitJs/uiconf_id/52003512?autoembed=true&targetId=kaltura_player_1&entry_id=1_5tb10c36&config[playback]={"autoplay":false}'></script>
 		
 	</li>	
 	<li>Andrew Leifer, <a href="https://doi.org/10.26081/K6MD3Q">"Measuring neural dynamics, functional connectivity, and behavior in C. elegans"</a>, <i>Neurophysics of Locomotion</i> Kavli Institute for Theoretical Physics, University of California Santa Barbara, 20 July 2022, 1hr  29 mins. </li>
