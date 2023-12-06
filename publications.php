@@ -128,8 +128,8 @@
 <div class="textblock">
 	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li> Andrew Leifer, "Signal propogation atlas of C. elegans", Department of Physics Hamilton Colloqium, 5 Oct 2023, 58 mins. 
-		<div id="kaltura_player_1" style="width: 375px;height: 20px"></div>
+	<li> Andrew Leifer, <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1449362/uiconf_id/52003512/entry_id/1_5tb10c36/embed/dynamic">"Signal propogation atlas of C. elegans"</a>, Department of Physics Hamilton Colloqium, 5 Oct 2023, 58 mins. 
+		<div id="kaltura_player_1" style="width: 375px;height: 210px"></div>
 		<script type="text/javascript" src='https://cdnapisec.kaltura.com/p/1449362/embedPlaykitJs/uiconf_id/52003512?autoembed=true&targetId=kaltura_player_1&entry_id=1_5tb10c36&config[playback]={"autoplay":false}'></script>
 		
 	</li>	
