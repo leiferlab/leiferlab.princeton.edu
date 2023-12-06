@@ -91,6 +91,7 @@
 	
 	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
+		<li> Elissa Welle, "Plugging invisible gaps in the synaptic connectome," <i><a href="https://www.thetransmitter.org/connectome/plugging-invisible-gaps-in-the-synaptic-connectome/">The Transmitter</a></i> 6 December 2023.</li>
 		<li>Claudia López Lloreda, "Wi-Fi for neurons: first map of wireless nerve signals unveiled in worms," <i><a href="https://www.nature.com/articles/d41586-023-03619-w">Nature</a></i>, 21 November 2023.</li>
 		<li>"Princeton Open Ventilation Monitor," <a href="https://innovation.princeton.edu/news/2021/andrew-leifer-princeton-open-ventilation-monitor"><i>Princeton University Innovation News</i></a>, 2 November 2021.</li>
 		<li>Toin Feder, "Stuck at home, physicists pivot to combat COVID-19," <a href="https://doi.org/10.1063/PT.3.4519"><i>Physics Today</i></a> 73, 7, 22 (2020).</li>
