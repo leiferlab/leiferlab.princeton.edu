@@ -128,6 +128,11 @@
 <div class="textblock">
 	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
+	<li>
+		<div id="kaltura_player_1" style="width: 640px;height: 360px"></div>
+		<script type="text/javascript" src='https://cdnapisec.kaltura.com/p/1449362/embedPlaykitJs/uiconf_id/52003512?autoembed=true&targetId=kaltura_player_1&entry_id=1_5tb10c36&config[playback]={"autoplay":true}'></script>
+		
+	</li>	
 	<li>Andrew Leifer, <a href="https://doi.org/10.26081/K6MD3Q">"Measuring neural dynamics, functional connectivity, and behavior in C. elegans"</a>, <i>Neurophysics of Locomotion</i> Kavli Institute for Theoretical Physics, University of California Santa Barbara, 20 July 2022, 1hr  29 mins. </li>
 	<li>Andrew Leifer, <a href="https://vimeo.com/184408711">"How does a nervous system transition between behavior states?"</a>,  <i>Princeton Neuroscience Institute Seminar</i>, Princeton University, 16 February 2016. 29 minutes.<br> <iframe src="https://player.vimeo.com/video/184408711" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>		
 		
