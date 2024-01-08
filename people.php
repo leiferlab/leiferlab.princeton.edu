@@ -177,6 +177,22 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				<p>?</p>
 			</div>
 		</article>
+			<article class="member">
+				<h3 class="member-name">Wayan Gauthey</h3>
+				<h4 class="member-position">Graduate Student</h4>
+				<p class="member-contact">
+					<i class="icon-envelope"></i>&nbsp;<a href="mailto:wgauthey@princeton.edu">wgauthey@princeton.edu</a><br \>
+					<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
+				</p>
+				<p class="member-bio">
+				Wayan is a graduate student in Neuroscience and is jointly advised by Andrew Leifer and Mala Murthy. He is interested in the neural basis of brain-wide dynamics underlying behavior in <i>C.elegans</i> and <i>Drosophila</i>. He received his M.S in Neuroscience and Neuroinformatics from the University of Zurich where he studied the mechanisms controlling synaptic nano-architecture in <i>Drosophila</i>. Outside of the lab he plays ice hockey.
+				
+		</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Wayan://.jpg" />
+					<p>?</p>
+				</div>
+			</article>
 
 
 
