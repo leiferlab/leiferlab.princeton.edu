@@ -189,7 +189,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				
 		</p>
 				<div class="member-avatar">
-					<img alt="" src="assets/team/Wayan://.jpg" />
+					<img alt="" src="assets/team/Wayan.jpg" />
 					<p>?</p>
 				</div>
 			</article>
