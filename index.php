@@ -29,7 +29,7 @@
 											
 				<div class="media-grid pull-left leftImg">
 
-				      <a href="people.php"><img class="thumbnail" src="assets/20151223_Leifer_Tiny.jpg"></a>
+				      <a href="people.php"><img class="thumbnail" src="assets/2023_headshot.jpg"></a>
 
 			  </div> 											
 			  
