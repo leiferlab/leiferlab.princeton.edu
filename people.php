@@ -32,15 +32,17 @@
 		
 		<article class="member">
 			<h3 class="member-name">Anuj Sharma, Ph.D.</h3>
-			<h4 class="member-position">Associate Professional Specialist and Lab Manager</h4>
+			<h4 class="member-position">Staff Scientist</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:aksharma@princeton.edu">aksharma@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-8635<br \>
+				<i class="icon-Linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/anuj-sharma-aa12a028/">LinkedIn</a> &nbsp; <i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/aksharma_118">Twitter</a> &nbsp; <i class="icon-google"></i>&nbsp;<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=5Q4eJYkAAAAJ">Google Scholar</a>
+
 			</p>
 			<p class="member-bio">
-				Anuj Sharma is an Associate Professional Specialist and Lab Manager in the Department of Physics. Previously, he had been a Postdoctoral Associate at University of Maryland, College Park and Cornell University, Ithaca. He received his Doctorate in Biotechnology from Jawaharlal Nehru University, New Delhi. Other than science, he is interested in Nature Photography and Sketching.</p>
+				Anuj Sharma is a Staff Scientist in the Department of Physics. Previously, he had been a Postdoctoral Associate at University of Maryland, College Park and Cornell University, Ithaca. He received his Doctorate in Biotechnology from Jawaharlal Nehru University, New Delhi. Other than science, he is interested in Nature Photography and Sketching.</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/sharmaHeadSq.jpg" />
+				<img alt="" src="assets/team/sharmaHeadShot.jpg" />
 			</div>
 		</article>
 		
@@ -68,7 +70,7 @@
 			<h3 class="member-name">Junang Li, Ph.D.</h3>
 			<h4 class="member-position">NSF CPBF Fellow</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:junangl@princeton.edu">junangl@princeton.edu</a><br \>
 			<p class="member-bio">
 				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
                 
