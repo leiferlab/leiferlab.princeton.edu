@@ -28,6 +28,8 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
+			
+					<li>Sandeep Kumar, Anuj K Sharma, Andrew M Leifer, "An inhibitory acetylcholine receptor gates context dependent mechanosensory processing in C. elegans," <a href="https://doi.org/10.1101/2024.03.21.586204"><i>bioRxiv</i></a> 2024.03.21.586204, 27 March (2024). [<a href="https://www.biorxiv.org/content/10.1101/2024.03.21.586204v1.full.pdf">PDF</a>]</li>
 		   			<li>Kevin S. Chen, Anuj K. Sharma, Jonathan W. Pillow, Andrew M. Leifer, "Olfactory learning alters navigation strategies and behavioral variability in C. elegans" <a href="https://doi.org/10.48550/arXiv.2311.07117"><i>arXiv</i></a>,arXiv:2311.07117 [q-bio.NC]; 13 Nov (2023).
 		    [<a href="https://arxiv.org/pdf/2311.07117">PDF</a>]</li>
 			
