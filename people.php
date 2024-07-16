@@ -14,7 +14,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Andrew Leifer, Ph.D.</h3>
-			<h4 class="member-position">Assistant Professor</h4>
+			<h4 class="member-position">Associate Professor</h4>
 			<p class="member-contact">
 				220 Jadwin Hall | 250 PNI <br \>				
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:leifer@princeton.edu">leifer@princeton.edu</a><br \>
