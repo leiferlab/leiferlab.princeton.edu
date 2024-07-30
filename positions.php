@@ -45,7 +45,8 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 
 
 <h2><a name="postdoc"></a>Post-doctoral positions</h2>
-<p>The lab currently has two searches for postdoctoral positions:</p>
+Please email <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> with a CV to enquire about upcoming opportunities.
+<!--<p>The lab currently has two searches for postdoctoral positions:</p>
 	
 <h3>Precision measurements of the brain</h3>
 
@@ -95,7 +96,7 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 
 <p>Interested applicants must apply online at <a href="http://www.princeton.edu/acad-positions/position/21861">https://www.princeton.edu/acad-positions/position/21861</a> and include a cover letter, a curriculum vitae including a publication list, and contact information of at least two references.</p>
 
-
+-->
 
 
 <h2><a name="postdocfellowships"></a>Named Post-doctoral Fellowships</h2>
@@ -104,7 +105,7 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 Exceptional postdoctoral candidates interested in working or collaborating with the lab are further encouraged to apply to any of the following prestigious named fellowships. These are awarded competitively at the departmental level and provide additional recognition and benefits. Please also notify Andrew Leifer if you plan to apply.
 <ul>
 <li><a href="https://biophysics.princeton.edu/opportunit">CPBF Fellowship</a> at the <a href="https://biophysics.princeton.edu/">Center for Physics of Biological Function</a>. Deadline is usually October or November.</li>
-<li><a href="http://pni.princeton.edu/opportunities/cv-starr-fellow-opportunities">CV Starr Fellowship</a> at the <a href="http://pni.princeton.edu">Princeton Neuroscience Institute</a>. Deadline is usually late January.</li>
+<li><a href="http://pni.princeton.edu/opportunities/cv-starr-fellow-opportunities">CV Starr Fellowship</a> at the <a href="http://pni.princeton.edu">Princeton Neuroscience Institute</a>. Deadline is usually late Summer / Early fall.</li>
 <li><a href="https://phy.princeton.edu/dicke-fellows">Robert Dicke Fellowship</a> at the <a href="http://phy.princeton.edy">Department of Physics</a>.  Deadline is usually mid-November.      </li>
 </ul>
 </p>
