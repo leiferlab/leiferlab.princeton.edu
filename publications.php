@@ -103,10 +103,9 @@
 	
 	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
-		
 		<li>Laurel Oldach, "Brains beyond the wiring diagram," <i><a href="https://cen.acs.org/biological-chemistry/neuroscience/Brains-beyond-wiring-diagram/102/i9">Chemical and Engineering News</a></i>, Volume 102, Issue 9, 25 March 2024.</li> 
 		<li> Elissa Welle, "Plugging invisible gaps in the synaptic connectome," <i><a href="https://www.thetransmitter.org/connectome/plugging-invisible-gaps-in-the-synaptic-connectome/">The Transmitter</a></i> 6 December 2023.</li>
-		<li>Claudia López Lloreda, "Wi-Fi for neurons: first map of wireless nerve signals unveiled in worms," <i><a href="https://www.nature.com/articles/d41586-023-03619-w">Nature</a></i>, 21 November 2023.</li>
+		<li>Claudia López Lloreda, "Wi-Fi for neurons: first map of wireless nerve signals unveiled in worms," <i><a href="https://doi.org/10.1038/d41586-023-03619-w">Nature</a></i>, 623, 894-895, 21 November 2023.</li>
 		<li>"Princeton Open Ventilation Monitor," <a href="https://innovation.princeton.edu/news/2021/andrew-leifer-princeton-open-ventilation-monitor"><i>Princeton University Innovation News</i></a>, 2 November 2021.</li>
 		<li>Toin Feder, "Stuck at home, physicists pivot to combat COVID-19," <a href="https://doi.org/10.1063/PT.3.4519"><i>Physics Today</i></a> 73, 7, 22 (2020).</li>
 	<li>Emily Singer, "Capturing the Whole Brain in Action,"<a href="https://www.simonsfoundation.org/uncategorized/capturing-the-whole-brain-in-action/?utm_source=SimonsFoundation.org+Newsletter&utm_campaign=3e4eb8cc28-January_2017_Simons_Foundation_Newsletter_01_06&utm_medium=email&utm_term=0_01c00e64ea-3e4eb8cc28-389524973"> <i>Simons Foundation</i></a>, 22 December 2016.</li>
