@@ -12,7 +12,7 @@
 	<!-- <p>We'll get back to you on that...</p> -->
 	</div>
 	<div class="meaty">
-	<p>We seek individuals with backgrounds in physics, neuroscience, molecular biology, engineering or computer science who are interested in applying their skills towards investigating how patterns of neural activity drive behavior.</p>
+	<p>We seek individuals with backgrounds in physics, biophysics, neuroscience, optics or engineering who are interested in performing challenging measurements to  investigate how patterns of neural activity drive behavior.</p>
 <!--	<p>We are seeking people at all levels:
 		<ul>
 			<li><a href="#grad">Graduate Student</a></li>
