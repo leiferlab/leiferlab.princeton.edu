@@ -46,7 +46,7 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-		
+		<li>Jing Huoa,b,1, Tianqi Xu, Qi Liua, Mahiber Polata, Sandeep Kumar, Xiaoqian Zhanga, Andrew M. Leifer, and Quan Wen, "Hierarchical behavior control by a single class of interneurons", <i><a href="https://doi.org/10.1073/pnas.2410789121">Proceedings of the National Academy of Sciences</a></i>, 121 (47) e2410789121, 12 November (2024).</li>
 			<li>Sandeep Kumar, Anuj K Sharma, Andrew M Leifer, "An inhibitory acetylcholine receptor gates context dependent mechanosensory processing in C. elegans," <a href="https://doi.org/10.1016/j.isci.2024.110776"><i>iScience</i></a>, 21 August (2024). [<a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2824%2902001-7">PDF</a>]</li>
 			
 		   			<li>Anuj K. Sharma, Francesco Randi, Sandeep Kumar, Sophie Dvali, Andrew M. Leifer, "TWISP: A Transgenic Worm for Interrogating Signal Propagation in C. elegans." <a href="https://doi.org/10.1093/genetics/iyae077"><i>Genetics</i></a>, Volume 227, Issue 3, July (2024).
