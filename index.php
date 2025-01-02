@@ -34,7 +34,7 @@
 			  </div> 											
 			  
 
-			  <h3>Andrew Leifer</h3><h4 class="grey"><i>Assistant Professor</i></h4>
+			  <h3>Andrew Leifer</h3><h4 class="grey"><i>Associate Professor</i></h4>
 			  &nbsp;
 						<p>My research combines experimental techniques from neuroscience, physics, engineering and computer science to study the dynamics of neural circuits in awake moving organisms. We are part of the <a href="http://physics.princeton.edu">Department of Physics</a> and the <a href="pni.princeton.edu">Princeton Neuroscience Institute</a>.  
 					</p>

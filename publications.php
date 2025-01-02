@@ -29,6 +29,14 @@
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
 			
+			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "A Blueprint of Sex-Specific Neuronal Regulation in the C. elegans Nervous System at Single-Cell Resolution" <a href="https://doi.org/10.1101/2024.12.27.630541"><i>bioRxiv</i></a> 2024.12.27.630541, 27 Dec (2024).     [<a href="https://www.biorxiv.org/content/10.1101/2024.12.27.630541v1.full.pdf">PDF</a>]</li>
+
+			
+			
+			
+   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.48550/arXiv.2412.14498"><i>arXiv</i></a>,arXiv:2412.14498 [q-bio.NC]; 19 Dec (2024).
+    [<a href="https://arxiv.org/pdf/2412.14498">PDF</a>]</li>
+			
 
    			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.48550/arXiv.2412.14498"><i>arXiv</i></a>,arXiv:2412.14498 [q-bio.NC]; 19 Dev (2024).
     [<a href="https://arxiv.org/pdf/2412.14498">PDF</a>]</li>
