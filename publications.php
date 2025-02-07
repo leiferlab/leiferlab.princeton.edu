@@ -28,7 +28,7 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
-			<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, <a href="https://doi.org/10.1101/2025.02.03.636179"><i>bioRxiv</i></a> 2025.02.03.636179;  3 Feb 92025). [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636179v1.full.pdf">PDF</a>]</li>
+			<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, <a href="https://doi.org/10.1101/2025.02.03.636179"><i>bioRxiv</i></a> 2025.02.03.636179;  3 Feb (2025). [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636179v1.full.pdf">PDF</a>]</li>
 						
 			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "A Blueprint of Sex-Specific Neuronal Regulation in the C. elegans Nervous System at Single-Cell Resolution" <a href="https://doi.org/10.1101/2024.12.27.630541"><i>bioRxiv</i></a> 2024.12.27.630541, 27 Dec (2024).     [<a href="https://www.biorxiv.org/content/10.1101/2024.12.27.630541v1.full.pdf">PDF</a>]</li>
 		
