@@ -99,35 +99,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				<img alt="" src="assets/team/creamer.jpg" />
 			</div>
 		</article>
-
-
-
-
-
-
 		
-			
-			
-		<article class="member">
-			<h3 class="member-name">Kevin Sean Chen</h3>
-			<h4 class="member-position">Graduate Student</h4>
-			<p class="member-contact">
-				 Jointly advised with Jonathan Pillow.<br \>
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:kschen@princeton.edu">kschen@princeton.edu</a><br \>
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/kevinschen13">Twitter</a> &nbsp; <i class="icon-github"></i>&nbsp;<a href="https://github.com/Kevin-Sean-Chen">GitHub</a>
-				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
-			</p>
-			<p class="member-bio">
-				Kevin is a graduate student in the Princeton Neuroscience Institute, interested in systems/computational neuroscience and biophysics. He attended National Taiwan University for undergraduate studies, where his research focused on the neural code in retina. After coming to Princeton, he was fascinated by worms and wants to study neural dynamics and behavior. Outside of lab, Kevin enjoys jogging in the woods, jazz, sketching, and sweet, colorful American snacks.
-
-				
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/kschenSq.jpg" />
-				<p>?</p>
-			</div>
-		</article>
-
 
 		<article class="member">
 			<h3 class="member-name">Sandeep Kumar</h3>
@@ -182,6 +154,7 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				<h4 class="member-position">Graduate Student</h4>
 				<p class="member-contact">
 					<i class="icon-envelope"></i>&nbsp;<a href="mailto:wgauthey@princeton.edu">wgauthey@princeton.edu</a><br \>
+					Joint with Malal Murthy.
 					<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
 				</p>
 				<p class="member-bio">
@@ -236,6 +209,22 @@ Pearl is a graduate student in the Physics department interested in studying the
 	<div class="textblock">
 	</div>
 	
+		
+	<article class="member">
+		<h3 class="member-name">Kevin Sean Chen</h3>
+		<h4 class="member-position">Graduate Student</h4>
+		<p class="member-contact">
+			2017-2024
+		</p>
+		<p class="member-bio">
+Kavli Fellow at Yale University.			
+		</p>
+		<div class="member-avatar">
+			<img alt="" src="assets/team/kschenSq.jpg" />
+			<p>?</p>
+		</div>
+	</article>
+	
 	
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
@@ -247,7 +236,7 @@ Pearl is a graduate student in the Physics department interested in studying the
 							2022-2024
 						</p>
 						<p class="member-bio">
-Masters student at École normale supérieure.	
+Post-bac at University of Michigan.	
 				</p>
 						<div class="member-avatar">
 							<img alt="" src="assets/team/fijabi.jpg" />

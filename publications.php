@@ -38,8 +38,7 @@
 					
 			   			<li>Matthew S Creamer, Andrew M Leifer, Jonathan W Pillow,  "Bridging the gap between the connectome and whole-brain activity in C. elegans" <a href="https://doi.org/10.1101/2024.09.22.614271"><i>bioRxiv</i></a>, 2024.09.22.614271(2024).
 			    [<a href="https://www.biorxiv.org/content/10.1101/2024.09.22.614271v1.full.pdf">PDF</a>]</li>	
-		   			<li>Kevin S. Chen, Anuj K. Sharma, Jonathan W. Pillow, Andrew M. Leifer, "Olfactory learning alters navigation strategies and behavioral variability in C. elegans" <a href="https://doi.org/10.48550/arXiv.2311.07117"><i>arXiv</i></a>, arXiv:2311.07117 [q-bio.NC]; 13 Nov (2023).
-		    [<a href="https://arxiv.org/pdf/2311.07117">PDF</a>]</li>		
+
 		</ul>
 		
 
@@ -50,6 +49,8 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+	   			<li>Kevin S. Chen, Anuj K. Sharma, Jonathan W. Pillow, Andrew M. Leifer, "Navigation strategies in Caenorhabditis elegans are differentially altered by learning" <a href="https://doi.org/10.1371/journal.pbio.3003005"><i>PLOS Biology</i></a>, 23(3): e3003005, (2025).
+	    [<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3003005&type=printable">PDF</a>]</li>
 		<li>Jing Huoa,b,1, Tianqi Xu, Qi Liua, Mahiber Polata, Sandeep Kumar, Xiaoqian Zhang, Andrew M. Leifer, and Quan Wen, "Hierarchical behavior control by a single class of interneurons", <i><a href="https://doi.org/10.1073/pnas.2410789121">Proceedings of the National Academy of Sciences</a></i>, 121 (47) e2410789121, 12 November (2024).</li>
 			<li>Sandeep Kumar, Anuj K Sharma, Andrew M Leifer, "An inhibitory acetylcholine receptor gates context dependent mechanosensory processing in C. elegans," <a href="https://doi.org/10.1016/j.isci.2024.110776"><i>iScience</i></a>, 21 August (2024). [<a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2824%2902001-7">PDF</a>]</li>
 			
