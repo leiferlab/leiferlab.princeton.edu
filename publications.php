@@ -33,7 +33,6 @@
 			
 			<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1101/2025.02.03.636179"><i>bioRxiv</i></a> 2025.02.03.636179;  3 Feb (2025). [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636179v1.full.pdf">PDF</a>]</li>
 						
-			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "A Blueprint of Sex-Specific Neuronal Regulation in the C. elegans Nervous System at Single-Cell Resolution" <a href="https://doi.org/10.1101/2024.12.27.630541"><i>bioRxiv</i></a> 2024.12.27.630541, 27 Dec (2024).     [<a href="https://www.biorxiv.org/content/10.1101/2024.12.27.630541v1.full.pdf">PDF</a>]</li>
 		
 
    			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.48550/arXiv.2412.14498"><i>arXiv</i></a>, arXiv:2412.14498 [q-bio.NC]; 19 Dec (2024).
@@ -52,6 +51,8 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+
+			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "A Blueprint of Sex-Specific Neuronal Regulation in the C. elegans Nervous System at Single-Cell Resolution" <a href="https://doi.org/10.1101/2024.12.27.630541"><i>bioRxiv</i></a> 2024.12.27.630541, 27 Dec (2024). In press at Science Advances.    [<a href="https://www.biorxiv.org/content/10.1101/2024.12.27.630541v1.full.pdf">PDF</a>]</li>
 	   			<li>Kevin S. Chen, Anuj K. Sharma, Jonathan W. Pillow, Andrew M. Leifer, "Navigation strategies in Caenorhabditis elegans are differentially altered by learning" <a href="https://doi.org/10.1371/journal.pbio.3003005"><i>PLOS Biology</i></a>, 23(3): e3003005, (2025).
 	    [<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3003005&type=printable">PDF</a>]</li>
 		<li>Jing Huoa,b,1, Tianqi Xu, Qi Liua, Mahiber Polata, Sandeep Kumar, Xiaoqian Zhang, Andrew M. Leifer, and Quan Wen, "Hierarchical behavior control by a single class of interneurons", <i><a href="https://doi.org/10.1073/pnas.2410789121">Proceedings of the National Academy of Sciences</a></i>, 121 (47) e2410789121, 12 November (2024).</li>
