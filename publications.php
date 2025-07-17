@@ -12,7 +12,8 @@
 		</p>
 	<p>
 		<ul>
-			<!--<li><a href="#preprint">Manuscripts in the process of peer-review</a></li>-->
+			<li><a href="#preprint">Manuscripts in the process of peer-review</a></li>
+			<li><a href="#preprint">Manuscripts in the process of peer-review</a></li>
 			<li><a href="#peerreview">Peer-reviewed journal articles</a></li> 
 			<li><a href="#pop">Popular press articles featuring our work</a></li>
 			<li><a href="#vid">Video Recorded Lectures</a></li>
@@ -28,6 +29,7 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
+			<li>Wayan Gauthey, Albert Lin, Osama M. Ahmed, Andrew M. Leifer, Mala Murthy, Stephan Y. Thiberge, "High-speed whole-brain imaging in Drosophila" <a href="https://doi.org/10.1101/2025.06.18.66037"><i>bioRxiv</i></a> 2025.06.18.660371 18 June 2025. [<a href="https://www.biorxiv.org/content/10.1101/2025.06.18.660371v1.full.pdf">PDF</a>]</li>.
 			
 			<li>Junang Li, Andrew M. Leifer, David H. Wolpert, "Measuring amount of computation done by C. elegans using whole brain neural activity" <a href="https://doi.org/10.48550/arXiv.2504.10300"><i>arXiv</i></a>, arxiv:2504.10300 [q-bio.NC]; 14 April 2025. [<a href="https://arxiv.org/pdf/2504.10300">PDF</a>].
 			
@@ -42,9 +44,7 @@
 			    [<a href="https://www.biorxiv.org/content/10.1101/2024.09.22.614271v1.full.pdf">PDF</a>]</li>	
 
 		</ul>
-		
 
-	
 		
 </div>
 <hr />  
@@ -52,7 +52,7 @@
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
 
-			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "A Blueprint of Sex-Specific Neuronal Regulation in the C. elegans Nervous System at Single-Cell Resolution" <a href="https://doi.org/10.1101/2024.12.27.630541"><i>bioRxiv</i></a> 2024.12.27.630541, 27 Dec (2024). In press at Science Advances.    [<a href="https://www.biorxiv.org/content/10.1101/2024.12.27.630541v1.full.pdf">PDF</a>]</li>
+			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "Decoding sexual dimorphism of the sex-shared nervous system at single-neuron resolution" <a href="https://doi.org/10.1126/sciadv.adv9106"><i>Science Advavces</i></a> Vol 11, Issue 28 (2025).    [<a href="https://www.science.org/doi/pdf/10.1126/sciadv.adv9106?download=true">PDF</a>]</li>
 	   			<li>Kevin S. Chen, Anuj K. Sharma, Jonathan W. Pillow, Andrew M. Leifer, "Navigation strategies in Caenorhabditis elegans are differentially altered by learning" <a href="https://doi.org/10.1371/journal.pbio.3003005"><i>PLOS Biology</i></a>, 23(3): e3003005, (2025).
 	    [<a href="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3003005&type=printable">PDF</a>]</li>
 		<li>Jing Huoa,b,1, Tianqi Xu, Qi Liua, Mahiber Polata, Sandeep Kumar, Xiaoqian Zhang, Andrew M. Leifer, and Quan Wen, "Hierarchical behavior control by a single class of interneurons", <i><a href="https://doi.org/10.1073/pnas.2410789121">Proceedings of the National Academy of Sciences</a></i>, 121 (47) e2410789121, 12 November (2024).</li>
