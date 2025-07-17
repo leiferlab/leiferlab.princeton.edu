@@ -29,9 +29,9 @@
 
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
-			<li>Wayan Gauthey, Albert Lin, Osama M. Ahmed, Andrew M. Leifer, Mala Murthy, Stephan Y. Thiberge, "High-speed whole-brain imaging in Drosophila" <a href="https://doi.org/10.1101/2025.06.18.66037"><i>bioRxiv</i></a> 2025.06.18.660371 18 June 2025. [<a href="https://www.biorxiv.org/content/10.1101/2025.06.18.660371v1.full.pdf">PDF</a>]</li>.
+			<li>Wayan Gauthey, Albert Lin, Osama M. Ahmed, Andrew M. Leifer, Mala Murthy, Stephan Y. Thiberge, "High-speed whole-brain imaging in Drosophila" <a href="https://doi.org/10.1101/2025.06.18.66037"><i>bioRxiv</i></a> 2025.06.18.660371 18 June 2025. [<a href="https://www.biorxiv.org/content/10.1101/2025.06.18.660371v1.full.pdf">PDF</a>].</li>
 			
-			<li>Junang Li, Andrew M. Leifer, David H. Wolpert, "Measuring amount of computation done by C. elegans using whole brain neural activity" <a href="https://doi.org/10.48550/arXiv.2504.10300"><i>arXiv</i></a>, arxiv:2504.10300 [q-bio.NC]; 14 April 2025. [<a href="https://arxiv.org/pdf/2504.10300">PDF</a>].
+			<li>Junang Li, Andrew M. Leifer, David H. Wolpert, "Measuring amount of computation done by C. elegans using whole brain neural activity" <a href="https://doi.org/10.48550/arXiv.2504.10300"><i>arXiv</i></a>, arxiv:2504.10300 [q-bio.NC]; 14 April 2025. [<a href="https://arxiv.org/pdf/2504.10300">PDF</a>].</li>
 			
 			<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1101/2025.02.03.636179"><i>bioRxiv</i></a> 2025.02.03.636179;  3 Feb (2025). [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636179v1.full.pdf">PDF</a>]</li>
 						
