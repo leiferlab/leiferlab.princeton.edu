@@ -13,7 +13,6 @@
 	<p>
 		<ul>
 			<li><a href="#preprint">Manuscripts in the process of peer-review</a></li>
-			<li><a href="#preprint">Manuscripts in the process of peer-review</a></li>
 			<li><a href="#peerreview">Peer-reviewed journal articles</a></li> 
 			<li><a href="#pop">Popular press articles featuring our work</a></li>
 			<li><a href="#vid">Video Recorded Lectures</a></li>
