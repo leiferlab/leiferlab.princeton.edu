@@ -150,6 +150,16 @@
 <div class="textblock">
 	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
+	<li> 
+	
+	
+	https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html
+	
+	<li>Andrew Leifer, <a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html">"Active sensorimotor processing in C. elegans: context dependency and state switchign navigation"</a>, <i>Neurophysics of Active Sensing</i> Kavli Institute for Theoretical Physics, University of California Santa Barbara, 15 August 2025, 1hr 14 mins.<a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html"><img src="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/tv/play_thumb.jpg"></a> </li>	
+	
+	<li>Andrew Leifer, <a href="https://vimeo.com/1118865314">"Global brain dynamics of C. elegans"</a>,  <i>Simons Collaboration on the Global Brain Annual Meeting </i>,Simons Foundation, 6 May 2025 . 24 minutes.<br> <iframe src="https://player.vimeo.com/video/1118865314" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
+	
+	
 	<li> Andrew Leifer, <a href="https://www.kaltura.com/index.php/extwidget/preview/partner_id/1449362/uiconf_id/52003512/entry_id/1_5tb10c36/embed/dynamic">"Signal propogation atlas of C. elegans"</a>, Department of Physics Hamilton Colloqium, 5 Oct 2023, 58 mins. 
 		<div id="kaltura_player_1" style="width: 375px;height: 210px"></div>
 		<script type="text/javascript" src='https://cdnapisec.kaltura.com/p/1449362/embedPlaykitJs/uiconf_id/52003512?autoembed=true&targetId=kaltura_player_1&entry_id=1_5tb10c36&config[playback]={"autoplay":false}'></script>
