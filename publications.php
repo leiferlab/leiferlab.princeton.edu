@@ -152,10 +152,9 @@
 	<ul class="publications">
 	<li> 
 	
+
 	
-	https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html
-	
-	<li>Andrew Leifer, <a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html">"Active sensorimotor processing in C. elegans: context dependency and state switchign navigation"</a>, <i>Neurophysics of Active Sensing</i> Kavli Institute for Theoretical Physics, University of California Santa Barbara, 15 August 2025, 1hr 14 mins.<a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html"><img src="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/tv/play_thumb.jpg"></a> </li>	
+	<li>Andrew Leifer, <a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html">"Active sensorimotor processing in C. elegans: context dependency and state switchign navigation"</a>, <i>Neurophysics of Active Sensing</i> Kavli Institute for Theoretical Physics, University of California Santa Barbara, 15 August 2025, 1hr 14 mins.<div><a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html"><img src="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/tv/play_thumb.jpg"></a></div> </li>	
 	
 	<li>Andrew Leifer, <a href="https://vimeo.com/1118865314">"Global brain dynamics of C. elegans"</a>,  <i>Simons Collaboration on the Global Brain Annual Meeting </i>,Simons Foundation, 6 May 2025 . 24 minutes.<br> <iframe src="https://player.vimeo.com/video/1118865314" width="250" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
 	
