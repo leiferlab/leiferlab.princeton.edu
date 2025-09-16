@@ -47,7 +47,7 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-		   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.1103/6wgv-b9m6"><i>PRX Life</i></a> 3, 033021; 3 Sept (2025).
+		   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.1103/6wgv-b9m6"><i>PRX Life</i></a>, 3, 033021; 3 Sept (2025).
 		    [<a href="https://journals.aps.org/prxlife/pdf/10.1103/6wgv-b9m6">PDF</a>]</li>
 
 			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "Decoding sexual dimorphism of the sex-shared nervous system at single-neuron resolution" <a href="https://doi.org/10.1126/sciadv.adv9106"><i>Science Advavces</i></a> Vol 11, Issue 28 (2025).    [<a href="https://www.science.org/doi/pdf/10.1126/sciadv.adv9106?download=true">PDF</a>]</li>
