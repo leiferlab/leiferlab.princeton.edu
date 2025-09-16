@@ -35,10 +35,6 @@
 			
 			<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1101/2025.02.03.636179"><i>bioRxiv</i></a> 2025.02.03.636179;  3 Feb (2025). [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636179v1.full.pdf">PDF</a>]</li>
 						
-		
-
-   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.48550/arXiv.2412.14498"><i>arXiv</i></a>, arXiv:2412.14498 [q-bio.NC]; 19 Dec (2024).
-    [<a href="https://arxiv.org/pdf/2412.14498">PDF</a>]</li>
 					
 			   			<li>Matthew S Creamer, Andrew M Leifer, Jonathan W Pillow,  "Bridging the gap between the connectome and whole-brain activity in C. elegans" <a href="https://doi.org/10.1101/2024.09.22.614271"><i>bioRxiv</i></a>, 2024.09.22.614271(2024).
 			    [<a href="https://www.biorxiv.org/content/10.1101/2024.09.22.614271v1.full.pdf">PDF</a>]</li>	
@@ -51,6 +47,8 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+		   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.1103/6wgv-b9m6"><i>PRX Life</i></a> 3, 033021; 3 Sept (2025).
+		    [<a href="https://journals.aps.org/prxlife/pdf/10.1103/6wgv-b9m6">PDF</a>]</li>
 
 			<li>Rizwanul Haque, Hagar Setty, Ramiro Lorenzo, Gil Stelzer, Ron Rotkopf, Yehuda Salzberg, Gal Goldman, Sandeep Kumar, Shiraz Nir Halber, Andrew M. Leifer, Elad Schneidman, Patrick Laurent, Meital Oren-Suissa, "Decoding sexual dimorphism of the sex-shared nervous system at single-neuron resolution" <a href="https://doi.org/10.1126/sciadv.adv9106"><i>Science Advavces</i></a> Vol 11, Issue 28 (2025).    [<a href="https://www.science.org/doi/pdf/10.1126/sciadv.adv9106?download=true">PDF</a>]</li>
 	   			<li>Kevin S. Chen, Anuj K. Sharma, Jonathan W. Pillow, Andrew M. Leifer, "Navigation strategies in Caenorhabditis elegans are differentially altered by learning" <a href="https://doi.org/10.1371/journal.pbio.3003005"><i>PLOS Biology</i></a>, 23(3): e3003005, (2025).
@@ -112,6 +110,7 @@
 	
 	<h3><a name="pop"></a>Popular press articles featuring our work</h3>
 	<ul class="publications">
+		<li>Holly Barker, "Worms help untangle brain structure/function mystery,"<a href="https://doi.org/10.53053/PVXO1692"><i>The Transmitter</i></a>, 29 August 2025.</li>
 		<li>Laurel Oldach, "Brains beyond the wiring diagram," <i><a href="https://cen.acs.org/biological-chemistry/neuroscience/Brains-beyond-wiring-diagram/102/i9">Chemical and Engineering News</a></i>, Volume 102, Issue 9, 25 March 2024.</li> 
 		<li> Elissa Welle, "Plugging invisible gaps in the synaptic connectome," <i><a href="https://www.thetransmitter.org/connectome/plugging-invisible-gaps-in-the-synaptic-connectome/">The Transmitter</a></i> 6 December 2023.</li>
 		<li>Claudia López Lloreda, "Wi-Fi for neurons: first map of wireless nerve signals unveiled in worms," <i><a href="https://doi.org/10.1038/d41586-023-03619-w">Nature</a></i>, 623, 894-895, 21 November 2023.</li>
@@ -150,8 +149,6 @@
 <div class="textblock">
 	<h3><a name="vid"></a>Video Recorded Lectures</h3>
 	<ul class="publications">
-	<li> 
-	
 
 	
 	<li>Andrew Leifer, <a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html">"Active sensorimotor processing in C. elegans: context dependency and state switchign navigation"</a>, <i>Neurophysics of Active Sensing</i> Kavli Institute for Theoretical Physics, University of California Santa Barbara, 15 August 2025, 1hr 14 mins.<br><a href="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/rm/jwvideo.html"><img src="https://online.kitp.ucsb.edu/online/neurosensing25/leifer/tv/play_thumb.jpg" width="250" height="140"></a> </li>	
