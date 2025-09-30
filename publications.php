@@ -47,7 +47,7 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-						<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1016/j.celrep.2025.116327"><i>Cell Reports</i></a> 44, 10;  28 October (2025). [<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01098-8#">PDF</a>]</li>
+						<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1016/j.celrep.2025.116327"><i>Cell Reports</i></a> 44, 10;  28 October (2025). [<a href="https://www.cell.com/cell-reports/pdfExtended/S2211-1247(25)01098-8">PDF</a>]</li>
 						
 		   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.1103/6wgv-b9m6"><i>PRX Life</i></a>, 3, 033021; 3 Sept (2025).
 		    [<a href="https://journals.aps.org/prxlife/pdf/10.1103/6wgv-b9m6">PDF</a>]</li>
