@@ -33,7 +33,7 @@
 			
 			<li>Junang Li, Andrew M. Leifer, David H. Wolpert, "Measuring amount of computation done by C. elegans using whole brain neural activity" <a href="https://doi.org/10.48550/arXiv.2504.10300"><i>arXiv</i></a>, arxiv:2504.10300 [q-bio.NC]; 14 April 2025. [<a href="https://arxiv.org/pdf/2504.10300">PDF</a>].</li>
 			
-			<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1101/2025.02.03.636179"><i>bioRxiv</i></a> 2025.02.03.636179;  3 Feb (2025). [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636179v1.full.pdf">PDF</a>]</li>
+
 						
 					
 			   			<li>Matthew S Creamer, Andrew M Leifer, Jonathan W Pillow,  "Bridging the gap between the connectome and whole-brain activity in C. elegans" <a href="https://doi.org/10.1101/2024.09.22.614271"><i>bioRxiv</i></a>, 2024.09.22.614271(2024).
@@ -47,6 +47,8 @@
 			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+						<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1016/j.celrep.2025.116327"><i>Cell Reports</i></a> 44, 10;  28 October (2025). [<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01098-8#">PDF</a>]</li>
+						
 		   			<li>Sophie Dvali, Caio Seguin, Richard Betzel, Andrew M. Leifer, "Diverging network architecture of the C. elegans connectome and signaling network" <a href="https://doi.org/10.1103/6wgv-b9m6"><i>PRX Life</i></a>, 3, 033021; 3 Sept (2025).
 		    [<a href="https://journals.aps.org/prxlife/pdf/10.1103/6wgv-b9m6">PDF</a>]</li>
 
