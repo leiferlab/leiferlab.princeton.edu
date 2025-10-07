@@ -157,7 +157,9 @@ Pearl is a graduate student in the Physics department interested in studying the
 	<div class="textblock">
 	</div>
 	
-
+	
+		<div class="hero-unit">
+			<p>Lab Alumni</p>
 
 
 			<article class="member">
@@ -214,9 +216,7 @@ Kavli Fellow at Yale University.
 		</div>
 	</article>
 	
-	
-		<div class="hero-unit">
-			<p>Lab Alumni</p>
+
 				
 				<article class="member">
 						<h3 class="member-name">Abdul-Bassit Fijabi</h3>
