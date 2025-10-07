@@ -199,6 +199,14 @@ Co-founder, Memazing.				</p>
 			</p>
 			<p class="member-bio">
 				Postdoc at Yale University.
+			</p>
+
+			<div class="member-avatar">
+				<img alt="" src="assets/team/Sandeep_picture.jpg" />
+				<p>?</p>
+
+
+			</div>
 		</article>		
 		
 	<article class="member">
