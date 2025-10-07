@@ -44,24 +44,6 @@
 			</div>
 		</article>
 		
-
-
-		
-		
-		<article class="member">
-			<h3 class="member-name">Kelsey Hallinen, Ph.D.</h3>
-			<h4 class="member-position">NSF CPBF Fellow</h4>
-			<p class="member-contact">
-				Also with Zemer Gitai <br \>
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:hallinen@princeton.edu">hallinen@princeton.edu</a><br \>
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/kmhalinen">Twitter</a> 
-			</p>
-			<p class="member-bio">Kelsey is a Fellow in the Center for the Physics of Biological Function working on whole brain imaging and neural dynamics in <i>C. elegans</i>. She received her BS in Physics from Carnegie Mellon University before heading to the University of Michigan for her PhD in Biophysics in the Wood Lab, where she studied antibiotic resistance and bacterial population dynamics. Beyond lab work, she enjoys running, rock climbing, and hanging out with her 20 year old cat named Gabrielle.
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/kelsey.jpg" />
-			</div>
-		</article>
 		
 		
 		<article class="member">
@@ -80,41 +62,7 @@
 
 
 
-
-		<article class="member">
-			<h3 class="member-name">Matthew Creamer, Ph.D.</h3>
-			
-			<h4 class="member-position">CV Starr Fellow</h4>
-			<p class="member-contact">
-				Joint with Jonathan Pillow<br \>
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:mcreamer@princeton.edu">mcreamer@princeton.edu</a><br \>
-
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/NondairyC">Twitter</a> 
-<i class="icon-globe"></i>&nbsp;<a href="https://matthewscreamer.com/">Website</a>
-			</p>
-			<p class="member-bio">
-Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is jointly advised by Andrew Leifer and Jonathan Pillow. He is currently working on modeling whole-brain calcium dynamics and characterizing functional changes between neurons during learning in C. elegans. Matt received his PhD from Yale, working with Damon Clark studying how animals detect visual motion cues and use these cues to regulate their walking speed. When not in lab, he enjoys rock climbing, running, board games, dungeons and dragons, and video games.
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/creamer.jpg" />
-			</div>
-		</article>
-		
-
-		<article class="member">
-			<h3 class="member-name">Sandeep Kumar</h3>
-			<h4 class="member-position">Graduate Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sk35@princeton.edu">sk35@princeton.edu</a><br \>
-			</p>
-			<p class="member-bio">
-				Sandeep is a graduate student in Neuroscience. He wants to understand how sensory cues (such as touch) are processed by the brain. He has a B.S-M.S. in Physics from University of Hyderabad and an M. Eng. in Biomedical Engineering from Cornell University. Coming from a first-generation low-income background, he is passionate about teaching and mentoring opportunities. When not in the lab, he enjoys playing tennis, hiking, trying new food, and exploring New York city.
-			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/Sandeep_picture.jpg" />
-				<p>?</p>
-			</div>
-		</article>
+	
 
 
 		<article class="member">
@@ -209,6 +157,47 @@ Pearl is a graduate student in the Physics department interested in studying the
 	<div class="textblock">
 	</div>
 	
+
+
+
+			<article class="member">
+				<h3 class="member-name">Matthew Creamer, Ph.D.</h3>
+			
+				<h4 class="member-position">CV Starr Fellow</h4>
+				<p class="member-contact">
+					2019-2025 
+				</p>
+				<p class="member-bio">
+Co-founder, Memazing.				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/creamer.jpg" />
+				</div>
+			</article>
+	
+	
+	
+	<article class="member">
+		<h3 class="member-name">Kelsey Hallinen, Ph.D.</h3>
+		<h4 class="member-position">CPBF Fellow</h4>
+		<p class="member-contact">
+			2019-2022
+		</p>
+		<p class="member-bio">Assistant Professor of Physics at University of Oregon.
+		</p>
+		<div class="member-avatar">
+			<img alt="" src="assets/team/kelsey.jpg" />
+		</div>
+	</article>
+		
+		<article class="member">
+			<h3 class="member-name">Sandeep Kumar</h3>
+			<h4 class="member-position">Graduate Student</h4>
+			<p class="member-contact">
+				2018-2025
+			</p>
+			<p class="member-bio">
+				Postdoc at Yale University.
+		</article>		
 		
 	<article class="member">
 		<h3 class="member-name">Kevin Sean Chen</h3>
