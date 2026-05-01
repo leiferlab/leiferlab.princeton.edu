@@ -30,9 +30,8 @@
 		<h3><a name="preprint"></a>Manuscripts in the process of peer-review</h3>
 		<ul class="publications">
 			<li>Alison Kochersberger, Dongyeop Lee, Mohammad Mahdi Torkashvand, Sandeep Kumar, Saba Baskoylu, Titas Sengupta, Noelle Koonce, Chloe E. Emerson, Nandan V. Patel, Daniel Colón-Ramos, Steven Flavell, Andrew M. Leifer, Vivek Venkatachalam, H. Robert Horvitz, Marc Hammarlund, "Programmed Cell Death Modifies Neural Circuits and Tunes Intrinsic Behavior." <a href="https://doi.org/10.1101/2023.09.11.557249"><i>bioRxiv</i></a>, 2023.09.11.557249 November 19 (2025).[<a href="https://www.biorxiv.org/content/10.1101/2023.09.11.557249v3.full.pdf">PDF</a>]</li>
-			<li>Haoming He, Eugenia King Hin Fong, Sandeep Kumar, Ho Ming Terence Lee, Andrew M. Leifer, Martin Chalfie, Chaogu Zheng, "Synaptic and neural pathway redundancy enables the robustness of a sensory-motor reflex and promotes predation escape in C. elegans,"  <a href="https://doi.org/10.1101/2025.09.18.677212">bioRxiv</a>, 2025.09.18.677212 19 September 2025.</li>
-			<li>Kevin S. Chen, Jonathan W. Pillow*, Andrew M. Leifer*, "State-switching navigation strategies in C. elegans are beneficial for chemotaxis," <a href="https://doi.org/10.48550/arXiv.2508.00191">arXiv</a>:2508.00191 31 July 2025 [<a href="https://arxiv.org/pdf/2508.00191">PDF</a>]</li>
-			
+
+
 			<li>Junang Li, Andrew M. Leifer, David H. Wolpert, "Measuring amount of computation done by C. elegans using whole brain neural activity" <a href="https://doi.org/10.48550/arXiv.2504.10300"><i>arXiv</i></a>, arxiv:2504.10300 [q-bio.NC]; 14 April 2025. [<a href="https://arxiv.org/pdf/2504.10300">PDF</a>].</li>
 					
 			   			<li>Matthew S Creamer, Andrew M Leifer, Jonathan W Pillow,  "Bridging the gap between the connectome and whole-brain activity in C. elegans" <a href="https://doi.org/10.1101/2024.09.22.614271"><i>bioRxiv</i></a>, 2024.09.22.614271(2024).
@@ -47,6 +46,10 @@
 <div class="textblock">			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
+						<li>Haoming He, Eugenia King Hin Fong, Sandeep Kumar, Ho Ming Terence Lee, Andrew M. Leifer, Martin Chalfie, Chaogu Zheng, "Synaptic and neural pathway redundancy enables the robustness of a sensory-motor reflex and promotes predation escape in C. elegans,"  <a href="https://doi.org/10.1101/2025.09.18.677212">bioRxiv</a>, 2025.09.18.677212 19 (September 2025).  Accepted to PNAS.</li>
+						<li>Kevin S. Chen, Jonathan W. Pillow*, Andrew M. Leifer*, "State-switching navigation strategies in C. elegans are beneficial for chemotaxis," <a href="https://doi.org/10.48550/arXiv.2508.00191">arXiv</a>:2508.00191 31 July 2025 [<a href="https://arxiv.org/pdf/2508.00191">PDF</a>] Accepted to PNAS.</li>
+						
+						
 			<li>Wayan Gauthey, Albert Lin, Osama M. Ahmed, Andrew M. Leifer, Mala Murthy, Stephan Y. Thiberge, "High-speed whole-brain imaging in Drosophila" <a href="https://doi.org/10.1038/s41467-026-72437-1"><i>Nature Communications</i></a> 28 April (2026). [<a href="https://www.nature.com/articles/s41467-026-72437-1_reference.pdf">PDF</a>].</li>
 						<li>Tiannuo Li*, Sandeep Kumar*, Hoikiu Poon, Andrew M Leifer, Chaogu Zheng, "Functional Interrogation of Neuronal Subtypes via Intersectional Expression of Optogenetic Actuator Reveals Non-linear Components in a Linear Circuit" <a href="https://doi.org/10.1016/j.celrep.2025.116327"><i>Cell Reports</i></a> 44, 10;  28 October (2025). [<a href="https://www.cell.com/cell-reports/pdfExtended/S2211-1247(25)01098-8">PDF</a>]</li>
 						
