@@ -46,19 +46,6 @@
 		
 		
 		
-		<article class="member">
-			<h3 class="member-name">Junang Li, Ph.D.</h3>
-			<h4 class="member-position">NSF CPBF Fellow</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailtjunangl:@princeton.edu">junangl@princeton.edu</a><br \>
-			<p class="member-bio">
-				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
-                
-			<div class="member-avatar">
-				<img alt="" src="assets/team/Junang.jpg" />
-			</div>
-		</article>
-		
 
 
 
@@ -163,11 +150,24 @@ Pearl is a graduate student in the Physics department interested in studying the
 
 
 			<article class="member">
+				<h3 class="member-name">Junang Li, Ph.D.</h3>
+				<h4 class="member-position">CPBF Fellow</h4>
+				<p class="member-contact">
+					2022-2026
+				</p>
+				<p class="member-bio">
+First Key Mortgage.				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Junang.jpg" />
+				</div>
+			</article>
+
+			<article class="member">
 				<h3 class="member-name">Matthew Creamer, Ph.D.</h3>
-			
+
 				<h4 class="member-position">CV Starr Fellow</h4>
 				<p class="member-contact">
-					2019-2025 
+					2019-2025
 				</p>
 				<p class="member-bio">
 Co-founder, Memazing.				</p>
