@@ -43,9 +43,23 @@
 				<img alt="" src="assets/team/sharmaHeadSq.jpg" />
 			</div>
 		</article>
-		
-		
-		
+
+		<article class="member">
+			<h3 class="member-name">Charlie Edelson, Ph.D.</h3>
+			<h4 class="member-position">CPBF Fellow</h4>
+			<p class="member-contact">
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:ce3721@princeton.edu">ce3721@princeton.edu</a><br \>
+			</p>
+			<p class="member-bio">
+				Charlie is a fellow in the Center for the Physics of Biological Function, and is an experimental biophysicist broadly interested in how information propagates through biological systems, particularly within sensory systems. He received his Ph.D. in Physics from Indiana University Bloomington in Spring 2024, where he studied how the statistics of natural scenes shape the form and function of optimal motion estimators in both computational and biological contexts. Beyond research, Charlie is an avid mandolin player and enjoys spending time in and around New Jersey's many bodies of water.
+			</p>
+			<div class="member-avatar">
+				<img alt="" src="assets/team/edelson.jpg" />
+			</div>
+		</article>
+
+
+
 
 
 
