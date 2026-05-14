@@ -202,7 +202,7 @@ Co-founder, Memazing.				</p>
 	</article>
 		
 		<article class="member">
-			<h3 class="member-name">Sandeep Kumar</h3>
+			<h3 class="member-name">Sandeep Kumar, Ph.D.</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
 				2018-2025
@@ -220,7 +220,7 @@ Co-founder, Memazing.				</p>
 		</article>		
 		
 	<article class="member">
-		<h3 class="member-name">Kevin Sean Chen</h3>
+		<h3 class="member-name">Kevin Sean Chen, Ph.D.</h3>
 		<h4 class="member-position">Graduate Student</h4>
 		<p class="member-contact">
 			2017-2024
