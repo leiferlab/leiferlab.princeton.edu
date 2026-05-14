@@ -67,23 +67,6 @@
 
 
 		<article class="member">
-			<h3 class="member-name">Sophie Dvali</h3>
-			<h4 class="member-position">Graduate Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sdvali@princeton.edu">sdvali@princeton.edu</a><br \>
-				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/DvaliSophie">Twitter</a>
-			</p>
-			<p class="member-bio">
-				Sophie is a graduate student in the Physics program and is interested in studying the dynamics of the C. elegans nervous system. She grew up in Munich Germany, before heading to New York University where she graduated with a B.A. in Physics. It was there that she became interested in studying biophysics and computational neuroscience while working on navigational decision making in Drosophila larvae. Beyond research, she enjoys rock climbing, skiing, playing music, and being outdoors.			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/Dvali-Sophie.jpg" />
-				<p>?</p>
-			</div>
-		</article>
-
-
-		<article class="member">
 			<h3 class="member-name">Emily Osborne</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
@@ -162,6 +145,19 @@ Pearl is a graduate student in the Physics department interested in studying the
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
 
+
+			<article class="member">
+				<h3 class="member-name">Sophie Dvali, Ph.D.</h3>
+				<h4 class="member-position">Graduate Student</h4>
+				<p class="member-contact">
+					2019-2026
+				</p>
+				<p class="member-bio">
+Postdoc at Max Planck Institute for Neurobiology of Behavior - CAESAR.				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Dvali-Sophie.jpg" />
+				</div>
+			</article>
 
 			<article class="member">
 				<h3 class="member-name">Junang Li, Ph.D.</h3>
