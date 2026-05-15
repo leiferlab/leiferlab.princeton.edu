@@ -56,7 +56,34 @@
 							</div>
 						</div>
 						<!-- end Item -->
-			
+
+						<!-- Item -->
+						<div class="item">
+							<img src="assets/carousel/lab_2024.jpg" alt="The Leifer Lab group photo in 2024." />
+							<div class="carousel-caption">
+								<p>Leifer Lab circa 2024.</p>
+							</div>
+						</div>
+						<!-- end Item -->
+
+						<!-- Item -->
+						<div class="item">
+							<img src="assets/carousel/sandeep_graduation.jpg" alt="Leifer Lab members celebrating Sandeep Kumar's graduation." />
+							<div class="carousel-caption">
+								<p>Leifer Lab celebrates Sandeep Kumar's graduation and new postdoctoral position at Yale.</p>
+							</div>
+						</div>
+						<!-- end Item -->
+
+						<!-- Item -->
+						<div class="item">
+							<img src="assets/carousel/pumpprobe.jpg" alt="Cell-resolved population neural activity in response to single-neuron optogenetic stimulation in C. elegans." />
+							<div class="carousel-caption">
+								<p>Cell-resolved population neural activity in response to single-neuron optogenetic stimulation reveals how signals flow through the <i>C. elegans</i> nervous system in <a href="https://doi.org/10.1038/s41586-023-06683-4">Randi et al., <i>Nature</i> 2023</a>.</p>
+							</div>
+						</div>
+						<!-- end Item -->
+
 						<!-- Item -->
 						<!--<div class="item">
 							<img src="assets/carousel/colbertSchematic.png" alt="" />
