@@ -27,8 +27,8 @@
 			
 			
 			<div class="span4 newsletter">
-				<a href="http://www.princeton.edu/physics/" title="Department of Physics" target="_blank">
-					<img alt="Department of Physics" src="assets/physics_logo.png">
+				<a href="http://www.princeton.edu/physics/" title="Princeton Physics" target="_blank">
+					<img alt="Princeton Physics" src="assets/physics_logo.png">
 				</a>
 
 			</div>
