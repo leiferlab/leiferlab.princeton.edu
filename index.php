@@ -36,7 +36,7 @@
 
 			  <h3>Andrew Leifer</h3><h4 class="grey"><i>Associate Professor</i></h4>
 			  &nbsp;
-						<p>My research combines experimental techniques from neuroscience, physics, engineering and computer science to study the dynamics of neural circuits in awake moving organisms. We are part of the <a href="http://physics.princeton.edu">Department of Physics</a> and the <a href="pni.princeton.edu">Princeton Neuroscience Institute</a>.  
+						<p>My research combines experimental techniques from neuroscience, physics, engineering and computer science to study the dynamics of neural circuits in awake moving organisms. We are part of the <a href="https://physics.princeton.edu">Department of Physics</a> and the <a href="https://pni.princeton.edu">Princeton Neuroscience Institute</a>.
 					</p>
 
 			</div>
@@ -211,7 +211,7 @@
 
 			<div class="thumbnail equalizeHeight">
 				<!-- image -->
-				<a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank" title="Whole Brain Calcium imaging in freely moving animals" target="_blank">
+				<a href="https://doi.org/10.1073/pnas.1507110112" target="_blank" title="Whole Brain Calcium imaging in freely moving animals" target="_blank">
 					<!--298x186 -->
 					<img src="assets/WholeBrainPaper.png"> 
 				</a>
@@ -220,7 +220,7 @@
 					<!-- icon -->
 					<i class="icon-link"></i>
 					<!-- name -->
-					<b class="project-name">Whole-brain imaging</b>  paper, Ngyuen et. al, is published in  <a href="http://www.pnas.org/content/113/8/E1074.abstract" target="_blank">PNAS</a> and featured in <a href="http://www.pnas.org/content/113/8/1965.full" target="_blank">this commentary</a>.
+					<b class="project-name">Whole-brain imaging</b>  paper, Ngyuen et. al, is published in  <a href="https://doi.org/10.1073/pnas.1507110112" target="_blank">PNAS</a> and featured in <a href="https://doi.org/10.1073/pnas.1524219113" target="_blank">this commentary</a>.
 				</div>
 				<!-- ribbon -->
 				
