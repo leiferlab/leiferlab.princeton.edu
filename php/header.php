@@ -29,7 +29,7 @@ echo '';
 	<meta content="Andrew Leifer" name="author">
 	<meta content="Trustees of Princeton University" name="publisher">
 	
-	<link href="http://www.princeton.edu/main/favicon.ico" rel="shortcut icon">
+	<link href="https://www.princeton.edu/favicon.ico" rel="shortcut icon">
 	
 	<!-- Styles -->
 	<link href="css/style.css" rel="stylesheet">
@@ -41,7 +41,7 @@ echo '';
 	<![endif]-->
 	
 	<!-- Web Fonts  -->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
 
 	<!-- Javascript -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -49,7 +49,7 @@ echo '';
 	
 	<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 	<![endif]-->
 
 

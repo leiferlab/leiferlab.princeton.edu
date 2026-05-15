@@ -27,7 +27,7 @@
 			
 			
 			<div class="span4 newsletter">
-				<a href="http://www.princeton.edu/physics/" title="Princeton Physics" target="_blank">
+				<a href="https://phy.princeton.edu/" title="Princeton Physics" target="_blank">
 					<img alt="Princeton Physics" src="assets/physics_logo.png">
 				</a>
 
