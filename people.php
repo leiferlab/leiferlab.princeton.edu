@@ -43,43 +43,27 @@
 				<img alt="" src="assets/team/sharmaHeadSq.jpg" />
 			</div>
 		</article>
-		
-		
-		
+
 		<article class="member">
-			<h3 class="member-name">Junang Li, Ph.D.</h3>
-			<h4 class="member-position">NSF CPBF Fellow</h4>
+			<h3 class="member-name">Charlie Edelson, Ph.D.</h3>
+			<h4 class="member-position">CPBF Fellow</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailtjunangl:@princeton.edu">junangl@princeton.edu</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailto:ce3721@princeton.edu">ce3721@princeton.edu</a><br \>
+			</p>
 			<p class="member-bio">
-				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
-                
+				Charlie is a fellow in the Center for the Physics of Biological Function, and is an experimental biophysicist broadly interested in how information propagates through biological systems, particularly within sensory systems. He received his Ph.D. in Physics from Indiana University Bloomington in Spring 2024, where he studied how the statistics of natural scenes shape the form and function of optimal motion estimators in both computational and biological contexts. Beyond research, Charlie is an avid mandolin player and enjoys spending time in and around New Jersey's many bodies of water.
+			</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/Junang.jpg" />
+				<img alt="" src="assets/team/edelson.jpg" />
 			</div>
 		</article>
-		
+
+
+
 
 
 
 	
-
-
-		<article class="member">
-			<h3 class="member-name">Sophie Dvali</h3>
-			<h4 class="member-position">Graduate Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:sdvali@princeton.edu">sdvali@princeton.edu</a><br \>
-				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
-				<i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/DvaliSophie">Twitter</a>
-			</p>
-			<p class="member-bio">
-				Sophie is a graduate student in the Physics program and is interested in studying the dynamics of the C. elegans nervous system. She grew up in Munich Germany, before heading to New York University where she graduated with a B.A. in Physics. It was there that she became interested in studying biophysics and computational neuroscience while working on navigational decision making in Drosophila larvae. Beyond research, she enjoys rock climbing, skiing, playing music, and being outdoors.			</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/Dvali-Sophie.jpg" />
-				<p>?</p>
-			</div>
-		</article>
 
 
 		<article class="member">
@@ -163,11 +147,37 @@ Pearl is a graduate student in the Physics department interested in studying the
 
 
 			<article class="member">
+				<h3 class="member-name">Sophie Dvali, Ph.D.</h3>
+				<h4 class="member-position">Graduate Student</h4>
+				<p class="member-contact">
+					2019-2026
+				</p>
+				<p class="member-bio">
+Postdoc at Max Planck Institute for Neurobiology of Behavior - CAESAR.				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Dvali-Sophie.jpg" />
+				</div>
+			</article>
+
+			<article class="member">
+				<h3 class="member-name">Junang Li, Ph.D.</h3>
+				<h4 class="member-position">CPBF Fellow</h4>
+				<p class="member-contact">
+					2022-2026
+				</p>
+				<p class="member-bio">
+First Key Mortgage.				</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Junang.jpg" />
+				</div>
+			</article>
+
+			<article class="member">
 				<h3 class="member-name">Matthew Creamer, Ph.D.</h3>
-			
+
 				<h4 class="member-position">CV Starr Fellow</h4>
 				<p class="member-contact">
-					2019-2025 
+					2019-2025
 				</p>
 				<p class="member-bio">
 Co-founder, Memazing.				</p>
@@ -192,7 +202,7 @@ Co-founder, Memazing.				</p>
 	</article>
 		
 		<article class="member">
-			<h3 class="member-name">Sandeep Kumar</h3>
+			<h3 class="member-name">Sandeep Kumar, Ph.D.</h3>
 			<h4 class="member-position">Graduate Student</h4>
 			<p class="member-contact">
 				2018-2025
@@ -210,7 +220,7 @@ Co-founder, Memazing.				</p>
 		</article>		
 		
 	<article class="member">
-		<h3 class="member-name">Kevin Sean Chen</h3>
+		<h3 class="member-name">Kevin Sean Chen, Ph.D.</h3>
 		<h4 class="member-position">Graduate Student</h4>
 		<p class="member-contact">
 			2017-2024

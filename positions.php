@@ -28,7 +28,7 @@
 
 
 <h2><a name="grad"></a>Graduate Students</h2>
-<p>Prospective grad students should apply to Princeton's PhD programs in either <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> or <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a>.
+<p>Prospective grad students should apply to Princeton's PhD programs in either <a href="https://lsi.princeton.edu/education/graduate-program-biophysics">Biophysics</a>, <a href="https://www.princeton.edu/physics/graduate-program/">Physics</a>, <a href="https://pni.princeton.edu/graduate-program/ph.d.-neuroscience">Neuroscience</a> or <a href="http://lsi.princeton.edu/qcbgraduate/">Quantitative and Computational Biology</a>.
 Current or incoming Princeton graduate students interested in rotating or doing an experimental project should send a CV to <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> to schedule a meeting. </p>
 <hr />
 
@@ -45,7 +45,46 @@ Current or incoming Princeton graduate students interested in rotating or doing 
 
 
 <h2><a name="postdoc"></a>Post-doctoral positions</h2>
-Please email <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> with a CV to enquire about upcoming opportunities.
+
+<h3>Postdoctoral Research Associate &mdash; Custom optical instrumentation for neural measurements</h3>
+
+<p style="font-size: 1.15em;"><strong>&raquo; <a href="https://apply.interfolio.com/186001">Apply now on Interfolio</a></strong></p>
+
+<p>Princeton University is seeking a postdoctoral research associate or a more senior researcher for developing custom optical instruments to measure and manipulate neural dynamics in invertebrates. Specifically, the Leifer Lab seeks a highly motivated applicant with a strong background in the development, deployment and use of custom optical instruments for imaging and/or precision measurement and an interest in studying living systems. The Leifer Lab studies how a biological neural network processes information, performs computation and generates actions. The lab is located within the Department of Physics and the Princeton Neuroscience Institute. The lab performs precision measurements of brain activity and behavior in the nematode <i>C. elegans</i> as well as the fruit fly <i>Drosophila melanogaster</i>.</p>
+
+<p>The ideal candidate is an excellent troubleshooter, with rigorous mathematical and data analysis skills, a proven ability to work independently, and a collaborative mindset. They will be expected to lead their own research projects, contribute to collaborative efforts within the lab, mentor junior researchers, and work collaboratively with other labs on challenging long-term projects.</p>
+
+<p>The term of the appointment is based on rank. Positions at the postdoctoral rank are for one year with the possibility of renewal pending satisfactory performance and continued funding; those hired at a more senior rank may have multi-year appointments.</p>
+
+<p>Salary range: PDRA: $65,000 &ndash; $70,000/year and ARS: $73,700 &ndash; $79,000/year.</p>
+
+<p><strong>Essential qualifications:</strong>
+<ul>
+<li>A doctoral degree in physics, optical engineering, electrical engineering, biophysics, neuroscience or a related STEM field</li>
+<li>Prior experience in the development of scientific instruments</li>
+<li>Prior experience in optics, optical microscopy or imaging</li>
+<li>Prior experience integrating hardware and software</li>
+<li>Fluency in mathematical concepts and manipulations</li>
+<li>Programming skills for acquiring and analyzing data (e.g., Python, LabView or MATLAB)</li>
+<li>Excellent verbal and written communication skills in English</li>
+</ul>
+</p>
+
+<p><strong>Preferred qualifications:</strong>
+<ul>
+<li>History of performing difficult measurements</li>
+<li>Experience in one or more of the following areas of optics or imaging: fluorescent microscopy, two-photon imaging or stimulation, holography using Spatial Light Modulators, fluorescence lifetime imaging, femtosecond lasers</li>
+<li>Familiarity with neuroscience or another life-science field</li>
+<li>A demonstrated ability to use state-of-the-art instruments to address a scientific question</li>
+<li>A demonstrated ability to secure external funding (e.g., travel grants, PhD fellowships)</li>
+</ul>
+</p>
+
+<p><strong>Application instructions:</strong> Applicants must apply online and must include a cover letter, a CV, and contact information for three references; however, letters of reference will only be requested for shortlisted candidates.</p>
+
+<p style="font-size: 1.15em;"><strong>&raquo; <a href="https://apply.interfolio.com/186001">Apply now on Interfolio</a></strong></p>
+
+<p>For inquiries about other postdoctoral opportunities, please email <a href="mailto:leifer@princeton.edu">Andrew Leifer</a> with a CV.</p>
 <!--<p>The lab currently has two searches for postdoctoral positions:</p>
 	
 <h3>Precision measurements of the brain</h3>
