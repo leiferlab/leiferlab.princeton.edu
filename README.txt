@@ -11,7 +11,7 @@ Deploy on Server
 The website is hosted on the server at 
 	gen200l.princeton.edu
 
-The idea is to use a bare repository on princeton's server with a post recieve hook to automatically deploy the website without exposing the .git folder as described in this post: http://toroid.org/ams/git-website-howto 
+The idea is to use a bare repository on princeton's server with a post recieve hook to automatically deploy the website without exposing the .git folder as described in this post: https://web.archive.org/web/20090308125813/http://toroid.org/ams/git-website-howto
 
 
 There is a bare repository located at:
