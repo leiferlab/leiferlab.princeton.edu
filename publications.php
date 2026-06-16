@@ -45,7 +45,7 @@
 <div class="textblock">			
 		<h3><a name="peerreview"></a>Peer-reviewed journal articles</h3>
 		<ul class="publications">
-						<li>Junang Li, Yuzheng Lin, Anuj Kumar Sharma, Andrew M. Leifer, David H. Wolpert, "Estimating amount of computation done by a brain using population neural activity" <a href="https://doi.org/10.48550/arXiv.2504.10300"><i>arXiv</i></a>, arxiv:2504.10300 [q-bio.NC]; 14 April 2025. [<a href="https://arxiv.org/pdf/2504.10300">PDF</a>] Accepted to PNAS.</li>
+						<li>Junang Li, Yuzheng Lin, Anuj Kumar Sharma, Andrew M. Leifer, David H. Wolpert, "Estimating the amount of computation done by a brain using population neural activity" <a href="https://doi.org/10.1073/pnas.2507932123"><i>Proceedings of the National Academy of Sciences</i></a>, 123 (25) e2507932123, 23 June (2026). [<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2507932123">Journal PDF ($)</a>] [<a href="https://arxiv.org/pdf/2504.10300">Preprint PDF</a>]</li>
 						<li>Haoming He, Eugenia King Hin Fong, Sandeep Kumar, Ho Ming Terence Lee, Andrew M. Leifer, Martin Chalfie, Chaogu Zheng, "Synaptic and neural pathway redundancy enables the robustness of a sensory-motor reflex and promotes predation escape in C. elegans," <a href="https://doi.org/10.1073/pnas.2531407123"><i>Proceedings of the National Academy of Sciences</i></a>, 123 (22) e2531407123, 26 May (2026). [<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2531407123"> PDF </a>]</li>
 						<li>Kevin S. Chen, Jonathan W. Pillow*, Andrew M. Leifer*, "State-switching navigation strategies in C. elegans are beneficial for chemotaxis," <a href="https://doi.org/10.48550/arXiv.2508.00191">arXiv</a>:2508.00191 31 July 2025 [<a href="https://arxiv.org/pdf/2508.00191">PDF</a>] Accepted to PNAS.</li>
 						
