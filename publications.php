@@ -117,7 +117,7 @@
 
 		<h3><a name="commentary"></a>Commentary</h3>
 		<ul class="publications">
-			<li>Andrew Leifer, Thierry Emonet, Andrea Liu, , Sidney Robert Nagel, "American science needs an executive branch constrained by checks and balances" <a href="https://doi.org/10.1038/s41567-026-03414-0">Nature Physics</a> (2025). [<a href="https://rdcu.be/fCDGE">free online PDF view</a>]</li>
+			<li>Andrew Leifer, Thierry Emonet, Andrea Liu, , Sidney Robert Nagel, "American science needs an executive branch constrained by checks and balances" <a href="https://doi.org/10.1038/s41567-026-03414-0"><i>Nature Physics</a></i> 22, 1364–1365 (2026). [<a href="https://rdcu.be/fCDGE">free online PDF view</a>]</li>
 			<li>Andrew M. Leifer, Andrea J. Liu, , Sidney R. Nagel, "US researchers must stand up to protect freedoms, not just funding." <a href="https://doi.org/10.1038/d41586-025-01466-5">Nature</a> 641, 592–593 (2025). [<a href="https://www.nature.com/articles/d41586-025-01466-5.epdf?sharing_token=pV3sM687NGpbM0TiR8kcCtRgN0jAjWel9jnR3ZoTv0NyXwU6B1187oTe7y4mvF7Bi0LS_HaQIKDfLcL16-5owEmSPDqCFYxxmXRU-JUJE3S6b1IYQSX4ZmAUz83gYbXZsDf36WPAbf4Pmy1ZGFBBYKGBerfq-stw1PwADefi6F4%3D">free online PDF view</a>] </li>
 							
 		</ul>
