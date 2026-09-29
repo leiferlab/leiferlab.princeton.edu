@@ -15,6 +15,7 @@
 			<li><a href="#preprint">Manuscripts in the process of peer-review</a></li>
 			<li><a href="#peerreview">Peer-reviewed journal articles</a></li> 
 			<li><a href="#commentary">Commentary</a></li> 
+			<li><a href="#textbook">Textbooks</a></li>
 			<li><a href="#pop">Popular press articles featuring our work</a></li>
 			<li><a href="#vid">Video Recorded Lectures</a></li>
 			<li><a href="#slides">Lecture slides</a></li>
@@ -125,6 +126,16 @@
 
 	<hr />
 	
+	<div class="textblock">
+
+		<h3><a name="textbook"></a>Textbooks</h3>
+		<ul class="publications">
+			<li>Ross Dempsey and Andrew M. Leifer, <a href="https://press.princeton.edu/books/paperback/9780691260549/undergraduate-physics">Undergraduate Physics: Four Years in One</a>. Princeton University Press. Arriving Summer 2027.</li>
+							
+		</ul>
+	</div>
+
+	<hr />
 
 <div class="textblock">
 
